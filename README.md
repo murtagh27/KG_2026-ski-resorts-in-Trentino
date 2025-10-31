@@ -1,0 +1,1 @@
+# KG_2026-ski-resorts-in-Trentino
