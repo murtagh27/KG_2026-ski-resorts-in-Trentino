@@ -1,0 +1,81 @@
+\section{Knowledge Definition}
+
+This section describes the Knowledge Definition phase, where the formal knowledge structure (teleology) is defined by composing ontology fragments and aligning them to the Knowledge Teleontology (KTLO).
+
+\subsection{Knowledge Layer}
+
+\subsubsection{Teleology Definition}
+
+The teleology was composed from existing ontology fragments and enriched with custom fragments where no suitable reference existed.
+
+\begin{table}[h!]
+\centering
+\small
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{Fragment Source} & \textbf{Etypes Reused} & \textbf{Notes} \\
+\hline
+Schema.org (SkiResort) & SkiResort & Extended with altitude\_min/max \\
+Schema.org (LodgingBusiness) & Hotel & Used as-is \\
+Schema.org (FoodEstablishment) & Restaurant & Used as-is \\
+Schema.org (Store) & RentalShop & Extended for ski rental \\
+OSM Piste Schema & SkiSlope & Mapped to language terms \\
+OSM Aerialway Schema & SkiLift & Mapped to liftType, capacity \\
+Geospatial Ontology & Coordinate, Municipality & Used as-is \\
+\textbf{Custom (new)} & SkiPass & Created from scratch \\
+\textbf{Custom (new)} & SkiSchool & Created from scratch \\
+\hline
+\end{tabular}
+\caption{Ontology fragments used in teleology composition.}
+\end{table}
+
+\noindent The resulting OWL ontology (\texttt{ski\_resorts\_trentino.ttl}) uses the namespace \texttt{http://skiresorts-trentino.2026.kg/ontology\#} and defines 10 classes, 7 object properties, and 19 data properties.
+
+\subsubsection{KTLO Alignment}
+
+\begin{table}[h!]
+\centering
+\small
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{Etype} & \textbf{KTLO Parent} & \textbf{Method} \\
+\hline
+SkiResort & schema:SkiResort $\rightarrow$ schema:SportsActivityLocation & Direct \\
+SkiSlope & \textit{Free etype} (under schema:Place) & Enriched \\
+SkiLift & \textit{Free etype} (under schema:CivicStructure) & Enriched \\
+SkiPass & \textit{Free etype} (under schema:Offer) & Enriched \\
+SkiSchool & schema:EducationalOrganization & Direct \\
+Hotel & schema:LodgingBusiness & Direct \\
+Restaurant & schema:FoodEstablishment & Direct \\
+RentalShop & schema:Store & Direct \\
+Municipality & schema:AdministrativeArea & Direct \\
+Coordinate & geo:Point $\rightarrow$ geo:SpatialThing & Direct \\
+\hline
+\end{tabular}
+\caption{Etype alignment to KTLO.}
+\end{table}
+
+\noindent All 7 object properties were aligned to Schema.org parents (e.g., \texttt{hasSlope} $\rightarrow$ \texttt{schema:containsPlace}, \texttt{locatedIn} $\rightarrow$ \texttt{schema:containedInPlace}, \texttt{hasSkiPass} $\rightarrow$ \texttt{schema:makesOffer}). All 19 data properties were aligned, with only \texttt{difficulty} requiring enrichment as a free property.
+
+\subsection{Data Layer}
+
+The cleaned datasets from Phase 2 were already aligned with the knowledge structure. Column names match finalized data property terms, entity IDs follow the naming convention, and datatypes are consistent with the teleology specification. No additional reshaping was needed.
+
+\subsection{Evaluation -- Knowledge Definition}
+
+\begin{table}[h!]
+\centering
+\small
+\begin{tabular}{|l|c|c|c|c|l|}
+\hline
+\textbf{Resource} & \textbf{Initial} & \textbf{Final} & \textbf{From Ref.} & \textbf{Aligned} & \textbf{Notes} \\
+\hline
+Etypes & 10 & 10 & 6 & 10 & 3 free etypes, 1 free property \\
+Obj. Properties & 7 & 7 & -- & 7 & All aligned \\
+Data Properties & 19 & 19 & -- & 18 & 1 enriched (difficulty) \\
+\hline
+\end{tabular}
+\caption{Knowledge Definition evaluation.}
+\end{table}
+
+\noindent No changes were required to the Purpose Definition or Language Definition phases. The teleology structure successfully captures all concepts identified in Phase 1 and aligned in Phase 2.

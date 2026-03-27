@@ -1,0 +1,135 @@
+\section{Purpose Definition}
+
+\subsection{Purpose Formalization}
+
+\subsubsection{Scenarios Definition}
+
+Five usage scenarios were defined, each describing a distinct aspect of the project purpose:
+
+\begin{enumerate}
+    \item \textbf{Winter Holiday Planning}: Marco Bianchi and his girlfriend are planning a week-long ski vacation in Trentino during February. They want to compare different ski resorts based on the number and difficulty of slopes, available lifts, and proximity to hotels and restaurants. They are intermediate-level skiers looking for a resort with a good mix of blue and red slopes.
+
+    \item \textbf{Family Ski Trip}: Elena Fischer and her family (husband and two children aged 6 and 10) are looking for a family-friendly ski resort in Trentino for the Christmas holidays. They need a resort with a ski school for beginners, easy (blue) slopes for the children, and kid-friendly facilities. Equipment rental is essential since the children are still growing.
+
+    \item \textbf{Expert/Competitive Skiing}: Luca Martinelli is an advanced skier who visits Trentino every winter. He specifically looks for resorts with challenging black slopes, modern high-capacity lift systems, and snow parks. He wants to know which resorts have the highest altitude and the most vertical drop.
+
+    \item \textbf{Budget Student Trip}: Sofia Novak, a 22-year-old Erasmus student in Trento, wants to organize a budget-friendly weekend ski trip with friends. She needs to find the most affordable ski pass options, cheap equipment rental shops, and budget accommodation near the slopes.
+
+    \item \textbf{Accessibility \& Logistics}: Thomas Weber, a 55-year-old tourist from Germany with mobility concerns, wants to find ski resorts that are easily accessible, with gondola lifts (rather than drag lifts) and hotels at low altitude. He also wants to know which resorts have medical facilities nearby.
+\end{enumerate}
+
+\subsubsection{Personas}
+
+\begin{enumerate}
+    \item \textbf{Marco Bianchi} -- 28-year-old software engineer from Milan. Intermediate skier who travels to Trentino 2--3 times per winter season with his girlfriend. Values a balanced resort experience with good dining options.
+
+    \item \textbf{Elena Fischer} -- 38-year-old schoolteacher from Innsbruck, Austria. Experienced skier whose priority is finding safe, child-appropriate ski environments. Values ski schools with qualified instructors.
+
+    \item \textbf{Luca Martinelli} -- 32-year-old professional ski instructor from Trento. Knows the local ski scene well but uses the KG to discover less-known resorts with expert terrain. Interested in slope statistics and lift infrastructure quality.
+
+    \item \textbf{Sofia Novak} -- 22-year-old university student from Bratislava, currently studying at the University of Trento on Erasmus. First winter in the Alps with limited skiing experience. Budget is her primary constraint.
+
+    \item \textbf{Thomas Weber} -- 55-year-old retired engineer from Munich, Germany. Lifelong skier but recent knee surgery limits him to gentle slopes. Values accessibility information and prefers gondola lifts.
+\end{enumerate}
+
+\subsubsection{Competency Questions (CQs)}
+
+\begin{table}[h!]
+\centering
+\small
+\begin{tabular}{|l|l|p{10cm}|}
+\hline
+\textbf{Persona} & \textbf{CQ\#} & \textbf{Question} \\
+\hline
+Marco & 1.1 & Which ski resorts are available in the Trentino region? \\
+Marco & 1.2 & What slopes (and their difficulty levels) does ski resort X have? \\
+Marco & 1.3 & Which restaurants are located near ski resort X? \\
+Marco & 1.4 & Where can I find a hotel near ski resort X? \\
+Marco & 1.5 & What ski lifts are available at ski resort X and what type are they? \\
+Marco & 1.6 & What is the altitude range (min/max elevation) of ski resort X? \\
+\hline
+Elena & 2.1 & Which ski resorts have a ski school for beginners? \\
+Elena & 2.2 & Which ski resorts have easy (blue) slopes suitable for children? \\
+Elena & 2.3 & Where can I rent ski equipment near ski resort X? \\
+Elena & 2.4 & Which hotels near ski resort X offer family rooms? \\
+Elena & 2.5 & What is the price of a ski pass at ski resort X? \\
+\hline
+Luca & 3.1 & Which ski resorts have black (expert) slopes? \\
+Luca & 3.2 & Which ski resort has the most slopes? \\
+Luca & 3.3 & What is the total number of ski lifts at each resort? \\
+Luca & 3.4 & Which resorts have snow parks for freestyle skiing? \\
+Luca & 3.5 & What is the vertical drop (altitude difference) of ski resort X? \\
+\hline
+Sofia & 4.1 & Which ski resort has the cheapest ski pass? \\
+Sofia & 4.2 & Where can I rent ski equipment at the lowest price? \\
+Sofia & 4.3 & Which budget hotels or hostels are near ski resorts? \\
+Sofia & 4.4 & Can I reach ski resort X by public transport from Trento? \\
+\hline
+Thomas & 5.1 & Which ski resorts have gondola or cable car lifts? \\
+Thomas & 5.2 & Which ski resorts have parking facilities? \\
+Thomas & 5.3 & Which hotels are at low altitude near ski resorts? \\
+Thomas & 5.4 & Are there restaurants near ski resort X that are easily accessible? \\
+Thomas & 5.5 & What medical facilities or pharmacies are near ski resort X? \\
+\hline
+\end{tabular}
+\caption{Competency Questions derived from personas and scenarios.}
+\label{tab:cqs}
+\end{table}
+
+\subsubsection{Concept Identification}
+
+From the competency questions, the following entity types and properties were identified, classified using popularity categories (Common, Core, Contextual):
+
+\begin{table}[h!]
+\centering
+\small
+\begin{tabular}{|l|p{6cm}|l|}
+\hline
+\textbf{Etype} & \textbf{Description} & \textbf{Classification} \\
+\hline
+SkiResort & A ski resort/area in Trentino & Common \\
+SkiSlope & An individual ski slope/piste & Contextual \\
+SkiLift & A lift system at a ski resort & Contextual \\
+SkiPass & Ski pass/ticket pricing info & Contextual \\
+SkiSchool & A ski school operating at a resort & Contextual \\
+Hotel & Accommodation near ski areas & Core \\
+Restaurant & Dining establishment near ski areas & Core \\
+RentalShop & Equipment rental shop & Core \\
+Municipality & A municipality/town in Trentino & Common \\
+Coordinate & Geographic coordinates & Common \\
+\hline
+\end{tabular}
+\caption{Entity types with classification.}
+\label{tab:etypes}
+\end{table}
+
+\noindent\textbf{Object Properties} (7 total): \texttt{hasSlope}, \texttt{hasLift}, \texttt{hasSkiPass}, \texttt{hasSkiSchool} (SkiResort $\rightarrow$ contextual entities), \texttt{locatedIn} (all $\rightarrow$ Municipality), \texttt{nearResort} (Hotel/Restaurant/RentalShop $\rightarrow$ SkiResort), \texttt{hasCoordinates} (all $\rightarrow$ Coordinate).\\
+
+\noindent\textbf{Data Properties} (19 total): \texttt{name}, \texttt{altitude}, \texttt{altitudeMin}, \texttt{altitudeMax}, \texttt{difficulty}, \texttt{lengthKm}, \texttt{liftType}, \texttt{capacity}, \texttt{starRating}, \texttt{price}, \texttt{cuisine}, \texttt{phone}, \texttt{website}, \texttt{email}, \texttt{osmId}, \texttt{latitude}, \texttt{longitude}, \texttt{address}, \texttt{postcode}.
+
+\subsubsection{ER Model Definition}
+
+The ER model centers on two main common entities: \textbf{SkiResort} (the primary hub connecting slopes, lifts, passes, and schools) and \textbf{Municipality} (the geographic anchor linking resorts to their location context). Connected to SkiResort are contextual entities (SkiSlope, SkiLift, SkiPass, SkiSchool), while core entities (Hotel, Restaurant, RentalShop) connect to both Municipality via \texttt{locatedIn} and to SkiResort via \texttt{nearResort}. The common entity Coordinate stores latitude/longitude and is referenced by most entities via \texttt{hasCoordinates}.
+
+\subsection{Evaluation -- Purpose Definition}
+
+\begin{table}[h!]
+\centering
+\small
+\begin{tabular}{|l|c|c|l|}
+\hline
+\textbf{Resource} & \textbf{Initially} & \textbf{Finally} & \textbf{Notes} \\
+\hline
+Scenarios & 5 & 5 & All retained \\
+Personas & 5 & 5 & All retained \\
+CQs & 25 & 25 & All retained \\
+Etypes & 10 & 10 & All retained \\
+Object Properties & 7 & 7 & All retained \\
+Data Properties & 19 & 19 & All retained \\
+\hline
+\end{tabular}
+\caption{Purpose Definition evaluation summary.}
+\label{tab:purpose-eval}
+\end{table}
+
+\noindent No formatting or transformation was done at this stage. The \texttt{nearResort} relationship requires spatial computation (distance thresholds), deferred to Phase 2. Some ski resorts span multiple municipalities, which may complicate the \texttt{locatedIn} relationship. Three entity types (SkiPass, SkiSchool, Municipality) were identified as potentially difficult to populate from open data sources.

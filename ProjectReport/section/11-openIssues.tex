@@ -1,0 +1,35 @@
+\section{Open Issues}
+
+This section concludes the report with final conclusions and a description of the issues that remained open.
+
+\subsection{Project Schedule}
+
+The project was completed within the expected timeframe, following the iTelos methodology phases sequentially. All four phases (Purpose Definition, Language Definition, Knowledge Definition, Entity Definition) were executed, along with evaluation and metadata definition.
+
+\subsection{Purpose Satisfaction}
+
+The final KG \textbf{partially satisfies} the initial purpose. Out of 25 Competency Questions, 9 are fully answerable (36\%), 7 are partially answerable (28\%), and 9 cannot be answered (36\%). The KG successfully covers the core aspects of ski resorts, slopes, lifts, hotels, restaurants, and rental shops. However, the following parts of the purpose remain uncovered:
+\begin{itemize}
+    \item \textbf{Ski pass pricing}: SkiPass entities exist in the ontology but have no data, as OSM does not store pricing information.
+    \item \textbf{Ski schools}: SkiSchool entities are defined but unpopulated due to lack of structured data.
+    \item \textbf{Budget-oriented queries}: Sofia's persona (budget student) is the least served, as the KG lacks price comparisons for passes, rentals, and accommodation.
+    \item \textbf{Accessibility and logistics}: Thomas's persona is partially served; public transport, parking, and medical facility data are not available from OSM.
+\end{itemize}
+
+\subsection{Open Issues}
+
+\begin{enumerate}
+    \item \textbf{Unpopulated entity types}: SkiPass, SkiSchool, and Municipality entities are defined in the ontology but lack data. \textit{Proposed solution}: Web scraping of official resort websites for pricing and school information; ISTAT data for municipality details.
+
+    \item \textbf{Limited rental shop data}: Only 16 ski rental shops were found on OSM. \textit{Proposed solution}: Supplementation via Google Maps API or manual data collection from resort directories.
+
+    \item \textbf{Sparse attribute coverage}: Many hotels lack star ratings ($\sim$24\% coverage), restaurants lack cuisine type ($\sim$31\%), and contact information (phone, website) is sparse. \textit{Proposed solution}: Cross-referencing with booking platforms or official tourism databases.
+
+    \item \textbf{Altitude data for resorts}: The \texttt{altitudeMin} and \texttt{altitudeMax} properties are defined but not populated from OSM. \textit{Proposed solution}: Compute from elevation data of associated slopes and lifts, or scrape resort websites.
+
+    \item \textbf{Spatial proximity approximation}: The \texttt{nearResort} relationship relies on Haversine distance thresholds (15--20km). In areas with dense resort clusters, this may produce incorrect associations. \textit{Proposed solution}: Use administrative boundaries or official resort area polygons for more precise association.
+
+    \item \textbf{Missing transport and accessibility data}: Public transport connections, parking facilities, and medical facility information are not available from OSM. \textit{Proposed solution}: Integration with Trentino Trasporti open data and provincial health service directories.
+
+    \item \textbf{Temporal data}: The KG represents a snapshot of 2026 data. Ski resort infrastructure changes seasonally and yearly. \textit{Proposed solution}: Implement periodic data refresh and versioning in future iterations.
+\end{enumerate}

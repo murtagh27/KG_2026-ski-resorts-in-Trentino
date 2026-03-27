@@ -1,0 +1,223 @@
+resortId,osmId,name,municipality,website,phone,operator,latitude,longitude
+1,244899868,Skigebiet Ratschings Jaufen,,,,,46.8529488,11.3034909
+2,320974325,Kronplatz - Plan de Corones,,,,,46.7723826,11.9412494
+3,325117827,Obereggen,,,,,46.3836787,11.5265894
+4,595581141,Millegrobbe,,,,,45.935989,11.3201384
+5,2755977739,Sport Schenk,Sëlva - Wolkenstein in Gröden - Selva di Val Gardena,www.sportschenk.it,+39 0471 795238,Ruth Schenk,46.5536966,11.7618774
+6,3090948288,Lavazè,,,,,46.3548563,11.4924717
+7,5316633023,albl,,,+39 333 1704059,,46.5138375,10.9338183
+8,8078067992,Noleggio Sci Peio dai Maestri,Peio Fonti,https://www.noleggioscipeio.com/,+39 0463 753040,,46.3561707,10.6627901
+9,8897189932,Centro Sci di Fondo Chinaec,Ledro,,,,45.9287059,10.7369847
+10,11528521587,Alta Badia Shop & Rental,,https://altabadiasport.it,+390471847616,,46.5837277,11.9034247
+11,12592471812,Centro Fondo Passo Coe,Passo coe Folgaria,https://www.supernordicskipass.it/#/snsCenter/265/Centro%20Fondo%20Passo%20Coe,+39 0464 720538,,45.8762511,11.2189778
+12,12741878683,Sport Thöni,,https://www.sportthoeni.com,+39 0473 613080,,46.5199054,10.5962964
+13,13045817493,Centro Fondo Millegrobbe,Luserna,https://www.malgamillegrobbe.it/it/attivita-inverno/centro-fondo,,,45.9364323,11.3201161
+14,13152267587,Sci Club Valcampelle ASD,Scurelle,https://www.sciclubvalcampelle.it/,,,46.0639446,11.5068476
+15,13152345235,Ski Revolution,,https://skirevolution.it,+393338068887,,46.1155948,11.6605405
+16,13410766401,Centro fondo Val Campelle,Scurelle,,,,46.1473762,11.5173059
+17,13542749901,Centro di fondo Vallunga,,https://www.suedtirol-dolomites.com/en/dolomites/winter/val-gardena/cross-country-skiing/cross-country-centre.html,,,46.5616942,11.7717249
+18,22789203,16 Saxner II,,,,,46.8457211,11.2891164
+19,22789291,Saxner I,,,,,46.8454402,11.2897366
+20,22789301,Wasserfalleralm - Malga Cascata,,,,,46.8434605,11.2983945
+21,24987937,Avez del Prinzep,,,,,45.953232,11.3097602
+22,30804946,22 Frommer,,,,,46.4415328,11.5976153
+23,30804947,24 Laurin I,,,,,46.4389803,11.5763565
+24,42689120,Orso Bruno,,,,,46.2804038,10.823509
+25,50844773,Busa del Vigo,,,,,46.2768585,10.8318141
+26,50845485,Malghette,,,,,46.2691002,10.8307154
+27,51553591,Laner,,,,,46.3697868,11.532236
+28,51553597,Ochsenweide,,,,,46.3789682,11.5284283
+29,51558959,Maierl,,,,,46.3650609,11.5393854
+30,51646819,Absam,,,,,46.3627977,11.5395181
+31,52390077,Verbindung Wasserfalleralm-Enzian,,,,,46.8461298,11.295605
+32,52624810,Saxner II,,,,,46.8447194,11.2869404
+33,52624813,Waldabfahrt,,,,,46.8553708,11.2985403
+34,88601299,Muro Bucaneve,,,,,45.785509,10.922316
+35,88601300,Cronel,,,,,45.7813728,10.9230579
+36,88601304,Campeggio,,,,,45.7864037,10.9238156
+37,88601311,Intermedia,,,,,45.7807117,10.9237772
+38,88601320,Vallette,,,,,45.7803981,10.9244695
+39,90938852,Cacciatori 2,,,,,46.1479943,11.018174
+40,90938854,Olimpionica 3,,,,,46.1457633,11.023548
+41,90938856,Rindole,,,,,46.1610017,11.0080731
+42,90938858,Olimpionica 2 (H),,,,,46.151037,11.0198779
+43,90938859,Olimpionica 1,,,,,46.1545874,11.010747
+44,90938860,Cacciatori 1,,,,,46.1569668,11.0100885
+45,90940506,Sant'Antonio 1,,,,,46.1402497,11.015689
+46,91036485,Gaggia,,,,,46.1596379,11.0038162
+47,91036487,Laghet,,,,,46.1613065,11.003553
+48,91095431,Dosso Larici,,,,,46.1564185,11.0436162
+49,91095433,Traliccio,,,,,46.146875,11.0291172
+50,91095434,Tre-Tre (selletta),,,,,46.149059,11.0307327
+51,91095435,La Rocca,,,,,46.1693334,11.050902
+52,91095437,Panoramica,,,,,46.1437995,11.0379272
+53,91095443,Nuvola Rossa,,,,,46.1575128,11.0478154
+54,91097045,Salare,,,,,46.1416502,11.0196943
+55,91097052,Skiweg conca d'argento,,,,,46.1408724,11.0222153
+56,96579228,Ust,,,,,45.9562755,11.2902495
+57,96579231,Bertoldi,,,,,45.9509067,11.2725415
+58,96579232,Le Stock,,,,,45.9511812,11.270516
+59,96579233,Tablat,,,,,45.9498799,11.2702033
+60,96579235,Sonneck,,,,,45.9514269,11.2780429
+61,96693485,Skiweg Nannufaro,,,,,45.9556381,11.2996934
+62,99685095,Diretta Bucaneve,,,,,45.7835527,10.9176792
+63,100064158,12 Enzian II,,,,,46.8446928,11.3003442
+64,101713915,28,,,,,46.8177747,11.6621741
+65,101713918,Family Slope,,,,,46.8285857,11.6656344
+66,101713924,26,,,,,46.8523673,11.68303
+67,101713926,27,,,,,46.812074,11.6575745
+68,101713927,Gitsch,,,,,46.855726,11.68701
+69,101713947,24,,,,,46.8446103,11.6819073
+70,101713959,Nesselwiese,,,,,46.8417066,11.677594
+71,101787475,Jochtal Talabfahrt,,,,,46.847071,11.6109176
+72,101787477,Hinterberg,,,,,46.8409125,11.5999593
+73,101787479,Schwandt,,,,,46.8454064,11.6381515
+74,101787481,Tasa,,,,,46.8408589,11.6303129
+75,101787484,Sonnenhang,,,,,46.8402081,11.5982387
+76,101787485,Seepiste,,,,,46.839957,11.5989851
+77,101787486,Mitterling,,,,,46.8456978,11.602768
+78,103118890,Sant'Antonio 2,,,,,46.1390493,11.0188164
+79,103118901,Paganella 2,,,,,46.1458845,11.0030932
+80,103308853,Vezzena,,,,,45.9553825,11.3234968
+81,107041750,Ometto 2,,,,,46.2787005,10.8196645
+82,107041759,Panciana,,,,,46.2944078,10.816034
+83,107041760,Nera Marilleva,,,,,46.2953596,10.8121299
+84,142074618,Schilling,,,,,46.8481204,11.6289446
+85,142778386,Plankenhorn,,,,,46.6911532,11.4305316
+86,142778387,Schoneben,,,,,46.6923419,11.431767
+87,142778390,Joch,,,,,46.6998479,11.4492312
+88,145010643,Variante Oberholz,,,,,46.3740543,11.5364224
+89,147141120,Prà Alpesina,,,,,45.7593473,10.8717535
+90,147218267,Morgenrast,,,,,46.702322,11.4469257
+91,147218268,Pendio ripido,,,,,46.70249,11.4542901
+92,147218269,Pfnatsch,,,,,46.6997235,11.4469614
+93,147218270,Pichlberg,,,,,46.6975453,11.4483051
+94,152034006,Breiteben,,,,,46.8479029,11.6854772
+95,152034009,Steinermandl,,,,,46.836399,11.5964987
+96,152034010,Restaurant,,,,,46.8437488,11.5991498
+97,152034012,Segerwiese,,,,,46.8400486,11.6852489
+98,152034015,Wastl Huber,,,,,46.8388291,11.6834053
+99,154714041,Falzeben 2,,,,,46.6764679,11.2521732
+100,154950322,Kesselberg 1 - Costa Valcanova 1,,,,,46.6884762,11.2929513
+101,154950324,Kesselberg 2 - Costa Valcanova 2,,,,,46.688833,11.29254
+102,154950330,Mittager 1 - Catino 1,,,,,46.6818834,11.2920111
+103,154950333,Mittager 2 - Catino 2,,,,,46.684075,11.2848432
+104,154950342,Oswald 1 - Osvaldo 1,,,,,46.6884869,11.2757074
+105,154950351,Oswald 2 - - Osvaldo 2,,,,,46.688586,11.2769137
+106,155220974,Oswald 2,,,,,46.6862219,11.279936
+107,179150279,Prà delle Nasse DX,,,,,46.264173,11.7975223
+108,179202070,Verbindung Wasserfalleralm-Enzian - Collegamento Malga Cascata-Enzian,,,,,46.8474791,11.2995759
+109,179202073,Blosegg,,,,,46.8560969,11.3040255
+110,180184885,3,,,,,46.5662724,10.5051593
+111,180184886,5,,,,,46.5710854,10.4994364
+112,180184887,7,,,,,46.569245,10.5038574
+113,181514508,Rivetta,,,,,45.957108,11.3143355
+114,184435029,Cordela,,,,,46.0421598,11.0632089
+115,184435031,Palon,,,,,46.0273199,11.0576909
+116,184435032,Pinot,,,,,46.0480692,11.0684206
+117,184435035,Gran Pista,,,,,46.034766,11.0460044
+118,184435037,3-Tre Vaneze,,,,,46.048283,11.0697649
+119,184641972,3-Tre Panoramica,,,,,46.0397512,11.0673822
+120,184818579,Lavaman,,,,,46.0419654,11.0674426
+121,184818581,Palon Direttissima,,,,,46.027924,11.0573092
+122,184818585,Boardercross Monte Bondone,,,,,46.042086,11.0685958
+123,184818586,Topolino,,,,,46.0431238,11.0693398
+124,184819120,Canalon Variante Gare,,,,,46.0347281,11.0582638
+125,198372895,Skiweg lo Scoiattolo,,,,,46.1436665,11.0146322
+126,203774864,Olimpionica 2,,,,,46.1465026,11.0227397
+127,215041787,Nordisches Skizentrum Schlinig - Centro sci nordico Slingia,,http://langlaufen-vinschgau.com/nordisches-skizentrum-schlinig/,,,46.7063761,10.468819
+128,227342281,Campo Scuola Rolly Marchi,,,,,46.1610903,11.0507424
+129,227347793,Snowpark Dosson,,,,,46.1520115,11.0178132
+130,243640148,Skiweg Fossadei - Cioca 2,,,,,46.1728349,10.7983049
+131,266616285,Loipe Panider Sattel - Pista Passo Pinei,,,,,46.5782312,11.6185469
+132,278003886,Le Cogole,,,,,45.9569426,11.2884577
+133,278118272,Baby,,,,,45.9591178,11.3140117
+134,278118274,Skiweg Laghetto,,,,,45.956644,11.2956427
+135,278118276,Lait primi passi 1-2,,,,,45.9596761,11.3146471
+136,278118280,Skiweg Vivaio,,,,,45.9561101,11.2977545
+137,307890418,Sghirlat,,,,,46.2845983,10.8228427
+138,320339196,Doss della Pesa / Ometto,,,,,46.2817307,10.8209325
+139,320340256,junction,,,,,46.2797975,10.8151461
+140,320340816,(24) Skiweg Panciana,,,,,46.2885335,10.8165165
+141,320359740,Pancianina,,,,,46.2875858,10.8210887
+142,320372929,Biancaneve,,,,,46.3002025,10.8089141
+143,334817747,Carezza,,https://carezza.it/,,,46.420563,11.5803171
+144,335031400,Vigo di Fassa - Ciampedie,,https://www.fassa.com/de/lifte-und-pisten/skigebiete/catinaccio,,,46.4322016,11.6701131
+145,336062441,Brentonico,,https://www.brentonicoski.com,,,45.7802679,10.9318564
+146,336229660,Folgaria,,https://www.alpecimbra.it/de/skigebiet-alpe-cimbra/lavarone-folgaria-skigebiet/46-0.html,,,45.8960677,11.2109816
+147,336234488,Monte Bondone,,https://www.skimontebondone.it/,,,46.0390593,11.0538542
+148,336236243,Paganella,,https://www.paganella.net/,,,46.1574157,11.0248602
+149,540659516,Seiser Alm - Mont de Sëuc - Alpe di Siusi,,https://www.seiseralm.it/,,,46.54127,11.6269029
+150,540697973,Gitschberg Jochtal,,https://www.gitschberg-jochtal.com,,,46.8346933,11.6410017
+151,540700967,Brixen Plose - Plose di Bressanone,,https://www.plose.org/,,,46.6881476,11.7142161
+152,540707095,Ski Center Lavarone,,https://www.alpecimbra.it/de/skigebiet-alpe-cimbra/lavarone-folgaria-skigebiet/46-0.html,,,45.9541555,11.2947499
+153,540714397,Campiglio Dolomiti di Brenta,,https://www.funiviecampiglio.it/,,,46.2368902,10.8495997
+154,540714398,Folgarida-Marilleva,,https://www.visittrentino.info/en/trentino/ski-areas/alpine-skiing/folgarida-marilleva-skiarea-campiglio-dolomiti-di-brenta-val-di-sole-val-rendena_md_2211,,,46.2917733,10.8374977
+155,540714830,Pinzolo,,https://www.pinzolo.it/,,,46.1754198,10.791353
+156,542210741,Klausberg - Monte Chiusetta,,,,,46.9785227,11.9808023
+157,542210742,Rein in Taufers - Riva di Tures,,https://www.ahrntal.com/de/winterurlaub-im-ahrntal/skigebiete/skigebiet-rein-in-taufers.html,,,46.9509944,12.0622801
+158,542210743,Speikboden,,https://www.skiworldahrntal.it/,,,46.9344366,11.8991929
+159,542223677,Latemar Dolomites,,https://www.latemar.it/,,,46.3554644,11.5613374
+160,542227211,Ski Area San Pellegrino - Falcade,,https://www.skiareasanpellegrino.it/,,,46.3672341,11.8190574
+161,542227215,Ski Area Alpe Lusia,,http://www.skiareaalpelusia.it/,,,46.3402097,11.7018127
+162,542230189,Passo Rolle,,https://www.sanmartino.com,,,46.295935,11.7882335
+163,542230191,San Martino di Castrozza,,https://www.sanmartino.com,,,46.254003,11.7924392
+164,542233365,Passo Stelvio,,https://passostelvio.eu/,,S.I.F.A.S. - Società Impianti Funiviari Allo Stelvio S.p.A.,46.5120357,10.4629111
+165,542233865,Pejo 3000,,https://www.skipejo.it/,,,46.37207,10.6509876
+166,542234274,Trafoi,,https://www.ortlerskiarena.com/de/skigebiete/vinschgau/trafoi-am-ortler.html,,,46.5637647,10.5034446
+167,542234714,Sulden am Ortler - Solda al Ortles,,https://www.seilbahnensulden.it/,,,46.5073974,10.5989742
+168,542235880,Ponte di Legno - Passo Tonale,,https://www.pontedilegnotonale.com/,,,46.2559682,10.5310392
+169,542238137,Alpe Cermis,,https://www.alpecermis.it/,,,46.2602172,11.4846396
+170,542239467,Val Senales-Schnalstal,,https://www.schnalstal.com/,,,46.7718163,10.7867288
+171,560769473,Pista 1 (SX),,,,,46.0287772,10.7322897
+172,560769474,Pista 2 (DX),,,,,46.0278874,10.733372
+173,567920635,1,,,,,46.8463769,11.6307535
+174,601130440,Kaunertaler Gletscher,,https://www.kaunertaler-gletscher.at,,,46.8680603,10.7063634
+175,642554159,21,,,,,46.8475427,11.6791525
+176,653944640,Schöneben - Belpiano,,https://www.schoeneben.it,,,46.794364,10.503946
+177,660266697,Lupetto,,,,,46.1443338,11.0061118
+178,665201245,Rosskopf,,https://www.rosskopf.com/,,,46.9071973,11.4077514
+179,674403594,Jöchl,,,,,46.8457605,11.6018099
+180,768717600,30 Tschein,,,,,46.4378195,11.5986304
+181,771293224,Diretta Prà Alpesina,,,,,45.7611833,10.8738532
+182,849532245,Gaisraste,,,,,46.8399602,11.6776487
+183,874580171,Panorama,,,,,46.8359446,11.595272
+184,874580172,Gimmy Fun Ride,,,,,46.8395675,11.5936808
+185,909762715,Terenten - Terento,,https://skilift-terenten.com/,,,46.8339894,11.7806107
+186,909762716,Antermoia,,,,,46.6901544,11.8457347
+187,1030872814,Jochgrimm,,https://jochgrimm.com,,,46.3452135,11.4466223
+188,1033549864,Petersberg - Monte San Pietro,,,,,46.3932159,11.3882263
+189,1033549865,Deutschnofen - Nova Ponente,,,,,46.4036642,11.442486
+190,1033549866,Passo Lavazè,,https://www.visitfiemme.it/en/more-info/fiemme/all-fiemme/Snowpark-Malga-Varena_isd_91340,,,46.3547727,11.4857393
+191,1134821369,Prack,,,,,45.9536161,11.2825081
+192,1227175926,Watles - Vatles,,,,,46.7115512,10.4968326
+193,1265512171,Lavaman Variante,,,,,46.0412068,11.0688294
+194,1265512172,Canalon,,,,,46.0330527,11.0576442
+195,1265514688,Free Ride Palon Direttissima,,,,,46.0284765,11.057968
+196,1265514689,Canalon - Gran Pista,,,,,46.0298219,11.0546177
+197,1265514690,Free Ride Gran Pista,,,,,46.0283289,11.0542384
+198,1320343678,Ratschings-Jaufen,,https://www.ratschings-jaufen.it,,,46.852187,11.3049101
+199,1375566444,Reinswald,,,,,46.6961681,11.4386719
+200,1375567505,Meran 2000,,https://www.meran2000.com,,,46.6796806,11.268108
+201,1429929063,Pfelders Ski Resort,,,,,46.788493,11.0919823
+202,1467038340,Schwemmalm,,https://www.merano-suedtirol.it/it/schwemmalm.html,+39 0473 795390,,46.53696,10.9298507
+203,1476499396,Lavaman variante gare,,,,,46.0415148,11.0670503
+204,1482455856,Vesan Primi Passi,,,,,45.9551414,11.3294963
+205,6989110,Val di Fassa,,https://www.fassa.com/,,,46.4608631,11.7360054
+206,6990942,Cortina d'Ampezzo,,http://www.cortinadolomiti.eu/,,,46.5274934,12.194493
+207,7736385,Alpe Cimbra,,https://www.alpecimbra.it/de/skigebiet-alpe-cimbra/lavarone-folgaria-skigebiet/46-0.html,,,45.9169809,11.2438735
+208,7751878,Drei Zinnen - Tre Cime,,https://www.drei-zinnen.info,,,46.6666429,12.319217
+209,7751891,Klausberg Skiarena,,https://www.kronplatz.com/de/klausberg,,,46.9544897,11.9630509
+210,7752047,San Martino di Castrozza - Passo Rolle,,https://www.sanmartino.com/,,,46.2689268,11.7924392
+211,10727394,Sellaronda,,,,,46.5359968,11.8257514
+212,10732925,Arabba,,http://www.arabba.it,,,46.4914216,11.8559908
+213,10732928,Val Gardena,,https://www.valgardena.it/,,,46.5534368,11.7393946
+214,12342024,Alta Badia,,https://www.altabadia.org/,,,46.5649739,11.8921295
+215,12350096,Gsieser Tal,,,,,46.808349,12.1757009
+216,13798380,Lagazuoi - 5 Torri,,https://cortinadelicious.it/,,,46.523667,12.019334
+217,13798381,Marmolada,,https://www.visitmarmolada.com/,,,46.4431296,11.8872159
+218,13798382,Dolomiti Superski,,https://www.dolomitisuperski.com,,,46.5463282,11.9321166
+219,13830109,Belvedere - Col Rodella - Passo Pordoi,,https://www.valdifassalift.it/,,,46.4820427,11.7838504
+220,13830110,Buffaure - Ciampac,,,,,46.4365626,11.7399994
+221,15532831,Val Comelico - Padola,,https://www.valcomelicodolomiti.it/en/ski-area-val-comelico.htm,,,46.6296804,12.4443055
+222,15830969,Pradis_ci,,http://www.winterparkpradis-ci.it/,,,46.1545677,11.2898289

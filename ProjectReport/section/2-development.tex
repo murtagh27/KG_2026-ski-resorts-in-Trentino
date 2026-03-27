@@ -1,0 +1,8 @@
+\section{Project Development}
+This section describes, at a high level, how the project's purpose will be satisfied.
+
+\subsection{Data Production}
+The data producer process is responsible for collecting, cleaning, and formalizing data from external sources to create quality datasets that satisfy the project purpose. In this project, the primary data source is \textbf{OpenStreetMap (OSM)}, queried via the Overpass Turbo API. The producer collects raw geospatial data for ski resorts, slopes, lifts, hotels, restaurants, and rental shops in Trentino-Alto Adige. The data is then cleaned (deduplication, standardization of attribute values, removal of incomplete records) and formatted according to the language terms defined in Phase 2. Spatial proximity calculations (using the Haversine distance formula) are applied to associate facilities with their nearest ski resorts, enabling the \texttt{nearResort} cross-dataset linkage.
+
+\subsection{Data Composition}
+The data consumer process composes the cleaned, formalized datasets produced above into a unified Knowledge Graph. The consumer aligns each dataset with the teleology (OWL ontology) defined in Phase 3, generating RDF triples following the entity--property--value structure. Individual per-entity-type RDF files are then merged into a single Knowledge Graph file (\texttt{ski\_resorts\_trentino\_kg.ttl}), where cross-dataset entity references (e.g., slopes linked to resorts, hotels linked to municipalities) are resolved and unified under a common namespace.

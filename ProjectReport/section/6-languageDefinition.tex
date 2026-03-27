@@ -1,0 +1,89 @@
+\section{Language Definition}
+
+This section describes the Language Definition phase, where the informal language terms from Purpose Definition are finalized and aligned to the Language Teleontology (LTLO).
+
+\subsection{Knowledge Layer}
+
+\subsubsection{Fixing Language Terms}
+
+All 10 etype terms, 7 object property terms, and 19 data property terms from the Purpose Definition phase were retained and finalized. The following table summarizes the etype term finalization:
+
+\begin{table}[h!]
+\centering
+\small
+\begin{tabular}{|c|l|l|l|}
+\hline
+\textbf{\#} & \textbf{Informal Label} & \textbf{Finalized Term} & \textbf{Focus} \\
+\hline
+1 & SkiResort & SkiResort & Common \\
+2 & SkiSlope & SkiSlope & Contextual \\
+3 & SkiLift & SkiLift & Contextual \\
+4 & SkiPass & SkiPass & Contextual \\
+5 & SkiSchool & SkiSchool & Contextual \\
+6 & Hotel & Hotel & Core \\
+7 & Restaurant & Restaurant & Core \\
+8 & RentalShop & RentalShop & Core \\
+9 & Municipality & Municipality & Common \\
+10 & Coordinate & Coordinate & Common \\
+\hline
+\end{tabular}
+\caption{Finalized etype language terms.}
+\end{table}
+
+Key data property renamings from OSM columns to finalized terms include: \texttt{piste:difficulty} $\rightarrow$ \texttt{difficulty}, \texttt{aerialway} $\rightarrow$ \texttt{liftType}, \texttt{stars} $\rightarrow$ \texttt{starRating}, \texttt{beds} $\rightarrow$ \texttt{numberOfBeds}, \texttt{addr:city} $\rightarrow$ \texttt{municipality}.
+
+\subsubsection{Language Teleontology (LTLO) Alignment}
+
+Each language term was aligned to the UKC/WordNet hierarchy. The alignment strategy used three approaches: (1) direct alignment for terms with existing parents (e.g., hotel, restaurant), (2) indirect alignment via hypernym chains (e.g., SkiSlope $\rightarrow$ slope\#n\#3 $\rightarrow$ piste\#n\#1 $\rightarrow$ path\#n\#1), and (3) LTLO enrichment for domain-specific terms.
+
+\begin{table}[h!]
+\centering
+\small
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{Term} & \textbf{Enrichment Type} & \textbf{Aligned To} \\
+\hline
+SkiResort & Composition & resort\#n\#1 (existing) \\
+SkiSlope & Composition & slope\#n\#3 (existing) \\
+SkiLift & Already exists & lift\#n\#3 (existing) \\
+SkiPass & New entry & ticket\#n\#1 (existing) \\
+SkiSchool & Composition & school\#n\#1 (existing) \\
+RentalShop & Composition & shop\#n\#1 (existing) \\
+altitudeMin/Max & New entry & altitude\#n\#1 (existing) \\
+starRating & Composition & rating\#n\#1 (existing) \\
+osmId & New entry & identifier\#n\#1 (existing) \\
+\hline
+\end{tabular}
+\caption{LTLO enrichment summary.}
+\end{table}
+
+\subsection{Data Layer -- Dataset Cleaning}
+
+For each dataset, the following cleaning operations were performed:
+\begin{itemize}
+    \item \textbf{Ski Slopes}: Removed entries without names and coordinates. Standardized difficulty values to \{novice, easy, intermediate, advanced, expert, freeride\}. Removed duplicate osmIds.
+    \item \textbf{Ski Lifts}: Filtered out ``station'' type entries. Standardized lift type values. Removed entries without coordinates.
+    \item \textbf{Ski Resorts}: Removed entries without names. Deduplicated by name (keeping the entry with most attributes filled). Reduced from 295 to 222.
+    \item \textbf{Restaurants}: Standardized cuisine values. Removed entries without coordinates. Already filtered by name during collection.
+    \item \textbf{Hotels}: Standardized star ratings to 1--5 scale. Removed entries without coordinates.
+    \item \textbf{Rental Shops}: Manual review for completeness. All 16 entries retained.
+\end{itemize}
+
+\subsection{Evaluation -- Language Definition}
+
+\begin{table}[h!]
+\centering
+\small
+\begin{tabular}{|l|c|c|c|l|}
+\hline
+\textbf{Resource} & \textbf{Initially} & \textbf{Finally} & \textbf{Aligned} & \textbf{Notes} \\
+\hline
+Etype terms & 10 & 10 & 10 & 6 enriched, 4 existing \\
+Object property terms & 7 & 7 & 7 & All aligned \\
+Data property terms & 19 & 19 & 19 & All aligned \\
+\hline
+\end{tabular}
+\caption{Language Definition evaluation.}
+\end{table}
+
+\noindent No changes were required to the Purpose Definition phase. All 10 etypes and their properties were confirmed as viable during language finalization.

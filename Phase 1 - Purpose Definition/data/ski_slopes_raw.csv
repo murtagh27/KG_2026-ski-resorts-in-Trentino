@@ -1,0 +1,2793 @@
+id,osmId,osm_type,name,difficulty,resort,ref,lit,grooming,latitude,longitude
+1,10039585,way,Malghetto,easy,,6,,,46.2880054,10.8436781
+2,20925570,way,,easy,,51,,,46.6083717,11.8985936
+3,20925989,way,Sponata,intermediate,,24,,,46.598404,11.8995047
+4,20925990,way,,intermediate,,,,,46.5989847,11.9004152
+5,22789203,way,16 Saxner II,intermediate,,16,,classic,46.8457211,11.2891164
+6,22789246,way,Verbindung Ratschungs Jaufen,easy,,5,,,46.8438035,11.3159638
+7,22789249,way,Kalcher Alm I,intermediate,,7,,,46.8466286,11.3212941
+8,22789257,way,Verbindung Jaufen-Ratschings,easy,,6,,,46.8477507,11.3122602
+9,22789260,way,,intermediate,,,,,46.8469599,11.3089788
+10,22789264,way,,intermediate,,,,,46.8429865,11.3101886
+11,22789291,way,Saxner I,intermediate,,,,classic,46.8454402,11.2897366
+12,22789301,way,Wasserfalleralm - Malga Cascata,intermediate,,,,classic,46.8434605,11.2983945
+13,22789311,way,Enzian I,intermediate,,11,,,46.8436806,11.3038877
+14,22789317,way,Piste 2C,intermediate,,2c,,,46.8411152,11.3044027
+15,22789335,way,,intermediate,Blosegg,,,classic,46.8478792,11.3041747
+16,24310197,way,Pian Frataces,intermediate,,6,,,46.4822185,11.8040946
+17,24310357,way,Campolongo,intermediate,,29,no,classic,46.5162063,11.8679309
+18,24310390,way,Boè,intermediate,,1,no,classic,46.5363035,11.8707348
+19,24310434,way,Collegamento Sodlisia - Frara,easy,,36A,no,classic,46.5490979,11.8441658
+20,24310613,way,Val Setus,intermediate,,,no,classic,46.5521629,11.8059948
+21,24310615,way,Frara - Val Setus,intermediate,,,no,classic,46.554261,11.8103453
+22,24987937,way,Avez del Prinzep,advanced,,16,no,,45.953232,11.3097602
+23,25549528,way,Sponata,intermediate,,27,,,46.5923086,11.8929035
+24,25549537,way,Sponata,intermediate,,24,,,46.5972589,11.8976965
+25,26465679,way,Larchpichl,easy,,,,,46.6354986,11.0992173
+26,26589678,way,,easy,,,,,46.6323481,11.1044259
+27,27109443,way,(53) Pradalago diretta,intermediate,,53,no,,46.2462501,10.8245925
+28,27175940,way,(76) Nube d'argento,easy,,76,,,46.2380011,10.8455265
+29,27242815,way,(70) Spinale Direttissima,advanced,,70,,,46.2256333,10.8390025
+30,27242909,way,Rododendro,intermediate,,101,no,classic,46.1665687,10.796873
+31,27658699,way,Competition,advanced,,102,,,46.1648881,10.7936726
+32,27658700,way,Mandrel,intermediate,,106,,,46.1753702,10.8127744
+33,29202171,way,Panorama 2,intermediate,,4,no,classic,46.9812324,11.9792098
+34,29202172,way,Panorama 1,advanced,,4c,no,classic,46.9773256,11.9758948
+35,29202176,way,Klaussee I (K1),intermediate,,2,no,classic,46.9744613,11.9879752
+36,29202177,way,Almboden,easy,,5,no,classic,46.9824439,11.9828479
+37,29202302,way,Dureck (K2),intermediate,,8a,no,classic,46.9654948,12.0032838
+38,29202663,way,Sonnklar,advanced,,5a,no,classic,46.9188487,11.9007561
+39,29202664,way,Tottomandl,easy,,6a,no,classic,46.9225716,11.9033764
+40,29202667,way,Seenock sun,advanced,,3b,no,classic,46.924424,11.8990503
+41,29202668,way,Seenock,intermediate,Seenock sun,3a,no,classic,46.9247998,11.8967966
+42,29202670,way,Seenock,intermediate,,3c,no,classic,46.9237887,11.8983061
+43,29204216,way,Brugger,easy,,7,,classic,46.9929003,11.973909
+44,29356805,way,(50) Pradalago Facile,easy,,50,,,46.2501448,10.8145774
+45,29388231,way,,easy,,,,,46.3929479,11.3874586
+46,29388232,way,,,,,,,46.3929665,11.3874159
+47,29388233,way,,easy,,,,,46.3931897,11.389012
+48,29494716,way,Oberholz,intermediate,,2,,,46.372245,11.5383425
+49,29494926,way,Variante Absam,intermediate,,6a,,,46.3623559,11.5457393
+50,29495050,way,Collegamento Reiteralpe,easy,,8a,,,46.3581401,11.5372138
+51,29495226,way,Pampeago,easy,,10,,,46.3515835,11.5393229
+52,29496004,way,Val Todesca,intermediate,,25,,,46.3458633,11.5428962
+53,29503599,way,Salvan,easy,,,,,46.4311234,11.7201513
+54,29503600,way,Buffaure di Sotto,intermediate,,,,,46.4311441,11.7204742
+55,29503601,way,Buffaure Panorama,intermediate,,,,,46.423754,11.717019
+56,29550590,way,Belvedere,easy,,,,,46.7366949,11.9729054
+57,29552826,way,Ruipa,easy,,,,,46.7446624,11.9783715
+58,29552885,way,Pracken,easy,,,no,classic,46.7510932,11.9877688
+59,29559236,way,Gassl,intermediate,,,,,46.7450985,11.9811398
+60,29559575,way,Alpen,easy,,,,,46.7473664,11.9785988
+61,29897969,way,La Longia,intermediate,,,no,classic,46.5912498,11.7170661
+62,29919966,way,Fermeda 1,intermediate,,,no,classic,46.5920246,11.7350777
+63,29920096,way,Fermeda 1,intermediate,,,no,classic,46.59893,11.7285263
+64,29920101,way,Pitla Pela Variante,intermediate,,,no,classic,46.5846499,11.7519026
+65,29920155,way,Gran Pela,advanced,,,no,classic,46.5834861,11.7482697
+66,29996085,way,,intermediate,Bravo,,,,46.5423629,11.7191503
+67,30001889,way,Ciampinoi 3,advanced,,3,no,classic,46.5451087,11.7519777
+68,30001890,way,Ciampinoi - Piza Pranseies,intermediate,,,,,46.5385775,11.7525317
+69,30001896,way,Ciampinoi 5,intermediate,,5,no,,46.5362215,11.7536407
+70,30002144,way,Saslong,advanced,,,no,classic,46.5479676,11.7399654
+71,30002173,way,Saslong B,intermediate,,,no,classic,46.5496787,11.7403055
+72,30002342,way,Tremor,advanced,,,no,classic,46.5400105,11.7476315
+73,30002730,way,Piz Sella 5,intermediate,,,,,46.5343086,11.7523442
+74,30002733,way,Piz Sella 5,intermediate,,,no,classic,46.5329111,11.7595804
+75,30002736,way,Plan de Gralba,easy,,,no,classic,46.5334313,11.77063
+76,30002738,way,Plan de Gralba,easy,,,no,classic,46.5328086,11.7704074
+77,30005092,way,Martinelli,intermediate,,,,,46.5055435,11.7449591
+78,30005097,way,,intermediate,,,,,46.5049777,11.7454046
+79,30005103,way,Sas Betit,easy,,,no,classic,46.5163638,11.7631387
+80,30007267,way,Tramans,intermediate,,,no,classic,46.5332095,11.7433958
+81,30007395,way,Alpha,advanced,,,no,classic,46.5429122,11.7229978
+82,30007449,way,,intermediate,,,no,,46.5396208,11.7249231
+83,30007527,way,Bravo,intermediate,,,no,classic,46.5431961,11.721923
+84,30074420,way,Vallon,advanced,,1,no,classic,46.5236831,11.8559301
+85,30074423,way,Boé,intermediate,,1,,classic,46.5483877,11.8716678
+86,30074424,way,Variante,easy,,45A,no,classic,46.5638822,11.8560911
+87,30074427,way,Forcelles,intermediate,,50,no,classic,46.5610512,11.8458355
+88,30074429,way,Sodlisia,easy,,36,no,classic,46.5501114,11.8492369
+89,30074432,way,Stella Alpina,easy,,49,no,classic,46.565328,11.8518586
+90,30074434,way,Colfosco 2,easy,,45,no,classic,46.5581064,11.8536754
+91,30074436,way,Roby,easy,,19,,,46.5553246,11.9032423
+92,30074437,way,La Fraina,intermediate,,23,no,classic,46.558365,11.917913
+93,30074438,way,Bamby,easy,,24,,,46.5684545,11.9164169
+94,30074439,way,Gran Risa,advanced,,,no,classic,46.5729854,11.9032077
+95,30074443,way,Jardinaccia A,intermediate,,26,no,classic,46.5873013,11.8917495
+96,30074444,way,Jardinaccia B,easy,,25,no,classic,46.5861041,11.8942691
+97,30074445,way,Colfosco 2,easy,,45,no,classic,46.5536969,11.8525501
+98,30074446,way,Colfosco 2,easy,,45,no,classic,46.5515283,11.8539066
+99,30074449,way,Pralongià variante,easy,,8A,no,classic,46.5371722,11.9025525
+100,30074451,way,Pralongià II,easy,,8,no,classic,46.5365584,11.9019873
+101,30074452,way,Seggiovia Pralongiá,easy,,21B,no,classic,46.5326606,11.9036324
+102,30074453,way,Seggiovia Pralongiá - Pralongiá II,easy,,8B,no,classic,46.5362813,11.9052699
+103,30074454,way,,easy,,,,,46.5350697,11.904608
+104,30074455,way,Biok - Pralongia II,easy,,7,no,classic,46.5431792,11.9070408
+105,30074456,way,Biok,easy,,13,no,classic,46.550967,11.912574
+106,30074457,way,,easy,,14,,,46.5535689,11.9118132
+107,30074458,way,,easy,,28,,,46.5552139,11.9184198
+108,30074459,way,La Brancia,easy,,15A,,,46.5575522,11.9098384
+109,30074460,way,,easy,,,,,46.5528931,11.9066346
+110,30074461,way,Braia Fraida - Roby,easy,,20,no,classic,46.5539925,11.9033405
+111,30074462,way,,easy,,,,,46.5560957,11.8994502
+112,30074464,way,Altin,intermediate,,17,no,classic,46.572188,11.9089951
+113,30074468,way,Codes,easy,,30,no,classic,46.5585696,11.9232787
+114,30074469,way,Col Alt 4,intermediate,,4,no,classic,46.5489033,11.8825094
+115,30074474,way,Braia Fraida,easy,,5,no,classic,46.5513857,11.9009645
+116,30074476,way,Bamby 2,intermediate,,16B,,,46.5634723,11.9102959
+117,30075928,way,Colz,easy,,,no,classic,46.584137,11.9006774
+118,30075929,way,,advanced,,,no,classic,46.5872483,11.8881927
+119,30075930,way,Colz - Donin,easy,,,no,classic,46.5837062,11.9020365
+120,30075933,way,,easy,,,,,46.6086441,11.8967626
+121,30075934,way,La Crusc,easy,,52,no,classic,46.6106307,11.9101527
+122,30075938,way,La Crusc 2,easy,,53,no,classic,46.6132145,11.9302989
+123,30075940,way,Biok - Saraghes,easy,,10,no,classic,46.5484126,11.9207813
+124,30120249,way,Pitla Pela,intermediate,,,no,classic,46.5838181,11.7495517
+125,30121435,way,Ciampinoi 4,intermediate,,4,no,classic,46.5446922,11.7557659
+126,30121441,way,Ciampinoi 6,intermediate,,6,no,classic,46.5353968,11.7589241
+127,30122272,way,Collegamento Alpha - Bravo,intermediate,,,no,classic,46.5432244,11.7192035
+128,30122436,way,,intermediate,,,no,,46.5394206,11.7255795
+129,30136518,way,La Longia - Furnes,intermediate,,,no,classic,46.5832956,11.6892636
+130,30213203,way,Colraiser - Fermeda,easy,,,no,classic,46.5851417,11.7468932
+131,30421855,way,Dantercepies - Selva,easy,,,no,classic,46.5561134,11.7677692
+132,30421857,way,Dantercepies - Selva,easy,,,no,classic,46.5549826,11.764915
+133,30763043,way,,,,,,,46.6721162,11.3072189
+134,30792445,way,Tomba,advanced,,,,,46.4349986,11.6572866
+135,30792447,way,Vajolet 1,easy,,,,,46.4409156,11.6868253
+136,30804946,way,22 Frommer,intermediate,,,,classic,46.4415328,11.5976153
+137,30804947,way,24 Laurin I,easy,,,no,classic,46.4389803,11.5763565
+138,31261330,way,Corno Bianco,intermediate,,89,,classic,46.3503062,11.4505885
+139,31261351,way,Collegamento bianconero,easy,,93,,,46.3462127,11.4480975
+140,31261385,way,La Rocca,intermediate,,90,,classic,46.3395663,11.4513292
+141,31261421,way,Fanti,easy,,91,,classic,46.3438528,11.4551617
+142,31261451,way,,easy,,,,classic,46.343356,11.4531099
+143,31261455,way,La Rocca,intermediate,,90,,mogul,46.3421644,11.4524818
+144,31261481,way,,intermediate,,,,classic,46.3509926,11.4488753
+145,31724460,way,Marchner,easy,,28,no,classic,46.7350908,11.9838976
+146,31724461,way,Pré da Peres 32 V,intermediate,,32,,,46.7174524,11.9680442
+147,31724462,way,Pre da Peres 32,intermediate,,32R,,classic,46.7193269,11.9671596
+148,31724463,way,Col Toron,intermediate,,34,no,classic,46.718677,11.9646341
+149,31724466,way,Piz de Plaies,intermediate,,41,no,classic,46.6966397,11.915661
+150,32126456,way,Salere,intermediate,,1,,,46.4729534,11.8672826
+151,32126700,way,Col Pradat,advanced,,45,no,classic,46.5631429,11.8562801
+152,32146115,way,La Crusc 2,easy,,53,no,classic,46.6138553,11.9353487
+153,32150676,way,Bamby 1,intermediate,,16A,,,46.5614119,11.9091556
+154,32150677,way,Piz Sorega A,intermediate,,12,no,classic,46.5621238,11.9305116
+155,32150678,way,Piz Sorega B,easy,,11,no,classic,46.5545543,11.9299549
+156,32150679,way,La Para,easy,,29,,,46.5518292,11.910061
+157,32150681,way,Incisa,easy,,21,no,classic,46.5308349,11.907972
+158,32150682,way,Pista del sole,easy,,34,no,classic,46.5249651,11.9120796
+159,32151003,way,,easy,,,,,46.5840457,11.9058134
+160,32151004,way,,easy,,,,,46.5839134,11.905755
+161,32151005,way,La Brancia - Pralongiá I,easy,,6,,,46.546461,11.9049698
+162,32151006,way,La Marmotta - Planac,intermediate,,21A,no,classic,46.53324,11.8956745
+163,32151007,way,Pralongià II,easy,,8,no,classic,46.5388114,11.8909369
+164,32151008,way,Pralongià I - Arlara,easy,,5A,no,classic,46.5455251,11.8941511
+165,32151010,way,Costes da l'Ega,easy,,8,,,46.5471844,11.8724988
+166,32151011,way,Costes da l'Ega,easy,,8,no,classic,46.5459707,11.8759268
+167,32151012,way,Costes da l'Ega,easy,,8,no,classic,46.54656,11.8739334
+168,32196077,way,Vallelunga,advanced,,,no,classic,46.5596072,11.7740429
+169,32196964,way,Cir,advanced,,,no,classic,46.5555751,11.7864186
+170,32196965,way,Dantercepies,intermediate,,,no,classic,46.55334,11.7852404
+171,32196968,way,Panorama,intermediate,,,no,classic,46.5510726,11.7959035
+172,32200057,way,,intermediate,,,,classic,46.5538033,11.7997578
+173,32200059,way,Frara Variante,easy,,40A,no,classic,46.5473179,11.8367108
+174,32200060,way,Frara,easy,,40,no,classic,46.5478617,11.8367108
+175,32211809,way,3-Tre,intermediate,,11,no,classic,46.4965105,11.7693396
+176,32212413,way,Pian Frataces,intermediate,,6,,,46.4841936,11.7971804
+177,32212416,way,Col dei Rossi,intermediate,,5,,,46.4786241,11.7956418
+178,32212417,way,Vernel,intermediate,,2,,,46.4758386,11.8047732
+179,32212418,way,Belvedere I,intermediate,,40,no,classic,46.4814427,11.8174917
+180,32230287,way,Boè - Crep de Mont,intermediate,,2,no,classic,46.5294736,11.8724862
+181,32230293,way,Crep de Mont,easy,,2,no,classic,46.5339599,11.8806388
+182,32230518,way,Costes da l'Ega,easy,,,no,classic,46.5447397,11.8790786
+183,32463010,way,,intermediate,,,,,46.4909597,11.7824719
+184,32479025,way,,intermediate,,,,,46.4914849,11.7815972
+185,32479026,way,,intermediate,,,,,46.4913137,11.7818787
+186,32479027,way,,intermediate,,,,,46.4909635,11.782471
+187,32479030,way,,intermediate,,,,,46.4913732,11.7819102
+188,32547984,way,Belvedere II,intermediate,,41,,,46.482611,11.8176076
+189,32548148,way,Val Setus,intermediate,,,no,classic,46.5541522,11.8023143
+190,32558580,way,Collegamento Ciampinoi - Costabella,intermediate,,,no,classic,46.5494496,11.764712
+191,32558799,way,Dantercepies,easy,,,no,classic,46.5525334,11.7971265
+192,32559110,way,,intermediate,,,,,46.4785525,11.8123172
+193,32559144,way,,intermediate,,,,,46.4822889,11.8011496
+194,32559639,way,Pian Frataces,intermediate,,6,,,46.4920455,11.7845051
+195,32559644,way,Pian Frataces,intermediate,,6,,,46.4885775,11.7892295
+196,32559645,way,Pian Frataces,intermediate,,6,,,46.4860975,11.7910534
+197,32962920,way,Hintereis 1,intermediate,,,,,46.7880311,10.7946808
+198,33682620,way,Muteggpiste - Pista Monte Muta,advanced,,8,,classic,46.5355979,10.9110518
+199,33684004,way,,easy,,,,,46.540007,10.90491
+200,33684005,way,,easy,,,,,46.5385661,10.906013
+201,33684006,way,,intermediate,,,,,46.538596,10.9073798
+202,33684007,way,,easy,,,,,46.5372727,10.9097768
+203,33684008,way,Asmol,intermediate,,6,,,46.5391983,10.9150649
+204,33684010,way,,easy,,,,,46.5401576,10.922132
+205,33684011,way,,easy,,,,,46.5380258,10.9228387
+206,33684012,way,Kircheler,intermediate,,4,,,46.5413714,10.9283005
+207,33684014,way,Dreimandler,intermediate,,7,,,46.536297,10.9218628
+208,33684015,way,,easy,,,,,46.53164,10.9155722
+209,33684019,way,Schwemmalm - Malga Guazza,intermediate,,3,,,46.5388502,10.9286315
+210,33684020,way,,easy,,,,,46.5402657,10.9324433
+211,33684021,way,,easy,,,,,46.5422162,10.9312451
+212,33684022,way,Talabfahrt - Discesa,intermediate,,1,,,46.5433242,10.9381231
+213,34167339,way,,intermediate,,,,,46.392399,11.2076764
+214,34634971,way,,intermediate,Residenza,,,,46.3472269,11.5569717
+215,34714189,way,Zwölferkopf II,advanced,,9,,classic,46.7963705,10.4780667
+216,34714191,way,Hütteltal,advanced,,7,,classic,46.7975708,10.4835912
+217,34714192,way,Rojenabfahrt,advanced,,6,,classic,46.8000337,10.4811569
+218,34714193,way,Zehnerabfahrt,intermediate,,5,,classic,46.7997688,10.4898885
+219,34714194,way,Aussichtsabfahrt,easy,,4,,classic,46.7998491,10.4900426
+220,34714195,way,Jochabfahrt,easy,,3,,classic,46.802449,10.4938408
+221,34714196,way,2: Jochabfahrt;Abzweig 1:Talabfahrt Schöneben,easy,,2,,classic,46.8046969,10.4927647
+222,34714198,way,Jochabfahrt,easy,,3,,classic,46.7966422,10.4925938
+223,34714199,way,Jochabfahrt,easy,,3,,classic,46.7950716,10.4913211
+224,34714200,way,Zehnerabfahrt,intermediate,,5,,classic,46.7961493,10.4901067
+225,34714202,way,Talabfahrt Schöneben,intermediate,,1,,classic,46.814173,10.5020384
+226,34749190,way,Schönebenabfahrt,easy,,2,,,46.8012249,10.4939963
+227,41141088,way,,intermediate,20 Pala di Santa,,,classic,46.3487408,11.5323024
+228,41659076,way,,easy,,,,,46.532906,10.9205286
+229,41762666,way,,intermediate,,,,,46.7849212,10.7930485
+230,41990865,way,Costabella Variante,easy,,,no,classic,46.5533861,11.7696928
+231,41990868,way,Terza Punta,intermediate,,,no,classic,46.5514165,11.7604369
+232,42217193,way,Boè,intermediate,,1,no,classic,46.5266444,11.8662865
+233,42283595,way,,easy,,,,,46.5800618,11.9012427
+234,42324841,way,Sponata,intermediate,,24,,,46.5960864,11.8958727
+235,42438172,way,Mastellina,easy,,16,,,46.2804252,10.8314814
+236,42439059,way,Sef,easy,,,no,classic,46.5287004,11.7479767
+237,42447772,way,(61) Corna Rossa,intermediate,,61,,classic,46.2139426,10.8960862
+238,42689116,way,Belvedere,easy,,3,,,46.2929313,10.8626594
+239,42689120,way,Orso Bruno,easy,,11,,,46.2804038,10.823509
+240,42689123,way,Spolverino,intermediate,,4,,,46.28839,10.8409314
+241,42689124,way,Provetti,advanced,,5,,,46.2878553,10.8432124
+242,42690042,way,(48) Fiocco di neve,intermediate,,48,no,,46.2540239,10.8208109
+243,42690313,way,Sass Becè,intermediate,,1,,,46.4805724,11.8081755
+244,42690956,way,Armentarola,intermediate,,1,no,classic,46.5445651,11.989104
+245,42733862,way,(9) Delle Rocce,easy,,9,,,46.2776434,10.8301595
+246,44151603,way,(57) Amazzonia,advanced,,57,,,46.2482723,10.8196084
+247,44283169,way,Sole,easy,,,no,classic,46.522768,11.7689277
+248,44283171,way,Piz Secteur - Comici,intermediate,,,no,classic,46.5261235,11.7606953
+249,44283176,way,,easy,,,,,46.5270029,11.772525
+250,45791958,way,(71) Boch,easy,,71,,,46.2241232,10.856006
+251,46775212,way,Campo Freina,intermediate,,,no,classic,46.5503358,11.7594714
+252,47296787,way,(54) Malga Zeledria - Fortini,easy,,54,no,,46.2419774,10.8343855
+253,47296788,way,(49) Zeledria,easy,,49,no,,46.2519895,10.8198441
+254,47375296,way,Belvedere,easy,,,,,46.7377519,11.9661883
+255,47403565,way,(85) 5 Laghi,easy,,85,,,46.2333736,10.8173515
+256,47403567,way,(91) Miramonti,advanced,,91,yes,,46.2319571,10.8217828
+257,47403735,way,(85) 5 Laghi,easy,,85,,,46.2274338,10.8082544
+258,47404694,way,(57) Amazzonia,advanced,,57,,,46.2472993,10.816403
+259,47405177,way,(85) Skiweg Campiglio,easy,,85,,,46.2330865,10.822182
+260,47405274,way,(73) Spinale diretta,intermediate,,73,,,46.2243213,10.8518389
+261,47405288,way,(71) Boch,easy,,71,,,46.2237174,10.8538141
+262,47405293,way,(80) Gendarme,easy,,80,no,classic,46.2324207,10.8490062
+263,47745340,way,,easy,,,,,46.7381877,11.9587381
+264,47747545,way,Corn,easy,,38,,classic,46.6973708,11.9258446
+265,48466458,way,01 Trametsch,advanced,,,,,46.6925546,11.6984958
+266,48468601,way,Plose 3,easy,,,,,46.6929154,11.7287461
+267,48468607,way,Trainingspiste - CAI,advanced,,,,,46.6920698,11.733367
+268,48468609,way,Querfahrt - Attraversamento,easy,,,,,46.6899243,11.7292217
+269,48468611,way,Schönboden - Giogo Bello,easy,,,,,46.6871382,11.7175921
+270,48602744,way,Schönboden - Giogo Bello,easy,,,,,46.6907182,11.7249399
+271,48648578,way,Rossalm,easy,,,,,46.6891098,11.7373838
+272,48752533,way,Paprika,advanced,,,no,classic,46.5302359,11.7554203
+273,48800393,way,Piz Sorega B - Armentarola,easy,,9B,no,classic,46.5432511,11.9256054
+274,48832840,way,Padon,intermediate,,50,,classic,46.458004,11.8907673
+275,48857429,way,Armentarola,easy,,,no,classic,46.5581583,11.9499122
+276,48920076,way,,easy,,,,,46.6888882,11.7334686
+277,48966877,way,Larciunei,easy,,,no,classic,46.5571282,11.7653877
+278,48966880,way,Dantercepies - Selva,easy,,,no,classic,46.5561919,11.7671947
+279,49067234,way,Sole,easy,,,no,classic,46.5242295,11.7657583
+280,49067235,way,Gran Paradiso - Piz Seteur,intermediate,,,no,classic,46.5254243,11.7602626
+281,49067236,way,Plan de Gralba,easy,,,no,classic,46.5327244,11.7669355
+282,49068271,way,,intermediate,,,,,46.5024213,11.7523304
+283,49068272,way,Salei,intermediate,,14,,,46.5043372,11.7491388
+284,49068273,way,,intermediate,,,,,46.5017491,11.7577657
+285,49068397,way,,intermediate,,,,,46.5032411,11.7527999
+286,49357312,way,Orsa Maggiore,intermediate,,,,,46.4380989,11.7466969
+287,49436046,way,,easy,,,,,46.5990833,11.9005077
+288,49436056,way,,easy,,,,,46.560082,11.9537316
+289,49898528,way,Madritsch,advanced,,,,,46.506079,10.5960382
+290,50061558,way,Palmschoss - Plancios,intermediate,,,,,46.6800757,11.7132027
+291,50061561,way,,easy,,,,,46.6833773,11.7112779
+292,50315670,way,Trametschzufahrt,advanced,,,,,46.6868123,11.7107273
+293,50364566,way,Pra Grant,intermediate,,11,,,45.890051,11.1599733
+294,50364568,way,Slalom Toll,intermediate,,13,,,45.8912691,11.1615049
+295,50364579,way,Pra Grant,intermediate,,11,,,45.8887948,11.1700952
+296,50649704,way,Klaussee II (K2),intermediate,,8,no,classic,46.9675539,11.9978719
+297,50649705,way,Sattelhorn (K2),advanced,,8d,no,classic,46.969314,11.9924689
+298,50823788,way,Cima Spill,intermediate,,15,,,45.8802493,11.195094
+299,50823790,way,,easy,,,,,45.8764279,11.207446
+300,50823791,way,Cargaore,easy,,17,,,45.8772511,11.2042138
+301,50823793,way,Collegamento Fondo Piccolo-Fondo Grande,easy,,14b,,,45.8870999,11.1934324
+302,50824057,way,Salizzona,intermediate,,8,,,45.8895696,11.1958635
+303,50841053,way,Casina,easy,,15,,,46.294697,10.8618462
+304,50843266,way,Nera Folgarida,advanced,,1,,,46.2965147,10.8571136
+305,50843268,way,Malghet Aut 1,easy,,,,,46.2896944,10.8454948
+306,50843269,way,Malghet Aut 2,easy,,,,,46.2893771,10.8454961
+307,50843270,way,,easy,,,,,46.2913439,10.8533071
+308,50844351,way,Mastellissima,intermediate,,32,,,46.2929528,10.8355551
+309,50844352,way,Brenzi,intermediate,,8,,,46.2861838,10.8422331
+310,50844773,way,Busa del Vigo,intermediate,,12,,,46.2768585,10.8318141
+311,50844775,way,Panoramica,easy,,7,no,,46.2823082,10.8350175
+312,50844776,way,Busa del Vigo,intermediate,,7,no,classic,46.2791476,10.8371475
+313,50845485,way,Malghette,intermediate,,10,,,46.2691002,10.8307154
+314,50847861,way,Azzurra,easy,,2,,,46.2941967,10.8567342
+315,50847863,way,,easy,,,,,46.2887935,10.8469652
+316,51046044,way,,intermediate,,,,,46.9526013,12.0631335
+317,51046046,way,,intermediate,,,,,46.9523145,12.0633185
+318,51046048,way,,easy,,,,,46.9513216,12.0621818
+319,51046050,way,,easy,,,,,46.9501553,12.0595109
+320,51046052,way,,intermediate,,,,,46.9496811,12.059748
+321,51046819,way,,easy,,,,,46.9507077,12.0599381
+322,51048441,way,Hexenschuss (K1),advanced,,2a,no,classic,46.9738643,11.9881082
+323,51048444,way,Sonnen 2,advanced,,3f,no,classic,46.9879275,11.9852978
+324,51182018,way,,easy,,,,,46.3723962,11.5324763
+325,51182019,way,Ochsenweide,intermediate,,3,,,46.3825378,11.5262158
+326,51529759,way,,easy,,,,,46.5362322,10.9244452
+327,51553591,way,Laner,easy,,4,,,46.3697868,11.532236
+328,51553592,way,Obereggen,intermediate,,2a,yes,classic,46.3777795,11.5288956
+329,51553595,way,,easy,,,,,46.3721024,11.5325151
+330,51553597,way,Ochsenweide,intermediate,,3,,,46.3789682,11.5284283
+331,51558959,way,Maierl,intermediate,,5,,,46.3650609,11.5393854
+332,51646818,way,,easy,7 Skiweg Reiterjoch,,,,46.3619756,11.5340937
+333,51646819,way,Absam,intermediate,,6,,,46.3627977,11.5395181
+334,51646821,way,Toler,easy,,8,,,46.356091,11.5365013
+335,51646823,way,Pala di Santa,intermediate,,20,,classic,46.3473642,11.5259808
+336,51646824,way,10 Pampeago,easy,,,,,46.3497991,11.5419917
+337,51646826,way,,easy,,,,classic,46.3507207,11.5474531
+338,51646827,way,Campo Scuola Latemar,easy,,24,,classic,46.3481186,11.5463353
+339,51646828,way,,easy,,25,,classic,46.3494236,11.5481147
+340,51980340,way,Martinelli,intermediate,,,,,46.5055294,11.7472439
+341,51996434,way,,easy,,28,,,46.5543028,11.9214048
+342,51998108,way,Crep de Mont - Boè,easy,,1A,no,classic,46.5325038,11.8729238
+343,52007132,way,,easy,,,,,46.4777943,11.8046989
+344,52026492,way,Agnello Cengia,intermediate,,28,,,46.3388777,11.5487683
+345,52026494,way,Variante Cinque Nazioni,intermediate,,36,,,46.3426499,11.5675596
+346,52026495,way,,intermediate,,,,,46.3402974,11.5513389
+347,52026499,way,,easy,,,,,46.3426254,11.5499445
+348,52037873,way,,easy,,,no,classic,46.4997622,11.7482133
+349,52038151,way,Gabia,easy,,,no,classic,46.5006353,11.7465232
+350,52038524,way,3-Tre variante Agonistica,intermediate,,11,no,classic,46.4938227,11.7724717
+351,52082336,way,Seewiese 2,intermediate,,2C,,,46.7514428,11.9553456
+352,52082337,way,Herrnegg,advanced,,,,classic,46.7538809,11.9518851
+353,52083543,way,Costa,easy,,,,,46.7265808,11.9677289
+354,52083544,way,,intermediate,,,,,46.71899,11.9633891
+355,52083545,way,Rara,intermediate,Rara,,,classic,46.7204015,11.9613952
+356,52083546,way,Rara 31,easy,,,,,46.7225038,11.9641617
+357,52083547,way,Rara 33,intermediate,Rara,,,classic,46.718994,11.9648768
+358,52083647,way,Col Toron,intermediate,,34,,,46.7112163,11.9510357
+359,52083942,way,Erta,advanced,,40,no,classic,46.6996499,11.9194604
+360,52085632,way,Gardeccia,intermediate,,4,,,46.4768925,11.8034852
+361,52330700,way,Catores,advanced,,7,no,classic,46.5963727,11.7264623
+362,52331797,way,Panorama 14,easy,,14,no,classic,46.537494,11.6239023
+363,52331798,way,Steger - Panorama,easy,,58,no,classic,46.5379894,11.6303249
+364,52331799,way,Bamby - Steger Dellai,intermediate,,59,no,classic,46.5368358,11.6354193
+365,52331800,way,Panorama - Laurin,intermediate,,15,no,classic,46.5324404,11.6196578
+366,52331801,way,Laurin - Paradiso,easy,,10,no,classic,46.5287625,11.629347
+367,52331802,way,Monte Piz,intermediate,,55,no,classic,46.547666,11.6422614
+368,52331803,way,Puflatsch Alpin,intermediate,,76,no,classic,46.5483763,11.6133714
+369,52331804,way,Euro 69,easy,,69,no,classic,46.5448,11.6191668
+370,52331806,way,Puflatsch Freccia,advanced,,78,no,classic,46.5471575,11.6148265
+371,52331807,way,Mezdí - Sanon 1,intermediate,,43,no,classic,46.5567231,11.6563478
+372,52331808,way,Monte Piz - Icaro - Leo Demetz,easy,,46,no,classic,46.5491883,11.6490462
+373,52331809,way,Sanon 1,intermediate,,51,no,classic,46.5478985,11.6531301
+374,52331810,way,Leo Demetz,intermediate,,47,no,classic,46.5526379,11.648198
+375,52390077,way,Verbindung Wasserfalleralm-Enzian,easy,,,,classic,46.8461298,11.295605
+376,52390078,way,,intermediate,,,,,46.8604388,11.3021681
+377,52624809,way,Saxner I,intermediate,,,,classic,46.8449605,11.2902921
+378,52624810,way,Saxner II,intermediate,,,,classic,46.8447194,11.2869404
+379,52624813,way,Waldabfahrt,intermediate,,,,classic,46.8553708,11.2985403
+380,52985694,way,,intermediate,,,,,46.7839608,10.7957864
+381,52985695,way,,easy,,,,,46.7815718,10.7987086
+382,52985696,way,,easy,,,,,46.7810601,10.7978471
+383,53528189,way,Olimpia 3,intermediate,,87,,,46.2648081,11.4816117
+384,53672486,way,,intermediate,,,,,46.7920623,11.0961375
+385,53672487,way,,intermediate,,,,,46.7906205,11.0975764
+386,54237928,way,13 - Helm Vierschach - 13 - Elmo Versciaco,intermediate,,,,,46.7231309,12.3374558
+387,54239025,way,Porzen,intermediate,,,,,46.6619224,12.3748893
+388,54239044,way,10,intermediate,Signaue,,,,46.6752083,12.377423
+389,54239046,way,Bad Moos - Rotwand,easy,,,,classic,46.667239,12.3754754
+390,54239048,way,Rotwandwiesen,easy,Rotwandwiesen,4,,,46.6628548,12.3716541
+391,54239051,way,,easy,Porzen variante,,,,46.6622744,12.3736447
+392,54360423,way,,intermediate,,,,,46.7122298,12.3712628
+393,54360473,way,12 - Hahnspiel  -  12 - Gallo,intermediate,,,,,46.7141675,12.37169
+394,54360661,way,"Variante ""S"" Versciaco",advanced,,,,,46.715751,12.3541978
+395,54457361,way,11a - Kristlerhang,advanced,,,,classic,46.6959916,12.3701176
+396,54457362,way,11- Helm Sexten,intermediate,,,,,46.7071478,12.37158
+397,54457366,way,Holzriese II,advanced,Holzriese II,3b,,,46.6766702,12.3687666
+398,54457368,way,,easy,,,,,46.6650569,12.372998
+399,58178085,way,Rododendro,easy,,,,classic,46.2431186,11.7727464
+400,58178089,way,Cristiania,intermediate,Cristiania,19,,classic,46.256559,11.7563851
+401,58178094,way,Cima Tognola,intermediate,,28,,classic,46.2478917,11.7621177
+402,58178098,way,Tognola Uno,advanced,,22,,classic,46.2526907,11.7937442
+403,58178101,way,Strada forestale Fratazza,easy,,,,classic,46.2561558,11.7917979
+404,58178102,way,Colbricon,intermediate,,,,classic,46.2709963,11.7618518
+405,58178105,way,Malga Ces,easy,,21,,classic,46.2711208,11.772899
+406,58178113,way,,intermediate,Tognola Tre,,,classic,46.2530042,11.7795386
+407,58178115,way,,easy,,,,classic,46.2543669,11.7969475
+408,58178116,way,Tognola Uno,intermediate,,,,classic,46.246114,11.7833026
+409,58178123,way,,easy,,,,classic,46.2547613,11.7983958
+410,58178124,way,Colbricon,intermediate,,16,,classic,46.2682324,11.7580887
+411,58178125,way,Tognola Tre,intermediate,,24,,classic,46.2489524,11.7753287
+412,58178126,way,Tognola 1-3,easy,,23,,classic,46.2540576,11.7851733
+413,58230676,way,,easy,Ski Weg Coston,,,classic,46.2635858,11.7646782
+414,58230678,way,Coston,intermediate,,14,,classic,46.2668259,11.7720052
+415,58230681,way,Sole,intermediate,,17,,classic,46.2648136,11.761016
+416,58230682,way,Cigolera,intermediate,,,,classic,46.2473214,11.7674738
+417,59204384,way,,intermediate,Variante Presena Paradiso,,no,classic,46.2339972,10.5803921
+418,59204387,way,Ghiacciaio Presena,advanced,Ghiacciaio Presena,,no,classic,46.2237973,10.5827744
+419,59204388,way,,advanced,Paradiso,,no,,46.2466167,10.5764629
+420,60638438,way,Col Verde,intermediate,,,yes,classic,46.2653249,11.8077698
+421,60638443,way,,intermediate,,,,classic,46.2694775,11.819458
+422,60638448,way,,intermediate,,,,classic,46.2677808,11.8193206
+423,69363638,way,Valbonetta,easy,,20,,classic,46.2712154,11.7735298
+424,70846399,way,,easy,4b,,,,46.6655349,12.371228
+425,76845930,way,,easy,,,,,46.7853942,10.5176937
+426,77383377,way,,advanced,,,,,46.5134671,10.5957462
+427,77383395,way,,advanced,,,,,46.5139913,10.5956677
+428,77383415,way,,advanced,,,,,46.5132373,10.5958338
+429,77383580,way,,advanced,,,,,46.5040244,10.598144
+430,79058737,way,,easy,4b,,,,46.6643848,12.3726498
+431,79058740,way,,easy,4b,,,,46.6644062,12.3718522
+432,79058746,way,,easy,4b,,,,46.6647025,12.3728645
+433,79058761,way,Holzriese I,advanced,Holzriese I,3a,,,46.6679802,12.373007
+434,82284880,way,,intermediate,Seewiese,,,classic,46.744358,11.9543747
+435,84653317,way,Roseal,intermediate,,,,,46.4382329,11.7640118
+436,84653319,way,Sasso di Rocca 1,intermediate,,,,,46.4369869,11.7690888
+437,84653330,way,Roseal 2,intermediate,,,,,46.4396747,11.7677411
+438,84653335,way,Sella Brunech,intermediate,,,,,46.4417805,11.7677822
+439,84656019,way,Pala del Geiger,intermediate,,,,,46.4366757,11.7338611
+440,84656024,way,,intermediate,,,,,46.4394011,11.7341472
+441,86870887,way,Risaccia,easy,,,no,classic,46.5567157,11.7708322
+442,86870892,way,Dantercepies - Risaccia,easy,,,no,classic,46.5562563,11.7691805
+443,86870898,way,Frainella,intermediate,,,no,classic,46.5569251,11.7709655
+444,86929522,way,Sochers,intermediate,,,no,classic,46.5403224,11.7409339
+445,86960120,way,Mortic,intermediate,,11 Bis,,,46.4875622,11.7794522
+446,88188231,way,Valvacin,intermediate,,,,,46.4315659,11.7293812
+447,88222207,way,San Valentino Nord,easy,,,,,45.7831288,10.9174093
+448,88222208,way,San Valentino Nord,easy,,28,,,45.7787673,10.9204234
+449,88222209,way,Mosee,freeride,,,,,45.7822604,10.9199662
+450,88601299,way,Muro Bucaneve,advanced,,,,,45.785509,10.922316
+451,88601300,way,Cronel,intermediate,,,,,45.7813728,10.9230579
+452,88601304,way,Campeggio,intermediate,,,,,45.7864037,10.9238156
+453,88601311,way,Intermedia,intermediate,,,,,45.7807117,10.9237772
+454,88601314,way,Panoramica,easy,,,,,45.7832404,10.9233812
+455,88601320,way,Vallette,intermediate,,,,,45.7803981,10.9244695
+456,88603824,way,Rosa del sole,advanced,,20,,,45.774999,10.9315999
+457,89871810,way,,intermediate,,1,,,46.948374,11.3812622
+458,90938852,way,Cacciatori 2,intermediate,,M,,,46.1479943,11.018174
+459,90938854,way,Olimpionica 3,intermediate,,G,,,46.1457633,11.023548
+460,90938855,way,Olimpionica 3,intermediate,,G,,,46.144708,11.0301577
+461,90938856,way,Rindole,novice,,T,,,46.1610017,11.0080731
+462,90938858,way,Olimpionica 2 (H),advanced,,H,,,46.151037,11.0198779
+463,90938859,way,Olimpionica 1,intermediate,,I,,,46.1545874,11.010747
+464,90938860,way,Cacciatori 1,easy,,L,yes,classic,46.1569668,11.0100885
+465,90938861,way,Rindole,novice,,T,,,46.159724,11.0084451
+466,90940506,way,Sant'Antonio 1,easy,,P,,,46.1402497,11.015689
+467,91036485,way,Gaggia,intermediate,,S,,,46.1596379,11.0038162
+468,91036487,way,Laghet,novice,,U,,,46.1613065,11.003553
+469,91036790,way,Gaggia,intermediate,,S,,,46.1520012,10.9988722
+470,91095431,way,Dosso Larici,intermediate,,C,,,46.1564185,11.0436162
+471,91095433,way,Traliccio,intermediate,,F,,,46.146875,11.0291172
+472,91095434,way,Tre-Tre (selletta),intermediate,,E,,,46.149059,11.0307327
+473,91095435,way,La Rocca,intermediate,,A,,,46.1693334,11.050902
+474,91095437,way,Panoramica,intermediate,,D,,,46.1437995,11.0379272
+475,91095442,way,La Rocca,intermediate,,A,,,46.1657541,11.0492799
+476,91095443,way,Nuvola Rossa,intermediate,,V,,,46.1575128,11.0478154
+477,91097045,way,Salare,easy,,W,,,46.1416502,11.0196943
+478,91097052,way,Skiweg conca d'argento,easy,,O,,,46.1408724,11.0222153
+479,91154014,way,Verbindung Jaufen-Ratschings,easy,,6,,,46.8448576,11.3197849
+480,91154016,way,Verbindung Ratschungs Jaufen,easy,,5,,,46.8468655,11.3193112
+481,92289725,way,Bosco,intermediate,,3,,,46.1097582,11.6572805
+482,92289727,way,Piloni,intermediate,,2,,,46.1114883,11.6583609
+483,92291181,way,Monte Rosso,intermediate,,8,,,46.102498,11.6562054
+484,92291183,way,Paradiso,easy,,6,,,46.1008958,11.6606225
+485,92291185,way,7 - Paradiso (variante),intermediate,,,,,46.104134,11.6581868
+486,92291186,way,Laresè,intermediate,,13,,,46.0970697,11.6621474
+487,92291187,way,Prisco,intermediate,,11,,,46.1005718,11.657058
+488,92291188,way,Matusa,easy,,4,,,46.1094047,11.6604173
+489,92326853,way,Delle Baite,easy,,,,,46.4446593,11.7693746
+490,93842870,way,,intermediate,Michl,,,classic,46.9314529,11.9227669
+491,94801266,way,Marchner,easy,,28,,,46.7366528,11.9732677
+492,95083109,way,Braia Fraida - Roby,easy,,20,no,classic,46.5533555,11.9021538
+493,95196226,way,Seenock,intermediate,Seenock,3c,no,classic,46.9230589,11.8916794
+494,95423750,way,Dantercepies Variante,easy,,,no,classic,46.5519172,11.789306
+495,95453637,way,Capanna Nera,easy,,8,no,classic,46.5425769,11.8831178
+496,95453638,way,Pralongiá  - Punta Trieste,easy,,21B,no,classic,46.534625,11.9079782
+497,95453639,way,Pralongià II,easy,,8,no,classic,46.5351382,11.9126016
+498,96579228,way,Ust,intermediate,,10,no,,45.9562755,11.2902495
+499,96579231,way,Bertoldi,easy,,7,no,,45.9509067,11.2725415
+500,96579232,way,Le Stock,easy,,6,no,,45.9511812,11.270516
+501,96579233,way,Tablat,intermediate,,5,no,,45.9498799,11.2702033
+502,96579235,way,Sonneck,easy,,8,no,,45.9514269,11.2780429
+503,96693485,way,Skiweg Nannufaro,easy,,15,no,,45.9556381,11.2996934
+504,96821946,way,Cengio Rosso,intermediate,,18,,,45.8806008,11.2000964
+505,96821947,way,Trugalait,intermediate,,16,,,45.8792878,11.1991599
+506,96821948,way,,easy,,,,,45.8770131,11.2018543
+507,96823316,way,Passo Coe,easy,,19,,,45.8760401,11.207921
+508,96887649,way,Stella d'Italia,easy,,5,,,45.8976202,11.2017081
+509,96887650,way,Collegamento Mora-Costa,easy,,1b,,,45.9089662,11.2028384
+510,96887651,way,Panoramica,easy,,9,,,45.8910218,11.1993748
+511,96887652,way,Maso Spilzi,easy,,1,,,45.9138229,11.2012478
+512,96887653,way,,easy,,,,,45.8947931,11.190468
+513,96887654,way,Ortesino,intermediate,,4,,,45.8974199,11.2031048
+514,96887656,way,Collegamento Mora-Ortesino,easy,,1c,,,45.905355,11.2028394
+515,96887657,way,Francolini,intermediate,,6,,,45.9013301,11.1894771
+516,96887658,way,Baby Fondo Grande,easy,,7,,,45.8916677,11.1932219
+517,97158610,way,Martinella Nord,advanced,,10,,,45.8901907,11.1844622
+518,97177046,way,Collegamento Fondo Grande-Fondo Piccolo,easy,,9b,,,45.885806,11.2003489
+519,97177173,way,Dosso della Madonna 2,intermediate,,3,,classic,45.9171956,11.1932466
+520,98477486,way,Canazei,intermediate,,6,,,46.4850975,11.7812781
+521,99685095,way,Diretta Bucaneve,intermediate,,,,,45.7835527,10.9176792
+522,99685097,way,Diretta Postemon,intermediate,,,,,45.784925,10.9168319
+523,100064158,way,12 Enzian II,intermediate,,,,classic,46.8446928,11.3003442
+524,101713913,way,,easy,,,no,classic,46.8519075,11.6859329
+525,101713915,way,28,easy,,,no,classic,46.8177747,11.6621741
+526,101713918,way,Family Slope,easy,,29,no,classic,46.8285857,11.6656344
+527,101713924,way,26,intermediate,,,no,classic,46.8523673,11.68303
+528,101713926,way,27,easy,,,no,classic,46.812074,11.6575745
+529,101713927,way,Gitsch,intermediate,,20,no,classic,46.855726,11.68701
+530,101713947,way,24,intermediate,,,no,classic,46.8446103,11.6819073
+531,101713957,way,,intermediate,,,no,classic,46.8522581,11.686506
+532,101713959,way,Nesselwiese,intermediate,,24,no,classic,46.8417066,11.677594
+533,101787475,way,Jochtal Talabfahrt,intermediate,,4,no,classic,46.847071,11.6109176
+534,101787477,way,Hinterberg,intermediate,,8,no,classic,46.8409125,11.5999593
+535,101787479,way,Schwandt,intermediate,,3,no,classic,46.8454064,11.6381515
+536,101787481,way,Tasa,easy,,1,no,classic,46.8408589,11.6303129
+537,101787484,way,Sonnenhang,intermediate,,9,no,classic,46.8402081,11.5982387
+538,101787485,way,Seepiste,easy,,10,no,classic,46.839957,11.5989851
+539,101787486,way,Mitterling,advanced,,5,no,classic,46.8456978,11.602768
+540,101787951,way,,easy,,,,,46.8338047,11.780129
+541,102260532,way,Bellunese,intermediate,,60,,,46.4489095,11.8859018
+542,102260538,way,,intermediate,,,,,46.4372235,11.8739534
+543,102260545,way,,intermediate,,,,,46.436503,11.8728486
+544,103118871,way,,advanced,,,,,46.1478868,11.0227683
+545,103118882,way,,intermediate,,,,,46.1484431,11.0243707
+546,103118890,way,Sant'Antonio 2,easy,,J,,,46.1390493,11.0188164
+547,103118896,way,Panoramica,intermediate,,D,,,46.1458885,11.0375317
+548,103118901,way,Paganella 2,intermediate,,Q,,,46.1458845,11.0030932
+549,103308853,way,Vezzena,easy,,22,no,,45.9553825,11.3234968
+550,103429371,way,Skiweg,easy,,,,,46.6900089,11.7284859
+551,103429373,way,Rossalm,easy,,,,,46.691178,11.7428522
+552,103429374,way,Pfannspitz Gablervariante - Variante di Monte Fana Monte Forca,easy,,,,,46.691453,11.7459575
+553,103429375,way,Rossalm,easy,,,,,46.6907001,11.7433048
+554,103429376,way,,easy,,,,,46.6909265,11.7444337
+555,103429377,way,Pfannspitz - Monte Fana,intermediate,,,,,46.6896896,11.7424253
+556,103429378,way,Rossalm 2,intermediate,,,,,46.6892006,11.7382245
+557,103429380,way,Trainingspiste,easy,,,,,46.6923136,11.743242
+558,103429382,way,Plose Ost - Plose Est,intermediate,,,,,46.693669,11.736377
+559,103429722,way,,easy,,,,,46.6880869,11.7180069
+560,103430648,way,Schönjöchel,easy,,,,,46.687718,11.7169406
+561,103430792,way,,easy,,,,,46.6839891,11.710882
+562,105211604,way,Collegamento Ciampinoi,intermediate,,,no,classic,46.5530883,11.7618312
+563,105855720,way,Costoratta,intermediate,,22A,no,classic,46.5262304,11.8676449
+564,105949687,way,,intermediate,,,,,46.8280682,10.6495027
+565,105949693,way,,intermediate,,,,,46.8309947,10.6517411
+566,105949701,way,,intermediate,,,,,46.8373402,10.6417884
+567,105949703,way,,intermediate,,,,,46.8303353,10.6508878
+568,105949706,way,,intermediate,,,,,46.829428,10.6504347
+569,105949713,way,,intermediate,,,,,46.8335203,10.6464147
+570,105949721,way,,novice,,,,,46.8292208,10.6499365
+571,105949725,way,,intermediate,,,,,46.8298687,10.6506186
+572,105949734,way,,intermediate,,,,,46.8376369,10.6417907
+573,105949742,way,,intermediate,,,,,46.8361784,10.643329
+574,105949754,way,,intermediate,,,,,46.8259557,10.6498966
+575,105949778,way,,intermediate,,,,,46.8263362,10.6497893
+576,106092159,way,Rara 31,easy,Rara,,,classic,46.7199453,11.9653471
+577,106092160,way,Seewiese,intermediate,Seewiese,,,,46.7442625,11.9513901
+578,106092161,way,,intermediate,Arndt,,,,46.7508359,11.9822289
+579,106092163,way,Furcia 9,easy,,,,classic,46.7269158,11.9654002
+580,106092165,way,,easy,,,,,46.7385592,11.9580852
+581,106092168,way,Furcia 9,easy,,,,,46.7328381,11.9654026
+582,106092171,way,Costa,easy,,,,,46.7231115,11.9635914
+583,106092172,way,Furcia 9A - Picio Jarú,easy,,,no,classic,46.7351693,11.9624529
+584,106092174,way,,easy,Plateau,,,,46.7422765,11.9716398
+585,106092180,way,Olang 2,easy,Olang 2,,,,46.7416027,11.9657638
+586,106092183,way,Furcia 9 B,easy,,,,classic,46.7276212,11.9665719
+587,106092186,way,Spitzhorn,easy,Spitzhorn,,,,46.7473171,11.9742568
+588,106092189,way,,easy,Sonne,,,,46.7349581,11.9604279
+589,106092191,way,Rara 31,easy,Rara,,,,46.7207757,11.9620543
+590,106092195,way,Korer,easy,Korer,,,,46.7682283,11.9415062
+591,106092197,way,,easy,,,,,46.738135,11.9591759
+592,106092199,way,,easy,,,,,46.7452732,11.9730166
+593,106092201,way,Cianross,intermediate,,37,yes,classic,46.6968466,11.9263343
+594,106092206,way,Ruipa,easy,,20,no,classic,46.7476053,11.9851425
+595,106092207,way,Gassl,intermediate,,,no,classic,46.7456019,11.9993422
+596,106092212,way,,easy,Plateau,,,,46.7402122,11.9675973
+597,106092213,way,,easy,,,,,46.7428957,11.971887
+598,106092215,way,Piculin,advanced,,45,,,46.6950588,11.9058522
+599,106092216,way,Rara 31,easy,Rara,,,,46.7226037,11.9637123
+600,106092217,way,Trasse,advanced,Trasse,,,classic,46.7461585,11.9529885
+601,106092223,way,Pedagà,easy,,39,no,classic,46.6986726,11.9237119
+602,106092225,way,,easy,,,,,46.7243436,11.9642624
+603,106092229,way,,intermediate,,,,,46.7487639,11.9524071
+604,106092231,way,,easy,Furcia 9,,,,46.7288926,11.969198
+605,106092235,way,,easy,,,,,46.7394332,11.9609742
+606,106092236,way,,easy,Rara,,,,46.7230919,11.9631908
+607,106092239,way,,easy,,,,,46.7419877,11.9719636
+608,106092240,way,,easy,,,,,46.7246928,11.9639835
+609,106092242,way,,easy,,,,,46.7717759,11.9412632
+610,106092243,way,Alpen,easy,,,,,46.7441293,11.9729993
+611,106092244,way,Costa - Ruis,easy,Costa - Ruis,,,classic,46.726033,11.9655258
+612,106092246,way,,intermediate,Seewiese,,,,46.7476286,11.9511603
+613,106092249,way,,intermediate,,,,,46.7312034,11.9599161
+614,106092250,way,,easy,,,,,46.7226081,11.9646692
+615,106092251,way,,easy,,,,,46.7430133,11.9676898
+616,106092252,way,Costa,easy,,,,,46.7260603,11.9679768
+617,106092253,way,Pre da Peres 32,easy,,,,,46.7226828,11.9640041
+618,106092255,way,,intermediate,Sonne,,,,46.7376684,11.9583641
+619,106092259,way,Pedagà,easy,,39,no,classic,46.6968032,11.921381
+620,106092260,way,,easy,,,,,46.7228061,11.9650565
+621,106092261,way,,easy,Korer,,,,46.7676292,11.9423465
+622,106092263,way,Furcia 12,intermediate,,,,,46.7342147,11.9574211
+623,106092264,way,,easy,,,,,46.7229488,11.9634576
+624,106092267,way,,easy,,,,,46.7243143,11.9636824
+625,106092268,way,,easy,Furcia 9A,,,,46.7327423,11.9654736
+626,106096059,way,Pramstall,intermediate,,,,,46.7445032,11.9567469
+627,106096074,way,,intermediate,,,,,46.7391504,11.957733
+628,106096080,way,Gassl,intermediate,,23,no,classic,46.7447513,11.9999433
+629,106096081,way,Sylvester,advanced,,,,classic,46.7517809,11.9474063
+630,106110471,way,,easy,,,,,46.7709674,11.9417009
+631,106110472,way,,easy,,,,,46.7432064,11.9732584
+632,106110473,way,Pramstall,intermediate,,,,,46.7480402,11.9570082
+633,106110474,way,,easy,,,,,46.7418196,11.9742522
+634,106110481,way,,easy,,,,,46.7380239,11.9588527
+635,106116026,way,,easy,,,,,46.7228791,11.9643591
+636,106304484,way,,intermediate,,,,,46.3923725,11.8014214
+637,106304485,way,Nuova Cima Uomo,advanced,,52,,,46.3952646,11.800382
+638,107041750,way,Ometto 2,easy,,30,,,46.2787005,10.8196645
+639,107041751,way,Doss Della Pesa,intermediate,,20,,,46.2809801,10.8178113
+640,107041754,way,Doss della Pesa facile,easy,,21,,,46.2814307,10.816031
+641,107041755,way,Ometto 1,easy,,29,,,46.2775165,10.8207368
+642,107041757,way,Skiweg Orti,advanced,,35,,,46.2821074,10.8147013
+643,107041758,way,(35) Skiweg Orti,advanced,,35,,,46.2838656,10.8158151
+644,107041759,way,Panciana,intermediate,,23,,,46.2944078,10.816034
+645,107041760,way,Nera Marilleva,advanced,,26,,,46.2953596,10.8121299
+646,107042562,way,(73) Spinale diretta,intermediate,,73,,,46.233715,10.8364208
+647,107050432,way,(45) Genziana,intermediate,,45,no,,46.260359,10.8230193
+648,107057302,way,Skiweg Malghet Aut,easy,,18,,,46.2840642,10.8392662
+649,107120074,way,,easy,,,,,46.2367905,10.8366685
+650,107343612,way,(55) Belvedere,easy,,55,,,46.2359499,10.8331835
+651,114131055,way,Nives,easy,,,no,classic,46.5575315,11.7612832
+652,116535416,way,,easy,Skiweg Campo - Fassane,,,,46.3284395,11.7007454
+653,122901428,way,,easy,Panoramica,,,,46.3480941,11.5495857
+654,126441056,way,Rinneralm II,intermediate,,3,,,46.8432374,11.3116064
+655,127680840,way,Eberhöfer-Schöpf-Brücke,,,,,,46.499527,10.5969941
+656,128666993,way,Collegamento Martinella-Fondo Piccolo,easy,,14a,,,45.8845545,11.1873343
+657,128666994,way,Serrada,easy,,12,,,45.8895749,11.1682778
+658,135176792,way,Spacca Ossi / Funtanes,intermediate,,,no,classic,46.5405286,11.7686322
+659,135176793,way,Gardena,intermediate,,41,no,classic,46.5492434,11.817308
+660,135176798,way,Costoratta,intermediate,,22A,no,classic,46.5240032,11.8682344
+661,135176800,way,Sass Becè,intermediate,,1,,,46.4826423,11.8020697
+662,135176804,way,,intermediate,,,,classic,46.5540549,11.7996092
+663,135176805,way,,intermediate,,,,,46.5040855,11.7535923
+664,135176811,way,,intermediate,,,,,46.4846066,11.7968283
+665,136634377,way,,easy,Città dei Sassi,,no,classic,46.5126947,11.7529436
+666,141111747,way,,intermediate,,,,,46.6750182,11.2501974
+667,141111749,way,Falzeben 1,easy,,,,,46.6706758,11.2450437
+668,141111757,way,,easy,Falzeben 1,,,,46.6739388,11.2548173
+669,142074618,way,Schilling,easy,,2,no,classic,46.8481204,11.6289446
+670,142778385,way,,easy,,,,,46.7024122,11.4537484
+671,142778386,way,Plankenhorn,intermediate,,,,,46.6911532,11.4305316
+672,142778387,way,Schoneben,intermediate,,,,,46.6923419,11.431767
+673,142778388,way,,intermediate,,,,,46.6956443,11.4393199
+674,142778390,way,Joch,advanced,,,,,46.6998479,11.4492312
+675,142778392,way,,intermediate,,,,,46.6897127,11.4235053
+676,142778394,way,,easy,,,,,46.689538,11.420561
+677,143758043,way,Marchner 2,intermediate,,28,no,classic,46.7342536,11.9920609
+678,143758049,way,Ried,intermediate,Ried,,no,classic,46.7662177,11.9842459
+679,143758585,way,,easy,Spitzhorn,,,,46.7427103,11.9669254
+680,144988417,way,Campo Scuola,novice,,1,,,46.1153326,11.6618659
+681,145005788,way,Del Passo,easy,,44,,,46.3794557,11.796718
+682,145007886,way,Raccordo Costabella,intermediate,,53,,,46.387703,11.7932996
+683,145007889,way,Cune - Campo,intermediate,,6,,,46.3377501,11.6981227
+684,145007893,way,Fiamme Oro I,advanced,,1,,,46.3623742,11.6858819
+685,145007895,way,Gigante - Ciadin,intermediate,,,,,46.3922327,11.8012693
+686,145007896,way,,easy,,,,,46.3448568,11.6935487
+687,145007898,way,Le Fassane,easy,,12,,,46.3277389,11.7033212
+688,145007902,way,Direttissima Le Cune,advanced,,7,,,46.3397403,11.6969032
+689,145007905,way,Raccordo Ciadin,easy,,56,,,46.3857553,11.7955631
+690,145007907,way,Piavac,advanced,,5,,,46.3507017,11.6895504
+691,145007908,way,Ciafuli,easy,,14,,,46.3214414,11.6965584
+692,145007909,way,Fiamme Oro II,intermediate,,2,,,46.3515165,11.687537
+693,145007910,way,Zirmes,intermediate,,9,,,46.3380857,11.7110579
+694,145010633,way,Tresca,intermediate,,30,,,46.3368222,11.5499988
+695,145010635,way,Cinque Nazioni,intermediate,,35,,,46.3432096,11.5681155
+696,145010639,way,Agnello Muro,advanced,,28a,,,46.3389701,11.5475347
+697,145010640,way,Torre di Pisa,advanced,,38,,,46.3442011,11.5672384
+698,145010642,way,Naturale Agnello,intermediate,,29,,,46.3354095,11.5491576
+699,145010643,way,Variante Oberholz,intermediate,,2b,,,46.3740543,11.5364224
+700,145024395,way,Frara,intermediate,,40,no,classic,46.5523814,11.8143628
+701,145024396,way,Colfosco 2,easy,,45,no,classic,46.559617,11.8531849
+702,145024397,way,Pista dell'Orso,easy,,,no,classic,46.558217,11.7721209
+703,145214664,way,Variante Slalom,advanced,,35a,,,46.34165,11.5708769
+704,147141120,way,Prà Alpesina,advanced,,37,,,45.7593473,10.8717535
+705,147218267,way,Morgenrast,intermediate,,,,scooter,46.702322,11.4469257
+706,147218268,way,Pendio ripido,advanced,,,,,46.70249,11.4542901
+707,147218269,way,Pfnatsch,intermediate,,,,,46.6997235,11.4469614
+708,147218270,way,Pichlberg,intermediate,,,,,46.6975453,11.4483051
+709,147218271,way,,easy,,,,,46.7013344,11.4445092
+710,147218272,way,,intermediate,,,,,46.6974411,11.441114
+711,148976244,way,,difficult,,,,backcountry,46.723751,10.4224144
+712,149396303,way,Pre dai Corf,easy,,18,,,46.5606694,11.9030233
+713,149662329,way,,easy,,,,,46.8476523,11.3076157
+714,149662332,way,Kalcher Alm III,easy,,9,,,46.8461881,11.3238844
+715,149821399,way,Aberhamwiese,novice,,,,,46.8628556,11.3096652
+716,149821401,way,,intermediate,,,,,46.861533,11.3023176
+717,149821402,way,,easy,,,,,46.8485405,11.3064001
+718,150856545,way,Panorama - Paradiso,easy,,16,no,classic,46.5300117,11.6284899
+719,150856547,way,Steger,intermediate,,57,no,classic,46.5417832,11.6362905
+720,150856549,way,,easy,,,,,46.5577859,11.6641446
+721,150856550,way,,intermediate,,,no,classic,46.553544,11.6488964
+722,150856552,way,,easy,,,,,46.5437453,11.6222149
+723,150856555,way,,easy,,,no,classic,46.5467869,11.6357296
+724,150856559,way,Euro 70,intermediate,,70,,,46.5445705,11.6188756
+725,150856560,way,,easy,,77,,,46.5441834,11.6235452
+726,150974880,way,,intermediate,,,,,46.582486,11.6928451
+727,151422773,way,Martinelli,intermediate,,,,classic,46.5075071,11.7509557
+728,151422782,way,Schiappen-Sella,easy,,,no,classic,46.5271709,11.7722933
+729,151999946,way,Spitzbühl 1,intermediate,,1,no,classic,46.5335491,11.6030609
+730,151999947,way,Spitzbühl 2,intermediate,,2,no,classic,46.5329037,11.6027946
+731,151999948,way,Spitzbühl 4,easy,,4,no,classic,46.534746,11.6086868
+732,151999949,way,Spitzbühl 3,intermediate,,3,no,classic,46.5319662,11.6045115
+733,152010397,way,Laurin Monte - Spitzbühl,intermediate,,6,no,classic,46.5291514,11.6129805
+734,152010399,way,Paradiso,easy,,17,no,classic,46.5247413,11.638267
+735,152010400,way,Punta d'Oro 2,intermediate,,20,no,classic,46.5189158,11.6420487
+736,152010403,way,Punta d'Oro 1,intermediate,,19,no,classic,46.5212461,11.6465738
+737,152010404,way,Punta d`Oro - Floralpina,intermediate,,26,no,classic,46.5278337,11.6614554
+738,152010407,way,Floralpina - Florian,easy,,29,no,classic,46.5306691,11.6696404
+739,152010409,way,Floralpina - Florian,easy,,29,no,classic,46.5308167,11.6713418
+740,152010410,way,Florian 1,intermediate,,30,no,classic,46.5232781,11.6779795
+741,152010412,way,Floralpina - Punta d`Oro,intermediate,,31,no,classic,46.5258949,11.6519867
+742,152010414,way,,easy,,32,no,classic,46.5299968,11.6712687
+743,152010415,way,Florian 2,intermediate,,33,no,classic,46.5175122,11.6845832
+744,152010416,way,Bamby - Euro,easy,,65,no,classic,46.5359973,11.6321349
+745,152010419,way,Laurin 1,easy,,7,no,classic,46.5308311,11.616658
+746,152010420,way,Laurin 2,intermediate,,8,no,classic,46.5326091,11.6145774
+747,152014852,way,Euro - Spitzbühl,intermediate,,75,no,classic,46.5413987,11.6132439
+748,152014858,way,Bullaccia - Strega,intermediate,,79,no,classic,46.549925,11.6132943
+749,152014859,way,Strega 2,intermediate,,80,no,classic,46.5523486,11.6123144
+750,152014861,way,Hexe - Puflatsch long,intermediate,,84,no,classic,46.5491187,11.611454
+751,152034006,way,Breiteben,easy,,22,no,classic,46.8479029,11.6854772
+752,152034007,way,29,easy,,,no,classic,46.8204752,11.663289
+753,152034008,way,28,easy,,,no,classic,46.8167485,11.6599946
+754,152034009,way,Steinermandl,advanced,,12,,,46.836399,11.5964987
+755,152034010,way,Restaurant,easy,,14,no,classic,46.8437488,11.5991498
+756,152034011,way,,easy,,,,,46.8387869,11.6040246
+757,152034012,way,Segerwiese,advanced,,23,no,classic,46.8400486,11.6852489
+758,152034014,way,28,easy,,,no,classic,46.820601,11.6620705
+759,152034015,way,Wastl Huber,intermediate,,23A,no,classic,46.8388291,11.6834053
+760,152034016,way,28,easy,,,no,classic,46.8153853,11.661868
+761,152622687,way,53 Hubertus,easy,,,,classic,46.4057141,11.6014107
+762,154714038,way,Falzeben 1,easy,,,,,46.6757671,11.2563582
+763,154714041,way,Falzeben 2,advanced,,,,,46.6764679,11.2521732
+764,154714044,way,Wallpach,intermediate,,,,,46.6740456,11.2514366
+765,154950322,way,Kesselberg 1 - Costa Valcanova 1,easy,,,,,46.6884762,11.2929513
+766,154950324,way,Kesselberg 2 - Costa Valcanova 2,easy,,,,,46.688833,11.29254
+767,154950330,way,Mittager 1 - Catino 1,advanced,,,,,46.6818834,11.2920111
+768,154950333,way,Mittager 2 - Catino 2,intermediate,,,,,46.684075,11.2848432
+769,154950342,way,Oswald 1 - Osvaldo 1,intermediate,,,,,46.6884869,11.2757074
+770,154950351,way,Oswald 2 - - Osvaldo 2,intermediate,,,,,46.688586,11.2769137
+771,154950354,way,,easy,,1,,,46.6838583,11.2654635
+772,154950371,way,,easy,,1,,,46.6786479,11.2566689
+773,154952403,way,,intermediate,,,,,46.6858411,11.2748155
+774,155220510,way,,easy,,,,,46.6837735,11.2787144
+775,155220974,way,Oswald 2,intermediate,,,,,46.6862219,11.279936
+776,160039477,way,Capanna Margherita,easy,,66,,,46.3806846,11.7845399
+777,160039478,way,Campigol,easy,,64,,,46.3809454,11.7824273
+778,160092093,way,,intermediate,,,,,46.5362347,10.9264911
+779,160916072,way,,easy,Variante Presena Paradiso,,no,classic,46.2340224,10.5817198
+780,168308941,way,,easy,Charly,,,,46.5379664,11.7351113
+781,168315630,way,,intermediate,,,,,46.5359347,11.756749
+782,168921392,way,,intermediate,Buffaure Panorama,,,,46.4239695,11.7024207
+783,168921404,way,,intermediate,Rientro Buffaure,,,,46.4200103,11.7071695
+784,169004568,way,,easy,,,,,46.6554633,12.4178206
+785,171068229,way,Watles Abfahrt,intermediate,,,,classic,46.7184311,10.4863884
+786,171068230,way,Watles - Vatles,intermediate,,,,classic,46.7046554,10.5009451
+787,179202070,way,Verbindung Wasserfalleralm-Enzian - Collegamento Malga Cascata-Enzian,easy,,,,classic,46.8474791,11.2995759
+788,179202073,way,Blosegg,intermediate,,,,classic,46.8560969,11.3040255
+789,180184885,way,3,easy,,,,classic,46.5662724,10.5051593
+790,180184886,way,5,intermediate,,,,classic,46.5710854,10.4994364
+791,180184887,way,7,intermediate,,,,classic,46.569245,10.5038574
+792,181514508,way,Rivetta,intermediate,,18,no,,45.957108,11.3143355
+793,181770817,way,Torion,easy,,17,no,,45.957279,11.3057641
+794,182261361,way,Pioverna,intermediate,,25,,,45.8778686,11.2317691
+795,182261362,way,,intermediate,,,,,45.8829543,11.2061941
+796,182261366,way,,easy,,,,,45.8793042,11.2393667
+797,182261367,way,,easy,,,,,45.878913,11.2156834
+798,182261368,way,Baby Coe,easy,,23d,,,45.8769473,11.2201488
+799,182261369,way,Termental,easy,,24,,,45.8776558,11.2224084
+800,183432086,way,,easy,,,,,46.5333835,10.9198264
+801,184435029,way,Cordela,easy,,F,yes,,46.0421598,11.0632089
+802,184435031,way,Palon,intermediate,,A,,,46.0273199,11.0576909
+803,184435032,way,Pinot,intermediate,,P,,,46.0480692,11.0684206
+804,184435035,way,Gran Pista,intermediate,,D,,classic,46.034766,11.0460044
+805,184435036,way,,intermediate,,,,,46.0275632,11.0561864
+806,184435037,way,3-Tre Vaneze,easy,,R,,,46.048283,11.0697649
+807,184641971,way,Diagonale Montesel,easy,,E,yes,,46.0381932,11.062661
+808,184641972,way,3-Tre Panoramica,easy,,M,,,46.0397512,11.0673822
+809,184641973,way,3-Tre Panoramica,easy,,M,,,46.0437316,11.0695524
+810,184818579,way,Lavaman,intermediate,,G,yes,,46.0419654,11.0674426
+811,184818585,way,Boardercross Monte Bondone,intermediate,,N,,,46.042086,11.0685958
+812,184818586,way,Topolino,intermediate,,M,,,46.0431238,11.0693398
+813,184819120,way,Canalon Variante Gare,intermediate,,C,,,46.0347281,11.0582638
+814,186227277,way,Variante Prà Alpesina,easy,,39,,,45.7630409,10.8677419
+815,187116022,way,Mezoli,easy,,2,,,46.3566464,10.6569866
+816,187116026,way,Tarlenta,intermediate,,1,,,46.36378,10.6547168
+817,187161112,way,Collegamento San Valentino Polsa,easy,,23,,,45.7746895,10.9337884
+818,187161114,way,Variante Rosa del sole,intermediate,,21,,,45.7724705,10.9318441
+819,187161118,way,,novice,,,,,45.7869069,10.9173345
+820,187161119,way,,easy,,,,,45.7748843,10.9255854
+821,197627077,way,Piste 2b,intermediate,,2b,,,46.8443432,11.3088873
+822,197898880,way,San Valentino Sud,easy,,27,,,45.7786043,10.9196659
+823,197898881,way,,easy,,,,,45.7772744,10.9250605
+824,197898882,way,,novice,,,,,45.7809713,10.9142576
+825,197934755,way,Malga Susine,intermediate,,15,,,45.7745496,10.9426604
+826,197934756,way,Polsa 1,intermediate,,11,,,45.7776033,10.9433004
+827,197935180,way,Malga Pra' Vecchio,advanced,,,,,45.7729406,10.9354498
+828,198334653,way,Skiweg Schwemmalm - Breiteben,easy,,,,,46.5332735,10.9230443
+829,198334654,way,Skiweg St.Moritz,easy,,2,,,46.5404742,10.9447068
+830,198334657,way,,easy,,,,,46.5409543,10.9342443
+831,198334658,way,Ubungspiste,easy,,5,,,46.5410205,10.9333402
+832,198334659,way,,easy,,,,,46.5408186,10.9342932
+833,198334660,way,Skiweg Schwemmalm - Breiteben,easy,,9,,,46.5337141,10.9208787
+834,198334662,way,,easy,,,,,46.5414983,10.9319437
+835,198334663,way,Asmol,intermediate,,6,,,46.5389753,10.9205463
+836,198372895,way,Skiweg lo Scoiattolo,easy,,X,,,46.1436665,11.0146322
+837,198372896,way,Nuvola Rossa,intermediate,,V,,,46.1539284,11.0445606
+838,198760143,way,Le Caviette,intermediate,,42,,,46.3679907,11.8063793
+839,199275476,way,,easy,,,,,46.343439,11.7033629
+840,199275478,way,,advanced,,,,,46.3676697,11.6874992
+841,199275479,way,,advanced,,,,,46.3679206,11.6875646
+842,199275481,way,,advanced,,,,,46.3673573,11.6870006
+843,199275483,way,,advanced,,,,,46.3674178,11.6873865
+844,199275484,way,Lasté,intermediate,,8,,,46.3432181,11.7116186
+845,199275486,way,,easy,,,,,46.3454585,11.6929335
+846,199275487,way,Canalone Tomba,advanced,,2a,,,46.3466826,11.6862859
+847,199276086,way,Monzoni,intermediate,,60,,,46.3869982,11.7838713
+848,199276088,way,Le Coste A,intermediate,,49A,,,46.3884122,11.8012372
+849,199413986,way,,easy,,,,,46.4794869,11.8074608
+850,199413987,way,Vernel,intermediate,,2,,,46.4804908,11.8007659
+851,199413989,way,Belvedere,easy,,3,,,46.4801489,11.8038324
+852,199413991,way,Variante Marmotte,intermediate,,1b,,,46.4811247,11.807177
+853,199483828,way,Gonzaga,intermediate,,8,no,classic,46.4838337,11.8021515
+854,199513820,way,Collegamento Costabella - Prafiorì,easy,,84,,,46.2474826,11.4944437
+855,199513821,way,Collegamento Lagorai - Costabella,easy,,86,,,46.2495405,11.494866
+856,199513822,way,Collegamento Prafiorì - Costabella,easy,,76,,,46.2460433,11.4953375
+857,199513823,way,Costabella,intermediate,,79,,,46.2462995,11.4983551
+858,199513825,way,Forcella Bombasel,intermediate,,75,,,46.2375333,11.5012733
+859,199513827,way,Lagorai,easy,,77,,,46.2466421,11.5041758
+860,199513828,way,Olimpia 1,advanced,,80,,,46.2455454,11.4995257
+861,199513829,way,Olimpia 2,advanced,,81,,,46.2572524,11.4874037
+862,199513831,way,Prafiorì,intermediate,,82,,,46.2412376,11.4945908
+863,199513832,way,Salera,intermediate,,83,,,46.2401055,11.4968887
+864,199553743,way,,intermediate,Le Caviette,,,,46.3752243,11.8079108
+865,200908278,way,,easy,,,,,46.3779921,11.8014059
+866,201014165,way,Del Passo,easy,,44,,,46.3779976,11.7992834
+867,201014166,way,,easy,,,,,46.3784787,11.7966553
+868,201512317,way,,easy,,,,,46.7180288,12.3594891
+869,202064090,way,,intermediate,,,,,46.6971635,11.4390886
+870,202673285,way,Rolle 2,easy,,2,,,46.2983361,11.7817017
+871,202673286,way,Castellazzo 2,intermediate,,4,,,46.3028486,11.7928546
+872,202673287,way,Raccordo Paradiso,easy,,11,,,46.2942577,11.7801371
+873,202673288,way,Castellazzo 3,intermediate,,3,,,46.3012554,11.792626
+874,202673289,way,Ferrari I,easy,,7,,,46.293713,11.7834794
+875,202673290,way,Rolle 1,easy,,1,,,46.2977196,11.7820144
+876,202673292,way,Fiamme Gialle,intermediate,,8,,,46.2900274,11.7867729
+877,202673293,way,,easy,,,,,46.2972603,11.778442
+878,202673296,way,,easy,,,,,46.2963607,11.7810208
+879,202673297,way,,easy,,,,,46.2996124,11.7867479
+880,202673298,way,Paradiso 1,advanced,,9,,,46.2905518,11.7821542
+881,203462697,way,Prà Erto,advanced,,26,,,46.3447821,11.545417
+882,203462699,way,Zanggen 1,intermediate,,9,,,46.3556856,11.5356353
+883,203462713,way,Variante Dossi,advanced,,30a,,,46.3318254,11.5567715
+884,203462715,way,Variante Bosco,advanced,,21,,,46.3499561,11.5369512
+885,203462716,way,Muro Pala di Santa,advanced,,20a,,,46.3501916,11.5333219
+886,203593416,way,,easy,,,,,46.2342445,10.8247621
+887,203774864,way,Olimpionica 2,advanced,,H,,,46.1465026,11.0227397
+888,203936134,way,,easy,Via del Bosco,,,,46.2499832,11.4800245
+889,206375991,way,,easy,,,,,46.3979027,11.2082918
+890,206375992,way,,novice,,,,,46.403138,11.2075661
+891,206984693,way,,easy,Variante Presena Paradiso,209,no,,46.2311464,10.5817554
+892,206985805,way,Cadì Carosello,advanced,Cadì Carosello,32,,,46.2687144,10.580802
+893,206985806,way,Valena,easy,Valena,33,,,46.2635367,10.5829977
+894,206988310,way,Valena,easy,Valena,33,,,46.2632742,10.5841301
+895,206988311,way,,easy,,,,,46.2674626,10.5856607
+896,206988313,way,Tonale Occidentale,intermediate,Tonale Occidentale,35,,,46.2799509,10.575665
+897,206988314,way,Valbiolo,easy,Valbiolo,34,,,46.2720338,10.5858067
+898,206988315,way,,intermediate,Contrabbandieri,36,,,46.2855347,10.5797868
+899,208093053,way,Ciampac,advanced,Ciampac,,no,classic,46.4516712,11.7804752
+900,208093054,way,,easy,,,,,46.443035,11.6814666
+901,208093056,way,Ciampac,advanced,,,no,classic,46.4478795,11.775291
+902,208093057,way,Thöni,intermediate,,,,,46.4271613,11.6627718
+903,208264695,way,Boe - Campolongo,intermediate,,22,no,classic,46.5239053,11.8652477
+904,208264697,way,Comici II,intermediate,,,no,classic,46.5318524,11.7502711
+905,208293531,way,,intermediate,,,,,46.4916115,11.7813021
+906,208293533,way,,intermediate,,,,,46.5020308,11.7524767
+907,208293534,way,,intermediate,,,,,46.4919992,11.7811432
+908,208293535,way,Pordoi,intermediate,,7,no,classic,46.4869623,11.8051719
+909,208446672,way,,easy,,,,,46.5560818,11.9217837
+910,208446675,way,,easy,,,,,46.5552763,11.9146376
+911,208446681,way,,easy,,,,,46.5550122,11.9147641
+912,208446686,way,,easy,,,,,46.5548282,11.9150119
+913,208580610,way,Capanna Nera,easy,,,no,classic,46.545437,11.8779576
+914,208580614,way,Biancaneve,easy,,,no,classic,46.5569161,11.7652727
+915,208580616,way,,easy,,,,,46.5448313,11.8797736
+916,208580618,way,,intermediate,,,,,46.5387482,11.7521982
+917,208580620,way,Costes da l'Ega,easy,,8,no,classic,46.5451432,11.8784096
+918,208580622,way,Catores - Fermeda,intermediate,,,no,classic,46.5944057,11.7305179
+919,208719710,way,,easy,,,,,46.5571429,11.7308805
+920,208719714,way,,easy,,,,,46.5654104,11.9061311
+921,208719721,way,Piz Secteur - Sotsaslong,intermediate,,,no,classic,46.525984,11.760087
+922,208719722,way,Sotsaslong,easy,,,no,classic,46.5254044,11.7527743
+923,208728569,way,Curona,easy,,,no,classic,46.5953936,11.7260696
+924,208732386,way,Florian - Zallinger - Floralpina,intermediate,,34,no,classic,46.5198147,11.6773555
+925,209187035,way,Fungeia - Campo Freina,easy,,,no,classic,46.5490537,11.7643915
+926,209187048,way,,easy,,,,,46.5436107,11.8853992
+927,209187049,way,,intermediate,,,,,46.5555905,11.9178643
+928,209194340,way,Variante Super Red,intermediate,,,,,46.4827397,11.7982988
+929,209289249,way,,easy,,,,classic,46.2549028,11.7952518
+930,210471394,way,,novice,,,,,46.4031803,11.6095891
+931,210550216,way,,intermediate,,,,,46.8326764,10.6473065
+932,210550217,way,,intermediate,,,,,46.8337999,10.6467952
+933,210784401,way,55 Latemarwiesen - 55 Prati di Latemar,intermediate,,,,,46.3986444,11.6010742
+934,210784403,way,54 Pra di Tori,advanced,,,,,46.3983214,11.6028581
+935,210789849,way,,easy,,,,,46.4031274,11.6077369
+936,210789851,way,56 Le Pope,easy,,,,,46.4014559,11.6069845
+937,210789855,way,,easy,,,,,46.4035107,11.606766
+938,210789858,way,54 Pra di Tori,easy,,,,,46.4014662,11.6068957
+939,210789861,way,,easy,,,,,46.4035023,11.6088327
+940,210789863,way,,easy,,,,,46.4027718,11.6062417
+941,211181078,way,,easy,,,,,46.4080909,11.5924112
+942,211193213,way,45 Paolina,intermediate,,,,,46.4134462,11.6068451
+943,211193214,way,43A Golf I,easy,,,,,46.4120244,11.5973575
+944,211193215,way,45 Paolina,intermediate,,,,,46.4110434,11.5999124
+945,211193217,way,44a Verbindung Masarè Hütte,novice,,,,,46.4149829,11.6089413
+946,211194519,way,43B Golf II,easy,,,,,46.4086445,11.592777
+947,211194521,way,,easy,,,,,46.4081599,11.5917319
+948,211194522,way,43 Golf I,easy,,,,,46.4108373,11.5941316
+949,211194524,way,,easy,,,,,46.408383,11.591478
+950,211196049,way,45 Paolina,advanced,,,,,46.4151087,11.6119052
+951,211196050,way,42a Rosengarten,intermediate,,,,,46.4133153,11.6012836
+952,211196051,way,44 Masarè,advanced,,,,,46.4155919,11.6108037
+953,211197991,way,,easy,,,,,46.4144859,11.5985666
+954,211197993,way,40 Franzin,easy,,,,,46.4173844,11.5925322
+955,211197994,way,,easy,,,,,46.4210715,11.5884667
+956,211356488,way,,easy,,,,,46.4145987,11.5985397
+957,211356489,way,,easy,,,,,46.415405,11.5980409
+958,211356492,way,,easy,,,,,46.4076394,11.5965024
+959,211356494,way,53 Hubertus,easy,,,,classic,46.4077953,11.5943489
+960,211768971,way,,easy,,,,,46.4137005,11.5968921
+961,211772941,way,,easy,,,,,46.4216062,11.587119
+962,211777131,way,21 Laurin II,intermediate,,,,classic,46.4408807,11.5997788
+963,211777132,way,20 König Laurin - 20 Re Laurino,advanced,,,,classic,46.4432581,11.6092454
+964,211777133,way,,intermediate,,,,,46.4404674,11.598434
+965,211777134,way,,intermediate,,,,classic,46.4422352,11.6116115
+966,211777135,way,21 Laurin II,intermediate,,,,classic,46.4406253,11.600943
+967,211777137,way,23 Monte Coronelle,intermediate,,,,classic,46.4419725,11.5943211
+968,211959294,way,Leite,intermediate,,23c,,,45.8790655,11.2158226
+969,220274551,way,1b,intermediate,,,no,classic,46.4950172,10.5959468
+970,225908937,way,,easy,Variante Presena Paradiso,,no,classic,46.2378985,10.5808731
+971,226563619,way,Cengio Rosso,intermediate,,18,,,45.8774234,11.2043279
+972,226726733,way,Variante Rainer,advanced,,22,,,45.8837042,11.2030641
+973,227342281,way,Campo Scuola Rolly Marchi,easy,,B,,,46.1610903,11.0507424
+974,227347790,way,,freeride,,K,,backcountry,46.1394806,11.0279252
+975,227347792,way,,freeride,,N,,backcountry,46.1406592,11.0190632
+976,227347794,way,Teresat,novice,,R,,,46.1482367,10.9964497
+977,229699929,way,,easy,Panoramica,SP215,,,46.3444532,11.5518808
+978,231319847,way,,easy,Cigolade,,,,46.4347178,11.6521502
+979,231609291,way,12b,intermediate,,,,,46.7141268,12.3739594
+980,231609315,way,,intermediate,,,,,46.710585,12.3691846
+981,231615098,way,,intermediate,,,,,46.7059597,12.3750682
+982,231615102,way,11- Helm Sexten,intermediate,,,,,46.7028309,12.3764534
+983,231615111,way,11- Helm Sexten  -  11 - Elmo Sesto,intermediate,,,,,46.6998581,12.3756863
+984,231615113,way,11- Helm Sexten  -  11 - Elmo Sesto,intermediate,,,,,46.704643,12.3757923
+985,238192362,way,,intermediate,,,,,46.7137807,12.3651371
+986,238404879,way,Madritsch,advanced,,,,,46.5102455,10.5954861
+987,239198586,way,I - Skiweg Unesco,easy,,,,classic,46.6555601,12.4098525
+988,239200618,way,,easy,4b,,,,46.6653737,12.3726087
+989,239200622,way,,easy,4b,,,,46.6657606,12.372114
+990,239435467,way,Cadepunt,easy,,,no,classic,46.5582315,11.7655807
+991,240495380,way,,easy,,,no,classic,46.58161,11.902613
+992,243640142,way,Tulot,advanced,,100,,,46.1751293,10.7918515
+993,243640143,way,Clump,easy,,111,,,46.1737916,10.8099612
+994,243640145,way,Fossadei,easy,,109,,,46.1702308,10.7924347
+995,243640146,way,Variante Tulot,advanced,,117,,,46.1726515,10.785887
+996,243640147,way,Cioca 2,intermediate,,108,,,46.1725409,10.8033498
+997,243640148,way,Skiweg Fossadei - Cioca 2,easy,,118,,,46.1728349,10.7983049
+998,244525307,way,Schmugglerabfahrt - Pista dei Contrabbandieri,intermediate,,,,,46.7781581,10.790693
+999,244840614,way,Talabfahrt Haideralm,intermediate,,10,,classic,46.7623751,10.5178836
+1000,244923529,way,2,easy,,,,,46.5579759,10.5085624
+1001,244924028,way,5,easy,,,,,46.5677352,10.501423
+1002,244924204,way,7,intermediate,,,,,46.5735583,10.499068
+1003,244924334,way,8,advanced,,,,,46.572439,10.5033619
+1004,244924533,way,9,easy,,,,,46.5722567,10.5047865
+1005,244926967,way,,easy,Geister 1,,no,classic,46.5046528,10.4709671
+1006,244927947,way,,easy,Geister 2,,no,classic,46.504631,10.4702806
+1007,244928601,way,Livrio - Trincerone,easy,Livrio - Trincerone,,no,classic,46.5136482,10.4644623
+1008,244930617,way,Trincerone - Passo Stelvio,easy,Trincerone - Passo Stelvio,5,no,classic,46.5216167,10.4560056
+1009,244932842,way,1,easy,,,no,classic,46.4983814,10.623648
+1010,244932844,way,1a,easy,,,,,46.491851,10.6135772
+1011,244934070,way,1b,intermediate,,,,,46.4890616,10.6023981
+1012,244934071,way,6,advanced,,,no,backcountry,46.4967744,10.598347
+1013,244935277,way,2,easy,,,,,46.4945577,10.6156126
+1014,244935836,way,3,intermediate,,,no,classic,46.4969258,10.6198527
+1015,244935837,way,4,intermediate,,,,,46.4984011,10.6195707
+1016,244935838,way,8,intermediate,,,no,classic,46.5013024,10.6220495
+1017,244935839,way,7,advanced,,,no,classic,46.5015981,10.6189657
+1018,244938275,way,Zayabfahrt,easy,,13,no,classic,46.5261166,10.6056494
+1019,244938276,way,Abfahrt Kanzel,easy,,12,no,classic,46.525766,10.5985269
+1020,244938279,way,15,intermediate,,,,,46.5181727,10.5743306
+1021,244938280,way,14,easy,,,,,46.5175522,10.5742218
+1022,245189893,way,Rennpiste Lazaun,intermediate,,L2,,classic,46.7558827,10.772837
+1023,245189894,way,Familienpiste Lazaun,intermediate,,L1,,classic,46.7537494,10.7717835
+1024,245189895,way,,intermediate,,L2,,,46.7550341,10.7688765
+1025,245190152,way,Glocken 1,easy,,K1,,classic,46.7573721,10.7851056
+1026,245190153,way,Glocken 2,easy,,K2,,classic,46.7571807,10.7852184
+1027,245191314,way,Teufelsegg R1,advanced,,,,,46.7824633,10.7675031
+1028,245191315,way,Teufelsegg R2,advanced,,,,,46.7789439,10.7755232
+1029,245191944,way,Teufelsegg R1,advanced,,,,,46.7786319,10.7730616
+1030,245193630,way,,advanced,,,,,46.7600168,10.7835776
+1031,245193631,way,S3 Leo Gurschler,advanced,,,,,46.7794544,10.8007211
+1032,245195677,way,F1,easy,,,,,46.774364,10.8080099
+1033,245195679,way,F2,easy,,,,,46.7744738,10.8084359
+1034,245195682,way,G3,easy,,,,,46.7727171,10.8018466
+1035,245195685,way,Hintereis 2,easy,,,,,46.7887832,10.7929441
+1036,245201977,way,,advanced,,,,,46.7932751,11.0927172
+1037,245201982,way,,easy,,,,,46.7932763,11.0835725
+1038,245201985,way,,easy,,,,,46.7923658,11.0822771
+1039,245201988,way,,easy,,,,,46.7925402,11.0822189
+1040,245201991,way,,easy,,,,,46.7949981,11.0835866
+1041,245201993,way,,easy,,,,,46.7959217,11.0857032
+1042,245201995,way,,easy,,,,,46.7958169,11.085691
+1043,245201998,way,,easy,,,,,46.79727,11.0878066
+1044,245204445,way,Favorit,intermediate,,,no,classic,46.9146653,11.4029333
+1045,245204446,way,Favorit Varianten - Variante,easy,,,no,classic,46.9176387,11.400596
+1046,245204447,way,Favorit Varianten - Variante,easy,,,no,,46.9121506,11.4102698
+1047,245204449,way,Gringesboden,intermediate,,,no,classic,46.9115795,11.4039212
+1048,245204451,way,International I,intermediate,,,no,classic,46.9146834,11.3924619
+1049,245204453,way,International II,intermediate,,,no,classic,46.9141842,11.3924619
+1050,245204455,way,Sonne,easy,,,no,classic,46.9123666,11.3920069
+1051,245204457,way,Training,advanced,,,no,classic,46.913541,11.3924299
+1052,245204459,way,Ramingeralm,intermediate,,,no,classic,46.9097936,11.3966723
+1053,245206102,way,,intermediate,Schwandt,,no,classic,46.8445224,11.6432565
+1054,245208331,way,Oberhorn 1,easy,,,,,46.6083598,11.4591257
+1055,245208332,way,Oberhorn 2,easy,,,,,46.6080173,11.4598594
+1056,245208337,way,Steilhang Pennleger - Scarpata Pennleger,advanced,,,,,46.6044491,11.4610127
+1057,245208339,way,,easy,,,,,46.5794986,11.454713
+1058,245208341,way,,easy,,,,,46.5998015,11.4536115
+1059,245208522,way,Schwarzsee 1 - Lago Nero 1,intermediate,,,,,46.5939732,11.4510263
+1060,245208523,way,Schwarzsee 2 - Lago Nero 2,advanced,,,,,46.5927849,11.4522359
+1061,245214920,way,,easy,,,,,46.6287109,11.1165683
+1062,245214921,way,,intermediate,,,,,46.6323057,11.1086738
+1063,245214922,way,,intermediate,,,,,46.6368058,11.0991791
+1064,245214923,way,,intermediate,,,,,46.6360477,11.0949111
+1065,245214924,way,,intermediate,,,,,46.6402841,11.0971453
+1066,245372221,way,Cima Storta,intermediate,,,,,46.0532154,11.3217639
+1067,245372222,way,Rigolor,advanced,,,no,classic,46.0543128,11.3260386
+1068,245372223,way,,intermediate,,,,,46.0519182,11.3286907
+1069,245372224,way,Collegamento Storta - Rigolor,advanced,,,,,46.0539126,11.323818
+1070,245372225,way,,easy,,,,,46.0546874,11.3204655
+1071,245372226,way,,easy,,,,,46.0492671,11.324474
+1072,245372227,way,,easy,,,,,46.0532916,11.3163493
+1073,245372228,way,,easy,,,,,46.0495584,11.3180241
+1074,245372229,way,,easy,,,,,46.0528191,11.3163776
+1075,245372230,way,,easy,,,,,46.0527647,11.3172844
+1076,245473890,way,Collegamento Covel - Peio,easy,,,,,46.3625718,10.662065
+1077,245473891,way,Freeride delle Gole,advanced,,,,,46.3627307,10.6647063
+1078,245473892,way,,freeride,,,no,backcountry,46.3745627,10.6623359
+1079,245473893,way,Doss dei Gembri,intermediate,,4,no,classic,46.377528,10.6601446
+1080,245473894,way,Scoiattolo,intermediate,,11,no,classic,46.371891,10.6627268
+1081,245473895,way,Variante dei Monti,intermediate,,13,no,classic,46.3780062,10.6550489
+1082,245473896,way,,intermediate,,,,,46.3700678,10.6598672
+1083,245476757,way,,easy,,,,,46.1543942,10.9586399
+1084,245597674,way,21 - Untertal,intermediate,,,,,46.7156543,12.2765229
+1085,245597679,way,22 - Lärchen,easy,,,,,46.7221778,12.2788028
+1086,245597680,way,19 - Haunold,intermediate,,,yes,classic,46.7239483,12.2789409
+1087,245597681,way,19a - Haunold West,easy,,,,,46.7235663,12.2774819
+1088,245598089,way,,intermediate,,,,,46.7248806,12.203284
+1089,245598090,way,,easy,,,,,46.7249238,12.2089367
+1090,245599360,way,,intermediate,,,,,46.6963861,12.1641351
+1091,245599361,way,,intermediate,,,,,46.6966281,12.1643262
+1092,245599362,way,,easy,,,,,46.70104,12.1634464
+1093,245607053,way,18a - Skiweg Raut,easy,,,,,46.727236,12.3333664
+1094,245607056,way,13b - Raut Vierschach,advanced,,,,,46.7267086,12.340103
+1095,245607057,way,18 - Übungshang Raut,easy,,,,,46.7293652,12.3328289
+1096,245607059,way,16 - Helm  -  16 - Elmo,easy,,,,,46.716614,12.3666393
+1097,245610098,way,,easy,,,,,46.6951236,12.3517734
+1098,245610099,way,,easy,,,,,46.6951935,12.351592
+1099,245610100,way,7 - Bruggerleite,easy,,,yes,classic,46.6909854,12.3689747
+1100,245610101,way,,easy,,,,,46.6941123,12.3682553
+1101,245610102,way,,easy,,,,,46.6934639,12.3685583
+1102,245610104,way,6,easy,,,,,46.684137,12.3692971
+1103,245610110,way,1 - Kreuzberg,easy,,,,,46.6522761,12.4163749
+1104,245612123,way,,intermediate,,,,,46.6902247,11.8457508
+1105,245614434,way,,easy,,,no,classic,46.6363826,11.7148524
+1106,245617418,way,Mezdì - Cabinovia Ortisei,easy,,41,no,classic,46.5582136,11.6613752
+1107,245617420,way,Ludy,easy,,38,no,classic,46.5527377,11.6642735
+1108,245617421,way,Ludy,easy,,38,no,classic,46.5527486,11.6645028
+1109,245617424,way,Furdenan 2,easy,,,,,46.5701037,11.6738327
+1110,245617425,way,Palmer - Furdenan,easy,,,,,46.5698989,11.6747998
+1111,245617426,way,Furdenan - Palmer,easy,,,,,46.570144,11.6743794
+1112,245617860,way,Resciesa - Furnes,intermediate,,,no,classic,46.5944893,11.6907868
+1113,245618872,way,Parallel 2,easy,,,no,classic,46.5495873,11.7101129
+1114,245618874,way,Cendevaves 2,easy,,,,,46.5521774,11.7107804
+1115,245637626,way,Brenta,intermediate,,112,,,46.18143,10.8171548
+1116,245637628,way,Valagola,intermediate,,105,,,46.1749739,10.8136769
+1117,249373839,way,,easy,,,no,classic,46.6386975,11.7139514
+1118,255038647,way,Fermeda 2,intermediate,,10,no,,46.596786,11.7344944
+1119,255159933,way,Floralpina 1,easy,,27,no,classic,46.5278421,11.6573189
+1120,255159936,way,Floralpina 2,intermediate,,28,no,classic,46.5276393,11.6592812
+1121,255159938,way,Laurin - Panorama,easy,,9,no,classic,46.5307381,11.622644
+1122,257534201,way,Ried,easy,Ried,,no,classic,46.7828611,11.9851012
+1123,258608505,way,,easy,,,,,45.8783409,11.2127829
+1124,258608506,way,Skiweg Costa D'Agra,easy,,25b,,,45.8801245,11.244572
+1125,258608507,way,Trugalait,intermediate,,16,,,45.8805212,11.1975571
+1126,259583409,way,,,,,,backcountry,46.9195172,11.4773275
+1127,259587912,way,,intermediate,,,,backcountry,46.6801623,12.0985235
+1128,260621236,way,(64) Lame,intermediate,,64,,classic,46.2277173,10.870481
+1129,261902464,way,,easy,,,,,46.4459234,11.7702191
+1130,261902466,way,Variante Roseal,advanced,,,,,46.4374651,11.7611051
+1131,261902469,way,Prà Martin,intermediate,,,,,46.4358819,11.659017
+1132,262016853,way,Stella d'Italia facile,easy,,5b,,,45.8987645,11.196019
+1133,262473677,way,Pralongià I,easy,,31,no,classic,46.5421927,11.8950264
+1134,262473688,way,Piz Sorega B,easy,,11,no,classic,46.5645212,11.9404939
+1135,262565486,way,,easy,,,,,46.5989055,11.9005058
+1136,262565487,way,,easy,,,no,classic,46.5813806,11.9017215
+1137,262565488,way,,easy,,,,,46.5990355,11.9002137
+1138,262565491,way,Biok - Pralongia II,easy,,7,no,classic,46.5447195,11.9114642
+1139,262773704,way,,intermediate,,,,,46.4917011,11.7808284
+1140,262804072,way,Canazei,intermediate,,6,,,46.47941,11.7772637
+1141,262804075,way,Canazei,intermediate,,6a,,,46.4787953,11.7763514
+1142,262804077,way,Rodella 3 / Tre,intermediate,,11,,,46.4836996,11.7792591
+1143,262804078,way,Rodella 3 / Tre,intermediate,,11,,,46.4835654,11.7793764
+1144,262804547,way,Sass Becé,intermediate,,1,,,46.4785257,11.8125549
+1145,262804548,way,,intermediate,,,,,46.4783561,11.8121836
+1146,263014394,way,,intermediate,,,,,46.5602512,11.8527083
+1147,263014398,way,Martinelli,intermediate,,,no,classic,46.5073556,11.7509196
+1148,263993527,way,Pradis-ci,novice,,,,,46.1545356,11.2897914
+1149,266694940,way,,freeride,,,no,,46.8356922,11.6030913
+1150,266866974,way,Skiweg Schwemmalm - Breiteben,easy,,9,,,46.5359225,10.9225611
+1151,266866975,way,Skiweg Schwemmalm - Breiteben,easy,,9,,,46.5321911,10.922253
+1152,268865053,way,Dosso Larici,intermediate,,C,,,46.1478836,11.0402459
+1153,274613214,way,,easy,Falzeben 1,,,,46.6748925,11.2521824
+1154,278003886,way,Le Cogole,easy,,11,no,,45.9569426,11.2884577
+1155,278118272,way,Baby,easy,,21,no,,45.9591178,11.3140117
+1156,278118274,way,Skiweg Laghetto,easy,,12,no,,45.956644,11.2956427
+1157,278118276,way,Lait primi passi 1-2,novice,,20,no,,45.9596761,11.3146471
+1158,278118280,way,Skiweg Vivaio,easy,,13,no,,45.9561101,11.2977545
+1159,278118281,way,Skiweg Vivaio,easy,,13,no,,45.9570935,11.2942443
+1160,286101749,way,Grual Rossa,intermediate,,104,,,46.1690045,10.8097778
+1161,286101753,way,,easy,,,,,46.1721572,10.8134328
+1162,286101754,way,,easy,,,,,46.1675023,10.7862614
+1163,286101761,way,,easy,,,,,46.1672479,10.7860183
+1164,286101766,way,,easy,,,,,46.1675783,10.7865138
+1165,286101785,way,Cioca 1,intermediate,,107,,,46.1764271,10.8025876
+1166,292474097,way,Drei Zinnen - Tre Cime,intermediate,,,,,46.6875062,12.3899301
+1167,292474098,way,Stiergarten - Orto del Toro,advanced,,,,classic,46.6972284,12.387422
+1168,292912229,way,I - Skiweg Unesco,easy,,,,classic,46.6540801,12.4049786
+1169,297443143,way,,intermediate,31 Residenza,,,,46.3468829,11.5586607
+1170,297443148,way,,intermediate,Residenza,,,,46.3490415,11.5543503
+1171,299682092,way,Col Alt - Braia Fraida,easy,,,no,classic,46.5527752,11.88721
+1172,305517450,way,,easy,,,yes,,46.4038783,11.4417554
+1173,307890418,way,Sghirlat,easy,,22,,,46.2845983,10.8228427
+1174,309129815,way,II - Popera,easy,,,,classic,46.6415153,12.4352297
+1175,315940715,way,,easy,,,no,classic,46.558087,11.76513
+1176,315940719,way,Collegamento Alpha - Bravo,advanced,,,no,classic,46.5400408,11.719286
+1177,318343404,way,Corno Nero,easy,,92,,classic,46.3421551,11.4541658
+1178,318343408,way,,easy,,,,,46.3469615,11.4518626
+1179,319980590,way,Orti,advanced,,25,,,46.2876825,10.8138635
+1180,320339196,way,Doss della Pesa / Ometto,intermediate,,,,,46.2817307,10.8209325
+1181,320340256,way,junction,easy,,,,,46.2797975,10.8151461
+1182,320340816,way,(24) Skiweg Panciana,easy,,24,,,46.2885335,10.8165165
+1183,320359740,way,Pancianina,intermediate,,23,no,,46.2875858,10.8210887
+1184,320361724,way,,easy,,,,,46.2814309,10.8224472
+1185,320372929,way,Biancaneve,easy,,27,yes,classic,46.3002025,10.8089141
+1186,320373174,way,Skiweg Albarè,easy,,28,,,46.3027812,10.8099929
+1187,320373290,way,,intermediate,,31,no,,46.3003501,10.8103061
+1188,320388413,way,,intermediate,,,,,46.2751803,10.8270918
+1189,320483520,way,,intermediate,(36) Contrabbandieri,,,,46.2814927,10.5815092
+1190,320767993,way,,intermediate,,,,,46.2565253,10.8143626
+1191,320767994,way,,easy,,,,,46.2640368,10.8306572
+1192,320767995,way,,easy,,,,,46.2640561,10.8303696
+1193,320770150,way,,easy,,,,,46.2852846,10.837504
+1194,320770151,way,,easy,,,,,46.2854004,10.8374322
+1195,320770620,way,junction,easy,,,,,46.2887316,10.8471936
+1196,321150480,way,Capanna Nera,easy,,,no,classic,46.5455592,11.8783312
+1197,321150482,way,Capanna Nera,easy,,,no,classic,46.5465879,11.8774007
+1198,324486208,way,,easy,,,,,46.2797714,10.832202
+1199,327245145,way,Sodlisia,easy,,36,no,classic,46.5497508,11.8547821
+1200,327412033,way,Collegamento,easy,,,,,45.8780762,11.1969448
+1201,327412034,way,Martinella Nord,advanced,,10,,,45.8890671,11.1820273
+1202,327799776,way,Verbindung Wasserfalleralm-Enzian,easy,,,,classic,46.8481598,11.3031932
+1203,328527599,way,Campo Scuola Ciampedie,novice,,,,classic,46.4351858,11.66767
+1204,328528000,way,Aloch SL,advanced,,,yes,classic,46.4247843,11.6953259
+1205,329122981,way,(65) Vagliana,intermediate,,65,no,classic,46.2323873,10.8678042
+1206,329126625,way,(63) Cima Grostè,intermediate,,63,,classic,46.2150513,10.8959341
+1207,329126626,way,(60) Graffer,easy,,60,no,classic,46.2199925,10.8822917
+1208,329614763,way,30A Verbindung Tschein,easy,,,,,46.4373976,11.6001588
+1209,329615097,way,22 Frommer,easy,,,,classic,46.4427752,11.5921353
+1210,329615098,way,23 Variante Monte Coronelle,easy,,,,classic,46.4405902,11.5965948
+1211,329650898,way,(66) Pozza vecia,easy,,66,no,classic,46.2344018,10.8517061
+1212,329650900,way,(77) Fortini,intermediate,,77,,,46.2355053,10.8390935
+1213,329650902,way,(74) Nube d'oro,advanced,,74,no,classic,46.2276541,10.847506
+1214,329650903,way,(75) Variante marchi,advanced,,75,no,classic,46.2296122,10.8489097
+1215,329656434,way,Skiweg Mastellissima,intermediate,,36,no,,46.2939451,10.8294267
+1216,329656436,way,Mastellissima,intermediate,,32,,,46.3004637,10.8384971
+1217,329954401,way,,intermediate,,,,,46.9497659,12.0604078
+1218,329954402,way,,intermediate,,,,,46.9523286,12.0627373
+1219,329954403,way,,intermediate,,,,,46.9517441,12.0647069
+1220,329954404,way,,intermediate,,,,,46.9544197,12.0603197
+1221,329954405,way,,easy,,,,,46.9544703,12.0606268
+1222,330502539,way,Puntea 1,easy,,,no,classic,46.5514828,11.7106899
+1223,331114845,way,,advanced,,,,,46.7126649,11.9522858
+1224,331114846,way,,easy,,,,,46.7382936,11.9572855
+1225,331114847,way,Furcia 12,intermediate,,12,,,46.7380726,11.956568
+1226,331114848,way,Piculin,advanced,,45,,,46.6917066,11.8960661
+1227,331114849,way,Piculin,advanced,,45,,classic,46.6918473,11.8997178
+1228,331117758,way,Sponata,intermediate,,24,,,46.5988485,11.9002915
+1229,331117760,way,,intermediate,,,,,46.5971061,11.8993167
+1230,331371635,way,Sasso di Rocca 2,intermediate,,,,,46.4369511,11.7698928
+1231,331371637,way,Vulcano,advanced,,,,,46.4258514,11.7090868
+1232,331422350,way,,intermediate,,,,,46.4858148,11.7842371
+1233,331422351,way,,intermediate,,,,,46.4791939,11.7958548
+1234,331580158,way,Piz Sella 5,intermediate,,,no,classic,46.5333952,11.7676405
+1235,331580163,way,Plran de Gralba,easy,,,no,classic,46.5323637,11.7654814
+1236,331858946,way,,intermediate,,,,,46.5021259,11.7551729
+1237,331962046,way,Frara,easy,,40,no,classic,46.5486221,11.8286187
+1238,331962048,way,Val Setus - Plans,intermediate,,41,no,classic,46.5479524,11.8241947
+1239,331962049,way,,intermediate,,,,,46.5508483,11.8085748
+1240,331962052,way,Colfosco 1,intermediate,,,no,classic,46.5602878,11.8465488
+1241,331962053,way,Val Setus - Plans,intermediate,,41,no,classic,46.5486995,11.8154012
+1242,331962055,way,,easy,,,,,46.5619774,11.9140139
+1243,331962056,way,Frara,easy,,40,no,classic,46.5478779,11.8367292
+1244,331962858,way,,intermediate,,,,,46.4912335,11.7829387
+1245,331964369,way,,intermediate,,,,,46.4742942,11.8670472
+1246,332014023,way,Vallon,advanced,,1,no,classic,46.5235765,11.8558923
+1247,332160729,way,Olimpia III,intermediate,,87,,,46.2654547,11.4814514
+1248,332160730,way,Olimpia 3,intermediate,,87,yes,,46.2743215,11.4775073
+1249,332290590,way,,intermediate,,,,,46.4969658,11.7653577
+1250,332290592,way,,intermediate,,,,,46.5012379,11.7553741
+1251,332290593,way,Martinelli,intermediate,,,no,classic,46.5071333,11.7506505
+1252,332290594,way,Rodella,intermediate,,,,,46.4994363,11.7548997
+1253,332290597,way,Rodella,intermediate,,12,no,classic,46.4999268,11.7506806
+1254,334063489,way,,easy,,,yes,classic,46.3250928,11.1451962
+1255,334063491,way,,easy,,,,classic,46.3239284,11.1460916
+1256,335033076,way,Ciampedie - Pian Pecei,easy,,,,classic,46.4359303,11.6622646
+1257,336896238,way,Mastellina,easy,,16,,,46.2878267,10.8326185
+1258,376594099,way,,easy,,,,,46.6359516,11.1005048
+1259,387739789,way,,intermediate,,,,,46.7699053,10.7996758
+1260,387739790,way,,easy,,,,,46.7724472,10.8057225
+1261,387739791,way,,intermediate,,,,,46.7700914,10.8016479
+1262,387739792,way,,easy,,,,,46.7798413,10.7973203
+1263,387739793,way,,novice,,,,,46.7698416,10.7977382
+1264,387739794,way,,novice,,,,,46.7698685,10.7979543
+1265,387739795,way,,advanced,,,,,46.7802936,10.8028272
+1266,387739797,way,G2,intermediate,,,,,46.7726938,10.8014235
+1267,387739798,way,G1,intermediate,,,,,46.7727921,10.8001902
+1268,387739799,way,S1 Gletschersee 1,easy,,,,,46.778882,10.8040139
+1269,387739800,way,S1 Gletschersee 1,easy,,,,,46.780941,10.8002871
+1270,388043772,way,,easy,Falzeben 1,,,,46.6756053,11.2494331
+1271,390539962,way,S2 Gletschersee 2,intermediate,,,,,46.7790074,10.8031223
+1272,390539963,way,,easy,,,,,46.7757177,10.8009189
+1273,390539964,way,,easy,,,,,46.7763032,10.8010388
+1274,390539965,way,,intermediate,,,,,46.7757935,10.8008195
+1275,390539966,way,,intermediate,,,,,46.7751656,10.8033552
+1276,390539967,way,,intermediate,,,,,46.7770113,10.801492
+1277,392129051,way,Schmugglerabfahrt - Pista dei Contrabbandieri,intermediate,,,,,46.7700064,10.7844246
+1278,393653039,way,Paradiso,easy,,57,,,46.390225,11.786642
+1279,393653040,way,Campo Scuola Chiesetta,easy,,48,,,46.38195,11.7973257
+1280,394926962,way,24 Laurin I,novice,,,yes,classic,46.4333572,11.547776
+1281,394984147,way,24 Laurin I,novice,,,no,classic,46.4354462,11.5526376
+1282,395862325,way,(70) Spinale Direttissima,advanced,,70,no,,46.2260467,10.8358933
+1283,395862326,way,(72) Variante Boch,intermediate,,72,no,,46.2246444,10.8567998
+1284,395878128,way,(60) Graffer,easy,,60,,classic,46.218125,10.8893538
+1285,395878129,way,(78) Skiweg Fortini,easy,,78,,,46.2376675,10.8414162
+1286,395878130,way,,easy,,,,,46.2365035,10.8369285
+1287,395878131,way,,easy,,,,,46.2368008,10.8349937
+1288,395885465,way,,easy,,,,,46.2365509,10.8358565
+1289,395885470,way,(51) Larici,easy,,51,,,46.249251,10.8235928
+1290,395885473,way,,easy,,,,,46.2501349,10.8253221
+1291,395885476,way,(52) Pradalago provetti,intermediate,,52,no,,46.2458049,10.8259852
+1292,395885479,way,,easy,,,,,46.2497508,10.8141928
+1293,395885485,way,(57) Amazzonia,advanced,,57,,,46.2423895,10.8194656
+1294,395885488,way,(46) Genziana bassa,intermediate,,46,no,,46.2564819,10.8236143
+1295,395885492,way,,easy,,,,,46.2510498,10.8142811
+1296,395885494,way,,easy,,,,,46.2504332,10.8144637
+1297,395885496,way,(47) Variante Genziana,intermediate,,47,no,,46.2570301,10.8211886
+1298,396514752,way,,easy,,,,,46.7385922,11.9592148
+1299,396514754,way,,easy,,,,,46.7388992,11.9575887
+1300,396514755,way,,easy,,,,,46.7392488,11.9596039
+1301,396514757,way,Furcia 12,intermediate,,12,,,46.7389737,11.9574453
+1302,396514758,way,Miara,easy,,36,,,46.7109184,11.951195
+1303,396518253,way,,easy,,,,,46.7646351,11.9431802
+1304,396518414,way,,easy,Korer,,,,46.7690998,11.9418669
+1305,397042699,way,,easy,,,,,46.722883,11.9635515
+1306,397703835,way,Husqvarna,advanced,,,,backcountry,45.871627,10.532786
+1307,399234130,way,Biancaneve,easy,,9,,,46.3562774,10.6926181
+1308,402501558,way,La Crusc 2,easy,,53,no,classic,46.6139398,11.9372135
+1309,402966407,way,,easy,,,no,classic,46.5443741,11.8790226
+1310,402966408,way,,easy,,,,,46.544835,11.879467
+1311,402966412,way,,intermediate,,,,,46.4781825,11.8073654
+1312,409100243,way,6,easy,,,no,classic,46.9386664,11.3701378
+1313,409100245,way,5,intermediate,,,no,classic,46.9400472,11.3680461
+1314,409100247,way,4,advanced,,,no,classic,46.9389503,11.3692139
+1315,409100249,way,1,easy,,,no,classic,46.9405192,11.3708531
+1316,423114199,way,,easy,Furcia 9,,,classic,46.7286965,11.9679874
+1317,423194802,way,,easy,,,,,46.5764633,11.4464797
+1318,423194803,way,,easy,,,,,46.5765638,11.4462424
+1319,429608596,way,[5b] Abendleite (Almboden),easy,,5a,no,classic,46.9847239,11.98513
+1320,429611835,way,,intermediate,Sonnenlift,,no,classic,46.9730612,11.9910756
+1321,432386098,way,,easy,Via del Bosco,,,,46.2531618,11.4808158
+1322,435428186,way,,advanced,Baurschaft (Sonnen),,no,classic,46.9772385,11.9915104
+1323,440341294,way,,easy,Innamorati,,,classic,46.3419648,11.8003915
+1324,440753632,way,,easy,,,,,46.5963851,11.4535018
+1325,440753633,way,,easy,,,,,46.5995625,11.4555323
+1326,440753635,way,,easy,,,,,46.602434,11.457588
+1327,440753638,way,Skiweg Unterhorn,easy,,,,,46.601155,11.4548152
+1328,443385223,way,Berglift,easy,,,,,46.8447254,12.240374
+1329,443385403,way,Guggenberg - Moncucco,easy,,53,no,classic,46.7704751,12.1077285
+1330,443388907,way,Riepen,intermediate,,,no,,46.8498496,12.08646
+1331,444527348,way,Abrusé,easy,,35,yes,classic,46.5488476,11.8698438
+1332,444527928,way,Arlara - Pralongia II 6A,easy,,,,,46.5466642,11.9014361
+1333,444543395,way,Sodlisia,easy,,36,no,classic,46.5509305,11.8491557
+1334,444734366,way,,easy,,,,classic,46.5621705,11.7366132
+1335,444739750,way,Grohmann,intermediate,,15,,,46.5049057,11.7504918
+1336,444742003,way,Plan de Tieja,novice,,,no,classic,46.5606004,11.7325188
+1337,449720630,way,,easy,,,,,46.7247342,11.9640557
+1338,460342744,way,,easy,Costa,,,,46.7247254,11.9673555
+1339,460342745,way,Costa,easy,,,,,46.7244029,11.965002
+1340,460342746,way,Costa,easy,,,,,46.7247505,11.9658414
+1341,460342756,way,Hinterberg,easy,,,no,classic,46.7351231,11.9797223
+1342,462110482,way,Rododendro,intermediate,,,,,46.1683282,10.7957518
+1343,462110484,way,Variante Rododendro - Cioca 2,advanced,,113,,,46.1701812,10.8032449
+1344,462110489,way,Variante Rododendro - Fossadei,easy,,115,,,46.1677735,10.7917195
+1345,462110491,way,Grual Nera,advanced,,103,,,46.1683667,10.8092323
+1346,462110493,way,Clump,easy,,111,,,46.1733313,10.8153935
+1347,462110496,way,Mandrel,intermediate,,106,,,46.1742835,10.8104765
+1348,462129182,way,,easy,,,,,46.1673697,10.7864339
+1349,462152249,way,Skiweg Fossadei - Rododendro,easy,,114,,,46.1702419,10.7970289
+1350,462184290,way,,easy,,,,,46.1757767,10.8009179
+1351,462302621,way,Little Grizzly,advanced,,37,,,46.2789552,10.8247221
+1352,462369755,way,Skiweg Unterhorn,easy,,,,,46.5965726,11.4496561
+1353,462369756,way,Skiweg Unterhorn,easy,,,,,46.5932794,11.4484509
+1354,462540464,way,,intermediate,,,,,46.2755086,10.827709
+1355,462723807,way,(88) Fis 3 TRE,intermediate,,88,,,46.2291331,10.8075094
+1356,462723808,way,,easy,,,,,46.2282053,10.8051801
+1357,462723809,way,(88) Fis 3 TRE,intermediate,,88,,,46.2282692,10.80136
+1358,462723810,way,(93) Centenario,intermediate,,93,,,46.2300658,10.8221528
+1359,462723811,way,(90) Pancugolo,advanced,,90,no,classic,46.2314768,10.8075403
+1360,462723812,way,(89) Nambino,intermediate,,89,,,46.230215,10.8072571
+1361,462723813,way,(86) 5 Laghi Variante 1,advanced,,86,,,46.2255643,10.8053859
+1362,462723814,way,(92) Skiweg Patascoss,easy,,92,,,46.2308571,10.8190748
+1363,464323333,way,[5b] Abendleite (Almboden),easy,,5a,no,classic,46.9807971,11.9852426
+1364,464415364,way,,easy,,,,,46.6904991,11.8481794
+1365,465911336,way,Furcia 12,intermediate,,,,,46.7278503,11.9606576
+1366,466119422,way,Belvedere,easy,,,,,46.7368718,11.9702399
+1367,466370732,way,Rossalmweg,easy,,,,,46.6835052,11.7119636
+1368,471126426,way,,intermediate,,,,,46.7317305,11.9608377
+1369,472632435,way,,easy,,,no,classic,46.7363424,11.9748918
+1370,473016870,way,,easy,,,,,46.738349,11.9591045
+1371,473016871,way,,intermediate,,,,,46.7379016,11.9581149
+1372,473852202,way,,intermediate,,,,,46.7377522,11.957482
+1373,473852203,way,Lorenzi,easy,,24,no,classic,46.7429351,11.9829647
+1374,473894042,way,(31) Alpe Alta,intermediate,(31) Alpe Alta,,,,46.2677319,10.578178
+1375,473904706,way,Vittoria,easy,Vittoria,29,,,46.2624986,10.5801733
+1376,473904707,way,Cinque Dossi,intermediate,Cinque Dossi,30,,,46.2682372,10.5763586
+1377,474419905,way,Abrusé,easy,,35,yes,classic,46.5481786,11.8704479
+1378,474568279,way,Saroden,intermediate,,7,no,,46.3783758,10.6657667
+1379,475278813,way,Pudra,easy,,,no,classic,46.5314204,11.7738933
+1380,475278814,way,Pudra,easy,,,no,classic,46.5270759,11.7772943
+1381,475297635,way,Miara,easy,,36,no,classic,46.7076497,11.9408281
+1382,475335391,way,,intermediate,,,no,classic,46.4964284,11.7514288
+1383,475335393,way,,easy,,,,,46.4739182,11.7685938
+1384,475848953,way,Strega 1,easy,,83,no,classic,46.5523488,11.6128527
+1385,476048943,way,Gran Paradiso - Sotsaslong,easy,,,no,classic,46.5256824,11.7591367
+1386,476055686,way,Città dei Sassi,easy,,,no,classic,46.5096336,11.7559799
+1387,476055687,way,Città dei Sassi,easy,,,,,46.5101343,11.7572797
+1388,476055696,way,,easy,,,,classic,46.5484601,11.8272545
+1389,477374935,way,Skiweg Pemmern,easy,,,,,46.5769002,11.4508459
+1390,477374937,way,Schön,easy,,,,classic,46.5867113,11.4519513
+1391,477374938,way,Pemmern - Tre Vie,easy,,,,,46.5787325,11.4506289
+1392,478158069,way,Skiweg Unterhorn,easy,,,,,46.5993788,11.4523582
+1393,478158072,way,,novice,,,,,46.5910024,11.4506316
+1394,478158073,way,,novice,,,,,46.5909766,11.450358
+1395,478160480,way,,easy,,,,,46.5895727,11.4508702
+1396,478160482,way,,easy,,,,,46.6024986,11.4571327
+1397,478714412,way,,easy,,,,,46.6023411,11.4570413
+1398,478714413,way,,easy,,,,,46.6026039,11.4567842
+1399,478714414,way,,easy,,,,,46.5905858,11.450228
+1400,478715358,way,Pennleger,intermediate,,,,,46.6022674,11.4625848
+1401,478715359,way,,easy,,,,,46.6026322,11.4581
+1402,482283890,way,Eurotel 1,easy,,73,,,46.5430707,11.6195045
+1403,484895709,way,,easy,,,,,46.7432415,11.9674027
+1404,493450871,way,,easy,Raccordo Valbona - Piavac,,,,46.3569727,11.6857536
+1405,498824547,way,Furcia 12 A,intermediate,,,no,classic,46.7347038,11.9589118
+1406,498827777,way,Furcia 9 B,easy,,,,classic,46.7264885,11.9651296
+1407,498829696,way,Pre da Peres 32R,advanced,,,,classic,46.719422,11.9677494
+1408,498830852,way,Col Toron,intermediate,,34,no,classic,46.715021,11.9571074
+1409,498832689,way,,intermediate,Sonne,,,,46.7376275,11.9584034
+1410,499068196,way,,intermediate,Sonne,,,,46.734639,11.9599355
+1411,513412259,way,,intermediate,,,no,classic,46.5558663,11.7304469
+1412,526856708,way,Rekord,intermediate,,13,,,46.2647152,11.7735981
+1413,539304866,way,11a - Kristlerhang,intermediate,,,,classic,46.6971865,12.3746627
+1414,539304867,way,7b - Verbindung Bruggerleite,easy,,,,classic,46.6922883,12.370031
+1415,539304868,way,7b - Verbindung Bruggerleite,easy,,,,classic,46.6931536,12.3694499
+1416,539304870,way,7a - Verbindung Bruggerleite,easy,,,,classic,46.691812,12.3685414
+1417,539304871,way,7 - Bruggerleite,easy,,,yes,classic,46.6915259,12.3705169
+1418,539304872,way,,intermediate,,,,classic,46.6971453,12.3751023
+1419,539304874,way,,easy,,,,classic,46.6803232,12.3813644
+1420,550253466,way,Piz Secteur - Gran Paradiso,intermediate,,,no,classic,46.5243315,11.7617714
+1421,560769473,way,Pista 1 (SX),easy,,,yes,classic,46.0287772,10.7322897
+1422,560769474,way,Pista 2 (DX),intermediate,,,yes,,46.0278874,10.733372
+1423,562020555,way,Pre da Peres 32,easy,,,,,46.7223977,11.9643292
+1424,562020556,way,,intermediate,,,,,46.7223664,11.9643732
+1425,562020557,way,Pre da Peres 32,advanced,,,,,46.7223178,11.96478
+1426,562244357,way,(79) Grotte,easy,,79,,,46.2325441,10.8333086
+1427,562244358,way,(55) Belvedere,easy,,55,,,46.232956,10.8293114
+1428,562245685,way,(50) Pradalago Facile,easy,,50,no,,46.2441462,10.8237507
+1429,562246474,way,,intermediate,,,no,,46.3008463,10.809927
+1430,562246475,way,,easy,,,yes,,46.3014268,10.810821
+1431,562582877,way,,intermediate,,,,,46.3701514,10.662062
+1432,562582879,way,Val Scura,intermediate,,15,no,classic,46.3700737,10.6591896
+1433,562582883,way,,novice,,,,,46.3700392,10.6606781
+1434,567920635,way,1,easy,,,no,classic,46.8463769,11.6307535
+1435,568751042,way,Bellunese,intermediate,,60,,,46.4414352,11.8771334
+1436,568751049,way,Bellunese,intermediate,,60,,,46.4357721,11.8676606
+1437,568751054,way,Sass del Mul,advanced,,65,,classic,46.4422069,11.8801654
+1438,568757427,way,11b - Hahnspieleck Var.,advanced,,,,,46.7090936,12.3693495
+1439,568761477,way,Col Pradat,advanced,,,no,classic,46.5634866,11.8562131
+1440,568761479,way,Col Pradat,advanced,,45,,,46.5639566,11.8564459
+1441,569106403,way,Colfosco 1,intermediate,,46,no,classic,46.5619931,11.8497787
+1442,569106404,way,Forcelles,intermediate,,50,no,classic,46.5629554,11.8507711
+1443,569108017,way,Colfosco 2,easy,,,no,classic,46.5581121,11.8532584
+1444,569108642,way,Colfosco 2,easy,,45,no,classic,46.5552919,11.8524289
+1445,570500540,way,Col Alt 4½,easy,,4½,,,46.5498867,11.890672
+1446,570501501,way,Ciampai n°10,easy,,10A,no,classic,46.5513284,11.9216285
+1447,573304986,way,(61) Corna Rossa,intermediate,,61,,classic,46.2172236,10.890464
+1448,584687463,way,Valatschabfahrt,easy,,13,,classic,46.7620404,10.5030692
+1449,584687466,way,Watles Piste,intermediate,,,,classic,46.7142455,10.4882275
+1450,584687467,way,Tschunggaipiste,easy,,,,classic,46.706114,10.4906117
+1451,621259068,way,Armentarola,easy,,,,,46.5566874,11.9645477
+1452,639915753,way,III - Skiweg Kreuzbergpass-Signaue,easy,,,,classic,46.6678306,12.4007046
+1453,641547334,way,Höllental,intermediate,,11,,classic,46.798696,10.5018194
+1454,642554159,way,21,easy,,,no,classic,46.8475427,11.6791525
+1455,642554161,way,21,easy,,,no,classic,46.8523635,11.6782963
+1456,644949721,way,Pofel,novice,,14,,classic,46.8325684,10.506735
+1457,645631213,way,,easy,,,,classic,46.2651364,11.8080217
+1458,645631216,way,Col Verde,easy,,31,yes,classic,46.268703,11.8159189
+1459,649202187,way,,easy,Via del Bosco,,,,46.2477104,11.4881343
+1460,654260666,way,Mediolanum,intermediate,,,,,46.3519277,11.684825
+1461,654260779,way,Skiweg Pozil,easy,,2b,,,46.3452611,11.686271
+1462,654261088,way,Aquile Funslope,easy,,2e,,,46.346798,11.6838837
+1463,654261186,way,Variante Viezzena,easy,,2d,,,46.3473654,11.6842761
+1464,654262613,way,Dolomitica,easy,,17,,,46.3171946,11.6912429
+1465,654276409,way,Castelir,easy,,15,,,46.318685,11.6932652
+1466,658691911,way,Gran Paradiso - Piz Secteur,advanced,,,no,,46.524976,11.7607764
+1467,659916230,way,Erlebnisabfahrt Haideralm,easy,,12,,classic,46.7867146,10.5120078
+1468,659916231,way,Schönebenabfahrt,easy,,2,,classic,46.7962318,10.4946236
+1469,659916232,way,12: Erlebnisabfahrt Haideralm,easy,,,,,46.7729571,10.5221967
+1470,660029438,way,,easy,,,,classic,46.58315,11.4535764
+1471,660266697,way,Lupetto,intermediate,,,,,46.1443338,11.0061118
+1472,662312868,way,Belvedere,intermediate,,3,,,46.2979989,10.8666097
+1473,662313192,way,,advanced,,,,,46.2885024,10.8417525
+1474,662321154,way,,novice,,,,,46.2901197,10.8514505
+1475,662321155,way,,easy,,,,,46.2901078,10.851576
+1476,662321156,way,,easy,,,,,46.2903936,10.8515039
+1477,662321165,way,,intermediate,,,,,46.2756246,10.8280985
+1478,662321166,way,,intermediate,,,,,46.2749679,10.8274816
+1479,662321179,way,,intermediate,,,,,46.2893438,10.8417791
+1480,662335502,way,(56) Skiweg Campiglio,easy,,56,,,46.237516,10.8182493
+1481,662335503,way,(56) Skiweg Campiglio,easy,,56,,,46.2368062,10.8183836
+1482,662335504,way,(56) Skiweg Campiglio,easy,,56,,,46.2361145,10.8183905
+1483,662335505,way,(56) Skiweg Campiglio,easy,,56,,,46.2396193,10.824507
+1484,662335508,way,Canalino 5 Laghi,expert,,,,,46.2267771,10.80159
+1485,662335509,way,,easy,,,,,46.226145,10.8015184
+1486,662335510,way,,intermediate,,,,,46.2263219,10.8077165
+1487,662335512,way,(89) Nambino,intermediate,,89,,,46.2331382,10.8155729
+1488,662335513,way,(89) Nambino,intermediate,,89,,,46.2337486,10.8164033
+1489,662335514,way,(85) 5 Laghi,easy,,85,,,46.2307036,10.8164158
+1490,662335515,way,(85) 5 Laghi,easy,,85,,,46.2299199,10.815829
+1491,662335516,way,,easy,,,,,46.232514,10.8239502
+1492,662335517,way,,easy,,,,,46.2345362,10.8239408
+1493,662335518,way,,easy,,,,,46.2345715,10.8228282
+1494,662335520,way,,easy,,,,,46.2367469,10.8335006
+1495,662335524,way,(55) Belvedere,easy,,55,,,46.234704,10.831758
+1496,662335525,way,(55) Belvedere,easy,,55,,,46.2336112,10.8315012
+1497,662337178,way,,intermediate,,,,,46.2493726,10.8248593
+1498,662337180,way,,easy,,,,,46.2493201,10.8262352
+1499,662337182,way,,easy,,,,,46.2512774,10.8268341
+1500,662349289,way,,intermediate,,,,,46.1674526,10.8065609
+1501,662349290,way,,intermediate,,,,,46.1877164,10.8167051
+1502,662349293,way,(73) Spinale diretta,intermediate,,73,,,46.2286943,10.8458799
+1503,662367221,way,,intermediate,,,,,46.2855555,10.8378837
+1504,662733530,way,Clump,easy,,111,,,46.1718034,10.8121113
+1505,662733531,way,Clump,easy,,111,,,46.172201,10.8126195
+1506,662741262,way,Azzurra,easy,,2,,,46.3006564,10.8634435
+1507,662741263,way,Azzurra,easy,,2,,,46.3021788,10.8614257
+1508,664516006,way,Fuchiade,easy,,58,,,46.3831098,11.788426
+1509,664516007,way,Panorama,easy,,55,,,46.3899598,11.7871052
+1510,664516008,way,Ciadin,intermediate,,50,,,46.3864256,11.7976832
+1511,664516009,way,Variante Cima Uomo,intermediate,,51a,,,46.398583,11.7963728
+1512,664516012,way,Costabella,intermediate,,59,,,46.3844356,11.7879411
+1513,664528589,way,Col Margherita,advanced,,40,,,46.370973,11.8045976
+1514,664684256,way,Baby Tognola,easy,,30,,,46.2400211,11.7779812
+1515,664684257,way,Fantabosco,easy,,35,,,46.2500184,11.7821464
+1516,664684258,way,Conca,easy,,26,,,46.2376679,11.7727933
+1517,664684259,way,Scandola,easy,,,,,46.2403004,11.7699492
+1518,664684260,way,Scandola,easy,,27,,,46.2412076,11.7637898
+1519,664691523,way,Direttissima di Ces,advanced,,15,,classic,46.2661303,11.76534
+1520,664691524,way,Castellazzo 1,intermediate,,5,,,46.3028203,11.7931704
+1521,664691525,way,Castellazzo 1,advanced,,,,,46.3022162,11.788595
+1522,665309523,way,La Volata,advanced,,41,,,46.3713585,11.7998801
+1523,665319649,way,Bellaria,easy,,12,,classic,46.2659989,11.7835722
+1524,665319650,way,,easy,,,,,46.2994328,11.7883189
+1525,665319651,way,,easy,,,,,46.2996228,11.7850358
+1526,666499600,way,Fraine,easy,,16,,,46.3173881,11.6918874
+1527,666499602,way,Alfa Fischer,intermediate,,2c,,,46.3471476,11.6851471
+1528,666499603,way,Campo Scuola Valbona,easy,,4,,,46.3571311,11.6835714
+1529,668347863,way,Belvedere,easy,,,,,46.7374547,11.9639
+1530,669540179,way,2: Jochabfahrt,easy,,2,,classic,46.8051698,10.491984
+1531,672331477,way,Talabfahrt - Discesa valle,intermediate,,,no,classic,46.9118481,11.4196513
+1532,672409386,way,Raccordo Direttissima,intermediate,,14,,classic,46.2648621,11.7692226
+1533,672409388,way,,easy,Ski Weg Coston,,,classic,46.2627403,11.7615551
+1534,673429273,way,,easy,,,,,46.6080691,11.90013
+1535,673429274,way,,easy,,,,,46.6083883,11.9000891
+1536,673429277,way,La Crusc,intermediate,,52A,no,classic,46.6115682,11.9199624
+1537,673609556,way,,intermediate,,,,,46.5873493,11.8917031
+1538,673609557,way,Doninz,easy,,,,,46.5844887,11.9020846
+1539,673609558,way,,easy,,,,,46.5841442,11.9030695
+1540,673609564,way,,advanced,,,,,46.5872839,11.888241
+1541,673609570,way,,intermediate,,,,,46.5887092,11.8905117
+1542,673609572,way,,easy,,,,,46.5989405,11.9003492
+1543,673609577,way,,intermediate,,,,,46.5939511,11.8951913
+1544,673630271,way,,easy,,,,,46.5844298,11.9058012
+1545,673630272,way,,easy,,,,,46.5844054,11.9053059
+1546,673630273,way,,easy,,,,,46.5844533,11.9061534
+1547,673630274,way,,easy,,,,,46.5842737,11.9056324
+1548,673630277,way,,easy,,,,,46.5842999,11.9058813
+1549,674389238,way,Gamslaiten,advanced,,5b,no,classic,46.9166769,11.9043008
+1550,674389245,way,Glück,intermediate,,4b,no,classic,46.9235692,11.9080921
+1551,674402658,way,Bärenloch,advanced,,,,,46.6902912,11.7364412
+1552,674402659,way,,novice,,,,,46.6916622,11.7398398
+1553,674402660,way,,intermediate,,,,,46.6871,11.7409645
+1554,674402661,way,Familienabfahrt,easy,,,,,46.6847941,11.7367061
+1555,674403594,way,Jöchl,advanced,,6,no,classic,46.8457605,11.6018099
+1556,674493145,way,,easy,,,no,classic,46.5000008,11.7485184
+1557,675125513,way,Talabfahrt - Discesa valle,intermediate,,,no,classic,46.9124611,11.4131767
+1558,675382284,way,Rinneralm I,intermediate,,2,no,classic,46.8427151,11.3108928
+1559,675382285,way,Rinneralm I,intermediate,,2,no,classic,46.8457112,11.3074256
+1560,675382383,way,,intermediate,,,no,classic,46.8418316,11.300403
+1561,675382786,way,Enzian I,easy,,12b,no,classic,46.8438329,11.3027352
+1562,675499411,way,Eben,easy,,1,,classic,46.3833959,11.5300374
+1563,675500248,way,Verbindung Eben - Obereggen Talstation Sessellift,novice,,,,classic,46.3835419,11.5271656
+1564,675500976,way,Kinderpiste-Eben,easy,,,,classic,46.3843021,11.5302226
+1565,675509460,way,Campanil 1,easy,,23,,classic,46.3504291,11.5456163
+1566,675509461,way,Campanil,easy,,23,,classic,46.3502968,11.5479356
+1567,675509462,way,27 Panoramica,easy,,,,classic,46.3501086,11.5485014
+1568,675515252,way,Selftime Campanil,intermediate,,22,,classic,46.350644,11.5453132
+1569,677442618,way,Larchpichl - 4,easy,,,,,46.6355501,11.0930816
+1570,678145046,way,Familienabfahrt,easy,,,,,46.681116,11.7380916
+1571,678145047,way,,easy,,,,,46.6848509,11.7378081
+1572,678145048,way,,intermediate,,,,,46.6839782,11.7403693
+1573,678145049,way,Plose 2,intermediate,,,,,46.6926902,11.7291419
+1574,678145050,way,,,,,,,46.6908338,11.7265901
+1575,678145051,way,,easy,,,,,46.6913973,11.7260635
+1576,678450748,way,Sotsaslong,easy,,,no,classic,46.5249296,11.7541757
+1577,678450750,way,Gran Paradiso,easy,,,no,classic,46.5212149,11.7549611
+1578,682011292,way,Riepen,intermediate,,,no,,46.8497326,12.0864909
+1579,682377428,way,7,intermediate,,,no,classic,46.9440494,11.3695623
+1580,682377429,way,,easy,,,,,46.9514006,11.3760412
+1581,682377430,way,8,intermediate,,,no,classic,46.9467719,11.3813005
+1582,682845207,way,,intermediate,,,,,46.7852875,11.1032569
+1583,682845208,way,,intermediate,,,,,46.7861143,11.1023109
+1584,683486440,way,,easy,,,,classic,46.3240773,11.1459447
+1585,683486443,way,,easy,,,yes,classic,46.3249869,11.1452981
+1586,683486446,way,,easy,,,yes,classic,46.3251947,11.1452981
+1587,683486448,way,,intermediate,,,,classic,46.4194666,11.1803229
+1588,684475121,way,Collegamento Furdenan - Cabinovia Ortisei,easy,,,no,classic,46.5703941,11.6703563
+1589,685059292,way,5 - Strafaiole,advanced,,,,,46.1065168,11.6571132
+1590,685059293,way,Malga,easy,,15,,,46.1034587,11.6651086
+1591,685059294,way,Valfontane,intermediate,,14,,,46.1049398,11.6637844
+1592,687928890,way,,easy,,,,,46.5570199,11.7303847
+1593,688015899,way,,easy,,,,,46.5569672,11.7678196
+1594,688721688,way,Comici II,intermediate,,,no,classic,46.5303718,11.7493491
+1595,688721689,way,Piz Sella 5,advanced,Piz Sella 5,,no,classic,46.5331715,11.7502379
+1596,688722806,way,Panorama,intermediate,,,no,classic,46.5506769,11.7951834
+1597,688722807,way,Frea,intermediate,,,no,classic,46.5526253,11.8037076
+1598,688726812,way,Braia Fraida,easy,,5b,no,classic,46.5518824,11.8948808
+1599,688731791,way,Cendevaves 1,easy,,,no,classic,46.5521171,11.7107804
+1600,688731792,way,Puntea 2,easy,,,no,classic,46.55157,11.7108482
+1601,688731794,way,Parallel 1,easy,,,no,classic,46.5495415,11.7102461
+1602,688738729,way,Colraiser - Fermeda,easy,,,no,classic,46.586159,11.7427319
+1603,688739193,way,La Longia,intermediate,,,no,classic,46.5903207,11.703601
+1604,688741725,way,Colfosco 1,intermediate,,46,no,classic,46.5596421,11.8515542
+1605,688901821,way,Falk,intermediate,,,no,classic,46.5283212,11.7681739
+1606,688999697,way,,easy,,,no,classic,46.551196,11.7145706
+1607,689001374,way,Funivia Ortisei - Mezdí,easy,,36,no,classic,46.5564104,11.6616773
+1608,689324360,way,Fungeia,intermediate,,,no,classic,46.5469564,11.7660995
+1609,689987513,way,,intermediate,,,,,46.5344315,11.7521122
+1610,690153112,way,,advanced,,,,,46.5332353,11.7502741
+1611,690155965,way,,intermediate,,,,,46.536258,11.7537509
+1612,690155969,way,,intermediate,,,,,46.5328761,11.7564264
+1613,690193670,way,,easy,,,,,46.5280718,11.7537511
+1614,690193672,way,Sef,easy,,,no,classic,46.5277284,11.7536951
+1615,690193673,way,Sef - Gran Paradiso,easy,,,no,classic,46.5266419,11.7556942
+1616,690203995,way,,intermediate,,,,,46.5296861,11.7616615
+1617,690212768,way,,easy,,,,,46.5331597,11.7681527
+1618,690212769,way,,intermediate,,,,,46.5319984,11.7614751
+1619,690227910,way,Sef,intermediate,,,no,classic,46.5293828,11.7618862
+1620,690227915,way,Plan de Gralba,easy,,,no,classic,46.5349634,11.771023
+1621,690233348,way,Costabella,intermediate,,,no,classic,46.55576,11.7692979
+1622,690413212,way,,intermediate,,,,,46.5303332,11.7504261
+1623,690413213,way,,advanced,,,,,46.5299637,11.7553532
+1624,690465604,way,,intermediate,,,,,46.5384259,11.7516127
+1625,690477113,way,,advanced,,,,,46.5475178,11.7517903
+1626,690517085,way,Ciampinoi 4,intermediate,,4,no,classic,46.5507245,11.7567678
+1627,690521795,way,,intermediate,,,,,46.5355154,11.7590105
+1628,690523951,way,,intermediate,,,,,46.5367272,11.7583256
+1629,690523953,way,,intermediate,,,,,46.537873,11.7549029
+1630,690560430,way,,intermediate,,,,,46.5393094,11.7673018
+1631,690578984,way,,advanced,Saslong A,,,,46.5500169,11.7331088
+1632,690580214,way,,intermediate,,,,,46.5499556,11.7368081
+1633,690712455,way,,intermediate,Collegamento Saslong B,,,classic,46.5477719,11.736487
+1634,690712458,way,,intermediate,Collegamento Saslong B,,,classic,46.5477203,11.7407828
+1635,691012574,way,Pilat,intermediate,Pilat,,no,classic,46.5645088,11.6695027
+1636,691031972,way,Gran Paradiso,easy,,,no,classic,46.5240256,11.7558306
+1637,691058737,way,,advanced,Alpha,,,,46.5417191,11.7209592
+1638,691535373,way,,easy,Città dei Sassi,,no,classic,46.5159917,11.7525248
+1639,695906749,way,,intermediate,,,no,classic,46.7187678,11.9645138
+1640,695979421,way,,easy,,,,,46.7390325,11.9593391
+1641,696532895,way,,intermediate,,,,,46.4371298,11.8769137
+1642,696532896,way,Sass del Mul,advanced,,65,,classic,46.437421,11.8758089
+1643,696532897,way,Sass del Mul,advanced,,65,,classic,46.4390872,11.8780634
+1644,699932220,way,Col Raiser - Plan de Tieja,intermediate,,,,classic,46.5621395,11.7339423
+1645,699935948,way,10a,easy,,,,classic,46.6807553,12.3752879
+1646,699935950,way,10b,easy,,,,classic,46.6781507,12.3773931
+1647,712662218,way,Skiweg Schwemmalm - Breiteben,easy,,9,,,46.5314643,10.9186225
+1648,712662222,way,,easy,,,,,46.5346669,10.9216388
+1649,741736204,way,Residenza,intermediate,,31,,,46.3461949,11.5508716
+1650,746140004,way,Pala di Santa,intermediate,,20,,classic,46.3484009,11.5311468
+1651,746140005,way,Collegamento Zanggen,intermediate,,20b,,classic,46.3522724,11.5353658
+1652,746140006,way,,easy,,25,,,46.3503948,11.5476734
+1653,746140007,way,Variante Val della Pigna,intermediate,,30c,,,46.3410442,11.5501348
+1654,746140009,way,Agnello Malga,intermediate,,28b,,,46.3411189,11.5467571
+1655,746140010,way,34 Skiweg Parcheggi,intermediate,,34,,,46.3410561,11.5404504
+1656,746140011,way,Campo Scuola Gardonè,easy,,37,,,46.3414415,11.5765766
+1657,751649420,way,,easy,,,,,45.8813612,11.2006511
+1658,751660316,way,,easy,,,,,45.918098,11.1945149
+1659,751660317,way,,easy,,,,,45.9096106,11.2033365
+1660,751660321,way,,easy,,,,,45.8924339,11.1915715
+1661,751803853,way,,easy,,,,,45.876274,11.2215441
+1662,753212324,way,,easy,,,,,45.8765952,11.2188207
+1663,753257664,way,,intermediate,,,,,45.8817215,11.200381
+1664,753257666,way,,easy,,,,,45.8775018,11.2107158
+1665,753257667,way,,easy,,,,,45.877377,11.2097508
+1666,753260224,way,Collegamento Fondo Piccolo-Fondo Grande,easy,,14b,,,45.8823673,11.1960405
+1667,753260225,way,Collegamento Fondo Piccolo-Fondo Grande,easy,,14b,,,45.882308,11.1958648
+1668,762138982,way,Larchpichl,easy,,,,,46.6353053,11.0956241
+1669,767616598,way,,,,,,,46.6887481,11.4204723
+1670,767616599,way,,,,,,,46.6887694,11.4204441
+1671,767616600,way,,,,,,,46.6952721,11.4408161
+1672,767616601,way,,,,,,,46.6994868,11.4404057
+1673,767616602,way,,,,,,,46.7005034,11.4559796
+1674,767616603,way,,,,,,,46.7005585,11.4558037
+1675,767623356,way,,,,,,,46.4142965,11.5989315
+1676,767629422,way,,easy,,,,classic,46.4397861,11.5981871
+1677,767646926,way,Geister - Trincerone,easy,Geister - Trincerone,3,no,classic,46.5143814,10.460787
+1678,767865147,way,Cadì Carosello,advanced,Cadì Carosello,32,,,46.2681222,10.5807214
+1679,767865149,way,,easy,,,,,46.267105,10.5844877
+1680,767890436,way,Jana Granda (N),intermediate,,,,,46.1523291,11.0278403
+1681,767890437,way,,intermediate,,,,,46.153244,11.0173495
+1682,767890438,way,Gallo Cedrone,intermediate,,,,,46.1507936,11.0252705
+1683,768686425,way,20 König Laurin - 20 Re Laurino,intermediate,,,,classic,46.445151,11.5995193
+1684,768686426,way,20 König Laurin,easy,,,,classic,46.4448,11.590651
+1685,768687057,way,21 Laurin II,advanced,,,,classic,46.4418862,11.6074782
+1686,768717598,way,30A Verbindung Tschein,easy,,,,classic,46.4390858,11.5976811
+1687,768717599,way,33 Babypiste,easy,,,,classic,46.4225171,11.5879322
+1688,768717600,way,30 Tschein,intermediate,,,,classic,46.4378195,11.5986304
+1689,768720617,way,21 Laurin II,intermediate,,,,classic,46.4399091,11.5980413
+1690,768720618,way,23 Monte Coronelle,easy,,,,classic,46.4426136,11.5901578
+1691,768720619,way,22 Frommer,easy,,,,classic,46.4429604,11.592682
+1692,768822560,way,22 Variante Frommer,intermediate,,,,classic,46.4406377,11.5973141
+1693,769486000,way,La Rocca,intermediate,,90,,classic,46.3435603,11.4443681
+1694,769486001,way,Corno Nero,easy,,92,,classic,46.3436166,11.4538845
+1695,769486002,way,Corno Nero,easy,,92,,classic,46.3453035,11.4538983
+1696,769486003,way,Oclini,intermediate,,89A,,classic,46.3498315,11.4504951
+1697,770721873,way,24 Laurin I,novice,,,no,classic,46.4373397,11.559359
+1698,771060554,way,Stella Alpina,easy,,,no,classic,46.565702,11.8516106
+1699,771063291,way,Gran Risa,advanced,,,,classic,46.5732967,11.9033878
+1700,771063292,way,Altin,intermediate,,17,no,classic,46.5748341,11.9104053
+1701,771063359,way,Armentarola,easy,,,no,classic,46.5583417,11.9500084
+1702,771293224,way,Diretta Prà Alpesina,intermediate,,38,,,45.7611833,10.8738532
+1703,771293225,way,Variante Prà Alpesina,intermediate,,39,,,45.7604542,10.8719723
+1704,771293227,way,,intermediate,,,,,45.7623521,10.8683368
+1705,771293228,way,Variante Prà Alpesina,intermediate,,39,,,45.7618536,10.8694358
+1706,771473890,way,,easy,,,,,46.6846758,11.7105229
+1707,771913023,way,(89) Nambino,intermediate,,89,,,46.2318081,10.8126567
+1708,771913024,way,(94) Patascoss,intermediate,,90,no,classic,46.2302176,10.8145078
+1709,771914669,way,(91) Miramonti,advanced,,90,no,classic,46.2304712,10.8201173
+1710,771943785,way,,advanced,,,,,46.5152262,10.5956176
+1711,771943786,way,,novice,,,,,46.525384,10.5869139
+1712,771943787,way,,intermediate,,15a,,,46.5181299,10.5738613
+1713,771943789,way,10,intermediate,,,,,46.523022,10.5821166
+1714,771943790,way,,easy,,,,,46.5191227,10.5786866
+1715,771943791,way,,easy,,,,,46.518613,10.5769709
+1716,771943792,way,,advanced,,,,,46.5156668,10.5952228
+1717,771943794,way,1,easy,,,,,46.492351,10.6095442
+1718,771943797,way,Rosim,advanced,,16,no,classic,46.5189826,10.6038406
+1719,771943798,way,,novice,,,,,46.5164673,10.5964045
+1720,771943801,way,Rosim,advanced,,16,no,classic,46.5221882,10.6075727
+1721,771946183,way,Watles Piste,intermediate,,,,classic,46.708584,10.4924388
+1722,771946184,way,Watles - Vatles,easy,,,,classic,46.70683,10.4919282
+1723,771946185,way,Tschunggaipiste,easy,,,,,46.7056886,10.4924615
+1724,771946186,way,,intermediate,,,,,46.7173757,10.4863759
+1725,771946187,way,Watles - Vatles,intermediate,,,,classic,46.712883,10.4898584
+1726,771946188,way,,intermediate,,,,,46.7133381,10.4890393
+1727,772546585,way,30 Tschein,easy,,,,classic,46.4290402,11.5921709
+1728,772546586,way,45 Paolina,easy,,,,,46.4089393,11.5941394
+1729,772929517,way,Verbindung 30A Tschein - 22 Frommer,easy,,,,classic,46.4399208,11.5961242
+1730,772939174,way,42 Rosengarten,intermediate,,,,,46.4147906,11.603491
+1731,772942746,way,55a Variante Latemarwiesen - 55a Variante Prati di Latemar,easy,,,,classic,46.3975989,11.596621
+1732,772989524,way,,novice,,,,,46.6988789,11.6829536
+1733,772989525,way,,novice,,,,,46.6997277,11.6816407
+1734,772989526,way,,novice,,,,,46.6988411,11.6824993
+1735,773742062,way,,easy,,,,,46.69525,12.3632635
+1736,773742064,way,11a - Kristlerhang,advanced,,,,classic,46.6957996,12.3640571
+1737,773742065,way,11 - Kristlerhang,intermediate,,,,classic,46.6959988,12.3708451
+1738,773742066,way,Moos-Sexten 41c,easy,,,no,classic,46.6898729,12.3776798
+1739,773778811,way,,easy,,,,,46.6555385,12.4168304
+1740,773778813,way,,easy,,,,,46.6553118,12.4189706
+1741,773781088,way,,easy,,,,,46.7184644,12.3605231
+1742,773781089,way,Helm,easy,,,,,46.7177445,12.3654731
+1743,773872344,way,Verbindung Laurin 2 - Tschein,intermediate,,,,classic,46.4396166,11.5990399
+1744,773875906,way,30 Tschein,easy,,,,classic,46.4348681,11.5976682
+1745,774597932,way,,easy,,,,,46.8464004,11.6838574
+1746,774944602,way,Alm-Express,easy,,2a,no,classic,46.926137,11.9051517
+1747,774944604,way,Tottomandl,easy,,6a,no,classic,46.9235538,11.904485
+1748,774944605,way,,easy,,,,,46.9226457,11.9046861
+1749,774944609,way,Family Fun Park,easy,,7,no,classic,46.9317217,11.9376188
+1750,774944610,way,Family Fun Park,easy,,,,,46.9316418,11.9376188
+1751,774975411,way,Family 3 (Panorama),easy,,4b,no,classic,46.981351,11.9769445
+1752,774975414,way,Almboden,easy,,5,no,classic,46.9795296,11.9844077
+1753,774983724,way,Steinhaus,advanced,,6,no,classic,46.9912042,11.9728406
+1754,774983726,way,Brugger,easy,,7,,classic,46.9930606,11.9726008
+1755,774983727,way,Klaussee II,intermediate,,8,no,classic,46.9708374,11.988943
+1756,774983756,way,Sonnen 1,intermediate,,3,no,classic,46.9830712,11.9907627
+1757,775984716,way,,novice,,,,,46.6555606,12.4193895
+1758,775984717,way,,novice,,,,,46.655435,12.4193422
+1759,775984723,way,,advanced,,,,,46.653002,12.415705
+1760,775984725,way,,advanced,,,,,46.6530677,12.4151714
+1761,775984728,way,,intermediate,,,,,46.6535267,12.4171506
+1762,775984729,way,,easy,,,,,46.6516637,12.4153119
+1763,775984730,way,2 - Marc Giradelli,intermediate,,,,,46.6536605,12.4171696
+1764,775984731,way,,easy,,,,,46.6551902,12.4194822
+1765,776226818,way,6b,easy,,,,,46.6830166,12.3710075
+1766,776226819,way,,easy,,,,,46.6831534,12.3712848
+1767,776226820,way,6b,easy,,,,,46.6844428,12.3695473
+1768,776226821,way,,easy,,,,,46.6841649,12.3694095
+1769,776226822,way,,easy,,,,,46.6845113,12.3698692
+1770,776226827,way,,advanced,,,,,46.6765288,12.3687021
+1771,776226828,way,,easy,,,,,46.6808107,12.375344
+1772,776226829,way,,easy,,,,,46.678098,12.3773252
+1773,776226830,way,,intermediate,,,,,46.675282,12.3775854
+1774,776226848,way,,advanced,,,,,46.6676546,12.372891
+1775,776226854,way,,easy,,,,,46.6725826,12.3710064
+1776,776226855,way,3,intermediate,Bad Moos - Rotwandwiesen,,,,46.6644024,12.3773659
+1777,776226856,way,3,intermediate,Bad Moos - Rotwandwiesen,,,,46.6639151,12.3761983
+1778,776226857,way,,intermediate,,,,,46.6630205,12.376796
+1779,776226858,way,,easy,,,,,46.6607347,12.3726414
+1780,776226859,way,,intermediate,,,,,46.6620121,12.3738937
+1781,776226862,way,,easy,,,,,46.6651115,12.3707704
+1782,776226864,way,,easy,,,,,46.6657282,12.3713086
+1783,776226865,way,,easy,,,,,46.6654386,12.372444
+1784,776226866,way,,easy,4b,,,,46.6648522,12.3707769
+1785,776226867,way,,easy,4b,,,,46.6649652,12.372943
+1786,776226868,way,,easy,,,,,46.6646096,12.3722833
+1787,776226872,way,,intermediate,,,,,46.6629139,12.3714275
+1788,776226873,way,,easy,,,,,46.6627031,12.3717661
+1789,776226874,way,Kids race,intermediate,Rotwandwiesen,,,,46.6628246,12.3713719
+1790,776522141,way,,advanced,,,,,46.6973517,12.3873528
+1791,776522143,way,,easy,,,,,46.6952361,12.3950075
+1792,776522149,way,41b,easy,,,,,46.6818923,12.3849692
+1793,776522150,way,41b,easy,,,,,46.6812549,12.3842448
+1794,776522151,way,41b,easy,,,,,46.6807779,12.3830616
+1795,776522153,way,,easy,,,,,46.6807223,12.383303
+1796,776522157,way,,easy,,,,,46.6817653,12.3851503
+1797,776522161,way,,easy,,,,,46.681157,12.3843189
+1798,776522168,way,,intermediate,,,,,46.687531,12.3900012
+1799,776522171,way,Stiergarten - Orto del Toro,intermediate,,,,,46.698115,12.3821806
+1800,776522173,way,,easy,,,,classic,46.6803805,12.3820185
+1801,777529467,way,,advanced,,,,,46.6958178,12.3701438
+1802,777529468,way,11 - Kristlerhang,intermediate,,,,,46.6958253,12.3698974
+1803,777529471,way,,advanced,,,,,46.6959015,12.3628932
+1804,777529475,way,,advanced,,,,,46.6947436,12.3664983
+1805,777529476,way,,easy,,,,,46.6944608,12.3679809
+1806,777529477,way,,intermediate,,,,,46.6953226,12.3689363
+1807,777529478,way,,intermediate,,,,,46.6960463,12.3667873
+1808,777529479,way,11a - Kristlerhang,intermediate,,,,classic,46.6968868,12.3747761
+1809,777529489,way,I - Skiweg Unesco,easy,,,,classic,46.6578482,12.3914389
+1810,777529490,way,I - Skiweg Unesco,easy,,18;19,,,46.6596249,12.3760658
+1811,777531793,way,Skiweg Schwemmalm - Breiteben,easy,,,,,46.5358045,10.9304245
+1812,777850521,way,,intermediate,,,,,46.7043543,12.3731098
+1813,777850535,way,,intermediate,,,,,46.6993868,12.3753067
+1814,778025168,way,,intermediate,,,,,46.7197387,12.3544055
+1815,778025170,way,,advanced,,,,,46.7174868,12.3621961
+1816,778025171,way,,intermediate,,,,,46.7156944,12.3625488
+1817,778025172,way,,intermediate,,,,,46.7189662,12.3593494
+1818,778025175,way,,easy,,,,,46.7193827,12.3556835
+1819,778025176,way,,intermediate,,,,,46.7200246,12.3551071
+1820,778025177,way,,intermediate,,,,,46.7187412,12.3595333
+1821,778025179,way,,easy,,,,,46.7167364,12.3614473
+1822,778025180,way,,easy,,,,,46.7169589,12.3617665
+1823,778025181,way,15 - Übungslift - 15 - Esercizio di sollevamento,easy,,,,,46.7173696,12.3606156
+1824,778025182,way,,intermediate,,,,,46.7165905,12.3610175
+1825,778025183,way,,easy,,,,,46.7166876,12.3613707
+1826,778025184,way,Direttissima,intermediate,,,,,46.7173471,12.3624535
+1827,778025185,way,14 - Mittelstation,intermediate,,,,,46.7207768,12.3525488
+1828,778025187,way,11c - Hanhspieleck Sexten,intermediate,,,,,46.7111029,12.3707778
+1829,778025192,way,,intermediate,,,,,46.7148119,12.3743164
+1830,778025195,way,12b,intermediate,,,,,46.7157155,12.3756081
+1831,778025199,way,,easy,,,,,46.7176291,12.3664997
+1832,778025200,way,,intermediate,,,,,46.7176893,12.3677862
+1833,778025201,way,,advanced,,,,,46.7184143,12.3637484
+1834,778025202,way,Helm,easy,,,,,46.7189393,12.366975
+1835,778025207,way,,advanced,Steilhang,,,,46.7187135,12.3643402
+1836,778025208,way,,intermediate,Helm II,,,,46.7176879,12.3681593
+1837,778025210,way,12a - Training Hahnspiel,intermediate,,,,,46.7142775,12.3711864
+1838,778025215,way,,intermediate,,,,,46.7137259,12.3712089
+1839,778025217,way,,intermediate,,,,,46.7109005,12.3695571
+1840,778025218,way,,advanced,,,,,46.7088731,12.3693931
+1841,778025220,way,,intermediate,,,,,46.70934,12.3686555
+1842,778025227,way,,intermediate,,,,,46.7135422,12.3657263
+1843,782119824,way,,easy,,,,,46.7313542,12.3293582
+1844,782119825,way,,novice,,,,,46.7308345,12.3300263
+1845,782119826,way,,easy,,,,,46.7309006,12.329547
+1846,782119827,way,,easy,,,,,46.730423,12.3303439
+1847,782119828,way,,novice,,,,,46.7308386,12.3301881
+1848,782119836,way,,advanced,,,,,46.7287245,12.3340102
+1849,782119837,way,,easy,,,,,46.7283329,12.3361036
+1850,782119838,way,,easy,,,,,46.7297674,12.3325707
+1851,782119841,way,,intermediate,,,,,46.7219178,12.3431932
+1852,782119842,way,,advanced,,,,,46.7283317,12.3350312
+1853,782119843,way,,advanced,,,,,46.7263217,12.3423018
+1854,782119845,way,,intermediate,,,,,46.7233529,12.348406
+1855,782119846,way,,intermediate,,,,,46.7232479,12.3486265
+1856,782119847,way,,intermediate,,,,,46.7236237,12.3478299
+1857,782119862,way,,advanced,,,,,46.7158496,12.3541267
+1858,784239576,way,,easy,,,,,46.7218529,12.2774041
+1859,784239577,way,,intermediate,,,,,46.7156577,12.2767973
+1860,784239578,way,,easy,,,,,46.7187007,12.2778085
+1861,784239579,way,,easy,,,,,46.7187852,12.2778842
+1862,784239581,way,,intermediate,,,,,46.7225747,12.2782012
+1863,784239583,way,,easy,,,,,46.7182965,12.2790305
+1864,784239584,way,,easy,,,,,46.7217149,12.2796531
+1865,784239585,way,,easy,,,,,46.722599,12.278316
+1866,784239586,way,,easy,,,,,46.7234378,12.2773014
+1867,784239589,way,,easy,,,,,46.7294924,12.2787609
+1868,784239592,way,23 - Erschbaum,easy,,,,,46.7295149,12.2786365
+1869,784239593,way,,intermediate,,,,,46.7273446,12.2792655
+1870,784239594,way,,advanced,,,,,46.7276121,12.2781178
+1871,784239598,way,,easy,,,,,46.725397,12.2791944
+1872,784239599,way,,easy,,,,,46.7251837,12.2789372
+1873,784239600,way,,easy,,,,,46.7244993,12.2783613
+1874,784239601,way,,easy,,,,,46.7243944,12.2783901
+1875,784239605,way,,easy,,,,,46.7180302,12.277203
+1876,784239612,way,,easy,,,,,46.7301091,12.2787639
+1877,784239613,way,,easy,,,,,46.7220301,12.2774142
+1878,784239621,way,19b - Mandoriese,advanced,,,,,46.7275454,12.2784891
+1879,784239622,way,,easy,,,,,46.7214019,12.2778866
+1880,784239623,way,,easy,,,,,46.7192481,12.2790848
+1881,784239626,way,20 - Doris,easy,,,,,46.7224893,12.2786845
+1882,788241247,way,,easy,,,,,46.7159446,12.3723543
+1883,788241248,way,16 - Helm - 16 - Elmo,easy,,,,,46.716297,12.3735066
+1884,795230337,way,,intermediate,,,,,46.5288815,11.6759167
+1885,795230338,way,Euro - Laurin - Spitzbühl,intermediate,,75,no,classic,46.5384628,11.607641
+1886,795230340,way,Puflatsch Race,advanced,,77,no,classic,46.548211,11.6196397
+1887,795232517,way,,easy,,,,,46.6093118,11.8979928
+1888,799067930,way,Costabella,intermediate,,,no,classic,46.5540353,11.7702815
+1889,799067931,way,,easy,,,,,46.5480948,11.839615
+1890,799067932,way,Colfosco 2,easy,,45,no,classic,46.551881,11.8520126
+1891,814912656,way,Leo Demetz - Mezdí,easy,,44,no,classic,46.5511607,11.6566331
+1892,814912658,way,Mezdi,advanced,,39,no,classic,46.5571634,11.6585742
+1893,814912659,way,Sanon 2,easy,,50,no,classic,46.5469505,11.6527102
+1894,814916727,way,Scuola Sci - Eurotel 1 - Panorama,easy,,74,no,,46.5424529,11.6200891
+1895,814916728,way,Laurin Valle - Spitzbühl,intermediate,,5,no,classic,46.5366004,11.6075256
+1896,814916729,way,Panorama 13,intermediate,,13,,classic,46.5375183,11.6232943
+1897,814916730,way,Bamby,intermediate,,60,no,classic,46.5325407,11.6359604
+1898,815723122,way,,freeride,,,no,backcountry,46.5633055,11.5720885
+1899,815723123,way,,freeride,,,no,backcountry,46.5607345,11.5806475
+1900,815723124,way,Marinzen-Standart,freeride,,,no,backcountry,46.5604648,11.5758224
+1901,815723125,way,,freeride,,,no,backcountry,46.5611281,11.5734145
+1902,818895893,way,Family Fun Park,easy,,7,,,46.9316728,11.9357136
+1903,818895895,way,Snow Tubing Area,easy,,8,no,classic,46.9309959,11.9375701
+1904,818895896,way,Snow Tubing Area,easy,,8,no,classic,46.9307829,11.9372198
+1905,818895897,way,,intermediate,Michl,,no,classic,46.9313901,11.9273645
+1906,818900136,way,1a,intermediate,,,yes,classic,46.944985,11.8621353
+1907,818900137,way,1b,easy,,,yes,classic,46.944967,11.8620438
+1908,818900138,way,,easy,,,,,46.9468946,11.8695408
+1909,818902760,way,[1b] Enzenberg (Talabfahrt),advanced,,,no,classic,46.9925612,11.9779481
+1910,824250260,way,Alm-Express,easy,,2b,no,classic,46.9288813,11.9060936
+1911,824259028,way,Glück,intermediate,,4a,no,classic,46.9259778,11.9073775
+1912,824259029,way,Glück,intermediate,,4a,no,classic,46.9227054,11.9055536
+1913,824259030,way,Tottomandl,easy,,6b,no,classic,46.9235613,11.9051585
+1914,824273911,way,Alm-Express,easy,,2a,no,classic,46.9268218,11.9060257
+1915,824273912,way,Tottomandl,easy,,6a,no,classic,46.9245539,11.9041087
+1916,824273913,way,Tottomandl,easy,,6a,no,classic,46.9249179,11.9050821
+1917,824900592,way,Brugger,easy,,7,,classic,46.9919216,11.973908
+1918,829737426,way,,intermediate,Pala di Santa,,,classic,46.3496716,11.5342809
+1919,831944265,way,Furdenan 1,easy,,,,,46.5701167,11.6731174
+1920,836294511,way,La Ria,advanced,,,no,classic,46.5555678,11.7791891
+1921,837232178,way,Belvedere,easy,,2,,,46.4786038,11.8072176
+1922,837250287,way,Cinque Dita,intermediate,,13,no,classic,46.5027484,11.7521936
+1923,839380272,way,Aloch Checene,intermediate,,,yes,classic,46.4242095,11.6940187
+1924,839380273,way,Thöni,easy,,,,,46.4315801,11.6594523
+1925,839380274,way,Vajolet 2,easy,,,,,46.4406808,11.67251
+1926,842881296,way,,,,,,,46.793286,11.094793
+1927,842881297,way,,,,,,,46.7946044,11.0931101
+1928,846669936,way,,easy,,,,classic,46.7320074,11.9595093
+1929,849308401,way,T2 Schmugglerabfahrt - Pista dei Contrabbandieri,intermediate,,,,,46.7622442,10.7854009
+1930,849308402,way,Transhumanz,advanced,,,,,46.7628881,10.7819111
+1931,849308403,way,Hasen-Abfahrt,easy,,,,,46.7589591,10.7802435
+1932,849308404,way,,easy,,,,,46.7575174,10.7829604
+1933,849308405,way,Teufelsegg 2,intermediate,,,,,46.7787794,10.7733764
+1934,849308407,way,Teufelsegg 2 Variante,advanced,,,,,46.7810024,10.768534
+1935,849308408,way,,intermediate,,,,,46.7814653,10.7933262
+1936,849308409,way,Hintereis 2,easy,,,,,46.7824031,10.7965422
+1937,849308410,way,,intermediate,,,,,46.7878568,10.7935548
+1938,849308412,way,G1,intermediate,,,,,46.7727558,10.8001759
+1939,849532245,way,Gaisraste,intermediate,,25,no,classic,46.8399602,11.6776487
+1940,849532246,way,,easy,,,no,classic,46.8386888,11.6875919
+1941,849532248,way,,intermediate,,,no,classic,46.8422048,11.6457518
+1942,851859217,way,Gamsboden (K2),advanced,,8e,no,classic,46.9720882,11.9905664
+1943,851859220,way,Kristall (Sonnen),easy,,3e,no,classic,46.9856539,11.9861527
+1944,851996328,way,Family 2 (Panorama),easy,,4a,no,classic,46.9771474,11.9749366
+1945,852016326,way,,easy,Città dei Sassi,,no,classic,46.516624,11.7523783
+1946,852495355,way,Geister 1,easy,Geister 1,1,,,46.5006663,10.4727472
+1947,852495361,way,,advanced,,,,,46.5047378,10.5984794
+1948,865987301,way,,intermediate,Schwandt,,no,classic,46.8424916,11.6452137
+1949,871136645,way,Family 1 (Panorama),easy,,4d,no,classic,46.9756281,11.9754202
+1950,874580167,way,,intermediate,,8,no,classic,46.8409739,11.5993905
+1951,874580168,way,,easy,,14,no,classic,46.8439208,11.6002816
+1952,874580169,way,,easy,,14,no,classic,46.8439016,11.600609
+1953,874580170,way,,intermediate,,8,no,classic,46.8436852,11.5977444
+1954,874580171,way,Panorama,easy,,11,no,classic,46.8359446,11.595272
+1955,874580172,way,Gimmy Fun Ride,easy,,13,no,classic,46.8395675,11.5936808
+1956,878205421,way,[1c] Weissnbachl (Talabfahrt),intermediate,,1c,no,classic,46.9868226,11.9848222
+1957,881573371,way,Anfängergelände - Campo principianti,easy,,,no,classic,46.9132134,11.3973978
+1958,881573372,way,Slalom,easy,,,no,classic,46.915298,11.3964854
+1959,881573373,way,Favorit Varianten - Variante,easy,,,no,classic,46.9169416,11.4031031
+1960,881573377,way,Talabfahrt,intermediate,,,no,classic,46.9068043,11.4283929
+1961,881573378,way,Talabfahrt,intermediate,,,no,classic,46.9094602,11.4271527
+1962,886956936,way,Ried,intermediate,Ried,,no,classic,46.7857338,11.9796788
+1963,886956937,way,Ried,advanced,Ried,,no,classic,46.7827032,11.9841511
+1964,886956938,way,Ried,easy,,,no,classic,46.7867246,11.9776565
+1965,888898029,way,Arndt,intermediate,,22,no,classic,46.7446259,11.9821645
+1966,892762353,way,,intermediate,Sonnenlift,,no,classic,46.9722062,11.9907003
+1967,892966202,way,9,easy,,,,,46.951687,11.9149871
+1968,892966203,way,Alm-Express,easy,,2b,no,classic,46.927684,11.9038548
+1969,893003620,way,Pian Frataces,intermediate,,6,,,46.4911072,11.7872569
+1970,898105556,way,Verbindung Wasserfalleralm-Enzian - Collegamento Malga Cascata-Enzian,easy,,,,classic,46.8464299,11.2962842
+1971,900742713,way,Kleinklausen,intermediate,Slope to the valley,,no,classic,46.9869116,11.9886101
+1972,902972641,way,Kleinklausen,intermediate,Slope to the valley,,no,classic,46.988742,11.9919762
+1973,904498355,way,,intermediate,,,,,46.3435285,11.5698062
+1974,904498357,way,,easy,,,,,46.3407222,11.5771171
+1975,904499521,way,Variante Muro Tresca,advanced,,30b,,,46.3370355,11.5539129
+1976,904499522,way,Agnello Alta,intermediate,,28,,,46.3356489,11.5499408
+1977,904504645,way,Pala di Santa,intermediate,,20,,,46.3499742,11.5385924
+1978,904508871,way,Oberholz,intermediate,,2,,,46.3734253,11.5340785
+1979,904546303,way,Variante Fiamme Oro II,intermediate,,2f,,,46.3560647,11.6839244
+1980,904548210,way,Busabella,intermediate,,88,,,46.2389421,11.4995041
+1981,904549795,way,Carlo Donei,intermediate,,73,,,46.2452994,11.5005011
+1982,904549878,way,Dei Cirmi,easy,,78,,,46.2469275,11.5042839
+1983,904549955,way,Campo Scuola Cermis,easy,,,,,46.2513456,11.5035601
+1984,904657336,way,Valvacin B,intermediate,,,,,46.4315255,11.7339951
+1985,904658807,way,,easy,,,,,46.4425043,11.7673435
+1986,904658808,way,,easy,,,,,46.4418259,11.769163
+1987,904659573,way,,intermediate,,,,,46.4460717,11.7719938
+1988,904659816,way,Thöni,advanced,,,,,46.4251522,11.6659521
+1989,904879192,way,Kleinklausen,intermediate,Slope to the valley,,no,classic,46.9924033,11.985569
+1990,905143406,way,,easy,,,,,46.6973468,12.3575627
+1991,905526233,way,Cimon,easy,,11,,,46.2947916,11.7851941
+1992,905526242,way,,easy,Ski Weg Coston,,,classic,46.2629515,11.7618107
+1993,905546867,way,Madritsch,advanced,,,,,46.5056648,10.5987545
+1994,905546868,way,Madritsch,advanced,,,,,46.5069499,10.5976422
+1995,906480296,way,,easy,,,,,46.2966085,11.781643
+1996,907693523,way,,intermediate,,,,classic,46.3015999,10.8118875
+1997,907693524,way,,novice,,,yes,classic,46.3009445,10.8092546
+1998,907693525,way,,easy,,,yes,,46.3011247,10.8097836
+1999,907693528,way,Campo primi passi,novice,,,no,classic,46.3005773,10.8110836
+2000,907693529,way,Campo Primi passi,novice,,,no,classic,46.3008836,10.8105809
+2001,907693530,way,,novice,,,no,,46.3007643,10.8108554
+2002,907693531,way,,novice,,,no,classic,46.3007707,10.810905
+2003,907693532,way,,easy,,,yes,classic,46.3006736,10.8092305
+2004,907693533,way,,novice,,,no,classic,46.3001184,10.8098106
+2005,907693538,way,Pancianina,easy,,,no,classic,46.2847803,10.8211891
+2006,907693539,way,Pancianina,easy,,,no,,46.2856843,10.8209261
+2007,907693541,way,Sghirlat,easy,,22,,,46.2825745,10.8245125
+2008,907693542,way,Snowpark Marilleva Val Panciana,,,,no,mogul,46.2839234,10.8234484
+2009,907693543,way,,easy,,,no,classic,46.2800053,10.8153346
+2010,907693544,way,,easy,,,no,classic,46.2901267,10.813335
+2011,907693547,way,,easy,,,no,classic,46.2802077,10.8324477
+2012,907693548,way,,easy,,,no,classic,46.2802219,10.8320822
+2013,907693549,way,,easy,,,no,classic,46.2800266,10.8328516
+2014,907693551,way,,easy,,,no,mogul,46.2880248,10.8389936
+2015,908011718,way,Skiweg Brenzi,easy,,,,,46.2880562,10.8469414
+2016,908011719,way,Bamby,easy,,,no,classic,46.2890939,10.8477752
+2017,908011720,way,,easy,,,,,46.2899339,10.8506826
+2018,908011721,way,Nera Folgarida,advanced,,,,,46.2911379,10.8522293
+2019,908011722,way,Belvedere,intermediate,,3,,,46.2984723,10.8668511
+2020,908011724,way,,easy,,,no,classic,46.2951429,10.8614086
+2021,908011725,way,,,,,,,46.2955749,10.8640904
+2022,908011729,way,Mastellina,easy,,16,,,46.283877,10.8314083
+2023,908011731,way,Mastellissima,intermediate,,32,no,classic,46.3029485,10.8367898
+2024,908011732,way,Rientro Cabinovia,easy,,,no,,46.3024911,10.8374
+2025,908011734,way,Nera Folgarida,advanced,,1,yes,classic,46.3021072,10.8604219
+2026,908011735,way,Stadio Slalom Illuminato,advanced,,,yes,classic,46.301271,10.8616219
+2027,908011737,way,,intermediate,,,no,classic,46.2897369,10.8202468
+2028,913605781,way,Selftime Tresca,intermediate,,30d,,,46.3361604,11.5535855
+2029,913615149,way,Cima Uomo,intermediate,,51,,,46.395696,11.7963067
+2030,913615150,way,Variante Ciadin,intermediate,,54,,,46.39098,11.7978108
+2031,913615151,way,Costabella,advanced,,59,,,46.3881097,11.7868506
+2032,913615878,way,Matinet,easy,,63,,,46.3806904,11.7842763
+2033,913615956,way,,easy,,,,,46.3801823,11.7829596
+2034,913615957,way,,easy,,,,,46.3793844,11.7823461
+2035,913616178,way,Campagnola,easy,,65,,,46.3812533,11.782468
+2036,913618781,way,Campo Scuola Chiesetta,easy,,48,,,46.383096,11.7975819
+2037,913618783,way,Le Coste A,easy,,49A,,,46.38189,11.7975325
+2038,919676131,way,Armentarola,easy,,,,,46.5588174,11.956995
+2039,919755852,way,Pralongià variante,easy,,8A,no,classic,46.5388059,11.9018632
+2040,919755856,way,Arlara 1,easy,,,,,46.5443921,11.88464
+2041,919755857,way,,easy,,5,,,46.5444425,11.8822731
+2042,919755858,way,Arlara 1,easy,,,,,46.5499438,11.8986984
+2043,919755859,way,Arlara 1,easy,,5,,,46.5494444,11.8962417
+2044,919815036,way,Sponata,intermediate,,24,,,46.5985918,11.8999774
+2045,920996107,way,,easy,,28,,,46.5562611,11.922585
+2046,920996112,way,,easy,,,,,46.5540468,11.9206686
+2047,923006217,way,Boé,intermediate,,1,no,classic,46.5475371,11.8720456
+2048,923006220,way,Col Alt 4½,easy,,4½,,,46.5461196,11.8892084
+2049,923006221,way,Arlara 1,easy,,5,,,46.5454182,11.8897619
+2050,923006222,way,,easy,,5,,,46.5441048,11.8849771
+2051,923006223,way,Arlara 1,easy,,5,,,46.5439164,11.8856373
+2052,923006229,way,Piz Sorega B,easy,,11,no,classic,46.5575915,11.9409056
+2053,923006230,way,Armentarola,easy,,9,no,classic,46.5593553,11.9452875
+2054,923006231,way,Armentarola,easy,,9,no,classic,46.5570582,11.9466709
+2055,923054907,way,Armentarola,easy,,9,no,classic,46.5552771,11.9425112
+2056,923054909,way,,easy,,14,,,46.5524568,11.9077413
+2057,923054910,way,,easy,,15,,,46.5520994,11.9076664
+2058,923054911,way,Col Alta - Braia Fraida,easy,,,no,classic,46.5527888,11.8894802
+2059,923054913,way,Col Alt 4,intermediate,,4,,,46.5524379,11.88721
+2060,923054914,way,Costes da l'Ega,easy,,8,no,classic,46.545614,11.8769659
+2061,929279897,way,20 Pala Santa,intermediate,,21,,classic,46.3509598,11.5356976
+2062,931143947,way,,easy,Innamorati,,,classic,46.3454325,11.800127
+2063,933363891,way,9 Zanggen,intermediate,,9,,,46.358623,11.5331568
+2064,933368866,way,,easy,Via del Bosco,,,,46.2511834,11.4880333
+2065,933368867,way,,easy,Via del Bosco,,,,46.2575972,11.4790225
+2066,933368869,way,Olimpia 3,intermediate,,87,,,46.2649878,11.4811352
+2067,933396508,way,Campo Scuola Doss dei Laresi,easy,,72,,,46.2635585,11.4807096
+2068,933396509,way,Via del Bosco,easy,,74,,,46.263114,11.480358
+2069,933396510,way,Campo Scuola Doss dei Laresi,easy,,72,,,46.2635751,11.4810292
+2070,933396511,way,,easy,,,,,46.2632326,11.4815686
+2071,933396512,way,,easy,,,,,46.2645172,11.4812129
+2072,933419337,way,,easy,Via del Bosco,,,,46.2533653,11.4911212
+2073,933419339,way,,easy,Via del Bosco,,,,46.2476458,11.4869742
+2074,933419340,way,Via del Bosco,easy,,74,,,46.2472676,11.4881718
+2075,933419341,way,,easy,Via del Bosco,,,,46.2474668,11.4880846
+2076,933419343,way,,easy,Lagorai,,,,46.2508579,11.5031301
+2077,933419344,way,,easy,Collegamento Lagorai - Costabella,,,,46.2497244,11.4996983
+2078,933419347,way,,easy,Dei Cirmi,,,,46.2482048,11.5030044
+2079,933419349,way,,intermediate,Forcella Bombasel,,,,46.2400291,11.5029613
+2080,933434536,way,,easy,,,,,46.3449095,11.6941368
+2081,933434537,way,,easy,,,,,46.3437583,11.6957365
+2082,933434539,way,,easy,,,,,46.3458045,11.6934992
+2083,933434542,way,,easy,Skiweg Pozil,,,,46.3454355,11.6883933
+2084,938008636,way,,intermediate,,,,,46.5370112,11.7533062
+2085,938589206,way,,intermediate,,,,,46.7156681,12.3623084
+2086,938589207,way,,intermediate,,,,,46.7159453,12.3617199
+2087,951228040,way,Rara,easy,,,,classic,46.7196744,11.9641092
+2088,951228041,way,Rara,easy,,,,classic,46.7192197,11.9653446
+2089,958450431,way,,intermediate,,,,,46.4299711,11.7236119
+2090,958450432,way,,intermediate,,,,,46.4339358,11.7340036
+2091,958450433,way,,intermediate,,,,,46.4337513,11.7335556
+2092,963905438,way,,intermediate,,,,,46.7953147,11.0922868
+2093,963905439,way,,intermediate,,,,,46.7936569,11.092978
+2094,982919761,way,,easy,,,no,classic,46.7716493,12.1990937
+2095,987160553,way,,intermediate,Pilat,,no,classic,46.5575379,11.6665523
+2096,987721258,way,,easy,,,,,46.6913359,11.7463029
+2097,987880369,way,Pilat Direttissima,advanced,,86,no,classic,46.5639636,11.6680979
+2098,991655550,way,Palmschoss,intermediate,,,,,46.6759208,11.7130375
+2099,994821100,way,,easy,Falzeben 1,,,,46.6740242,11.2543961
+2100,994914196,way,2,easy,,,no,classic,46.9371891,11.3703114
+2101,994914197,way,3,intermediate,,,no,classic,46.9373787,11.3706951
+2102,994914198,way,2,easy,,,no,classic,46.9362838,11.3705133
+2103,994914199,way,3,intermediate,,,no,classic,46.936196,11.3693628
+2104,994914200,way,4,advanced,,,no,classic,46.9380684,11.3692921
+2105,994914201,way,8,intermediate,,,no,classic,46.9415322,11.3740705
+2106,994914202,way,,advanced,,,no,classic,46.9482104,11.3754434
+2107,1004687897,way,Cima Tognola,intermediate,,,,,46.2442972,11.7669463
+2108,1004687898,way,,easy,,,,,46.2435284,11.7671653
+2109,1004689024,way,Agnello Canalone,intermediate,,28,,,46.3411813,11.5435481
+2110,1008173828,way,,easy,,,,,46.3224288,11.6960951
+2111,1011004349,way,Pala di Santa,intermediate,,,,classic,46.3477109,11.5275774
+2112,1011506883,way,,easy,,,,,46.3311603,11.7076945
+2113,1014605483,way,,intermediate,,,,,46.4378533,11.7642322
+2114,1014922696,way,Diego,advanced,,9,no,classic,46.4777407,11.7954792
+2115,1014922697,way,Piz Seteur - Città dei Sassi,easy,,,no,classic,46.5245532,11.7637122
+2116,1015917339,way,,intermediate,,,,,46.2457532,11.5009443
+2117,1015924158,way,,intermediate,,,,,46.3422426,11.5416194
+2118,1015926709,way,,easy,,,,,46.3533787,11.5369085
+2119,1020001191,way,,easy,,,,,46.331463,11.7006481
+2120,1020003094,way,,easy,,,,,46.3429027,11.550186
+2121,1020003095,way,,intermediate,,,,,46.3421942,11.5487372
+2122,1020003096,way,,easy,,,,,46.342042,11.5484782
+2123,1020003097,way,,easy,,,,,46.3496797,11.5427689
+2124,1020003098,way,,easy,,,,,46.3495524,11.5427342
+2125,1020003573,way,,intermediate,,,,,46.3467496,11.5589258
+2126,1020003574,way,,intermediate,,,,,46.3466056,11.5584027
+2127,1020003575,way,,intermediate,,,,,46.2424491,11.5037297
+2128,1020076341,way,,easy,,,,,46.3789941,11.7946528
+2129,1020076342,way,,easy,,,,,46.3848572,11.7998451
+2130,1020076343,way,,easy,,,,,46.3778049,11.8017203
+2131,1020077370,way,,intermediate,,,,,46.4394214,11.7348779
+2132,1021622335,way,Ornella,intermediate,,6,,,46.4747618,11.8686463
+2133,1021622344,way,Salere,intermediate,,1,,,46.4729279,11.8683897
+2134,1021643975,way,Salere,intermediate,,1,,,46.4742623,11.8664971
+2135,1021989350,way,Fratelle,easy,,19,no,,45.9567994,11.3148227
+2136,1021989352,way,Le Cogole,easy,,11,no,,45.9573546,11.292871
+2137,1024634107,way,,easy,,,,,46.267248,11.7777033
+2138,1024634108,way,,easy,,,,,46.2681186,11.7787663
+2139,1024634109,way,,intermediate,,,,,46.2490449,11.7601362
+2140,1024634110,way,,easy,,,,,46.2465457,11.7734454
+2141,1024634309,way,Ferrari II,intermediate,,6,,,46.2931789,11.7853413
+2142,1025482123,way,Cinque Nazioni,intermediate,,35,,,46.345939,11.5588827
+2143,1025482124,way,,intermediate,,,,,46.3426205,11.5648113
+2144,1025482125,way,,easy,,,,,46.3413329,11.5763245
+2145,1025513974,way,,intermediate,,,,,46.3367474,11.5509176
+2146,1025513975,way,,intermediate,,,,,46.3348094,11.547612
+2147,1025514171,way,,easy,,,,,46.3516276,11.5391636
+2148,1025917605,way,Cigolade,easy,,6,,,46.4374081,11.6554387
+2149,1025917606,way,,easy,,,,,46.438704,11.6631267
+2150,1025920235,way,,advanced,,,,,46.3655588,11.6856974
+2151,1025920236,way,,intermediate,,,,,46.3468607,11.6865313
+2152,1025920237,way,,intermediate,,,,,46.3428373,11.6982537
+2153,1025920238,way,,intermediate,,,,,46.3366361,11.7004936
+2154,1025920239,way,,advanced,,,,,46.339585,11.6969228
+2155,1025934440,way,,intermediate,,,,,46.438121,11.7648304
+2156,1025934441,way,,intermediate,,,,,46.4390057,11.766893
+2157,1030955550,way,Buffaure di Sotto,intermediate,,3b,,,46.4311371,11.720929
+2158,1030955552,way,Baby Buffaure,easy,,4,,,46.4295259,11.7224159
+2159,1033549867,way,Malga Varena,easy,,92,,,46.3547826,11.4852267
+2160,1035143054,way,,easy,,,,,46.3469697,11.6853732
+2161,1035143055,way,,intermediate,,,,,46.3475708,11.6842264
+2162,1035143056,way,,intermediate,,,,,46.3352685,11.6990947
+2163,1035143057,way,,intermediate,,,,,46.3428169,11.7068095
+2164,1035147596,way,,intermediate,,,,,46.3369209,11.5492629
+2165,1035147597,way,,intermediate,,,,,46.3424959,11.5454685
+2166,1035147598,way,,intermediate,,,,,46.3341327,11.5563138
+2167,1035154223,way,,intermediate,,,,,46.347918,11.5517823
+2168,1035154224,way,,intermediate,,,,,46.3445544,11.5505013
+2169,1035154225,way,,advanced,,,,,46.3459821,11.564635
+2170,1035154226,way,,intermediate,,,,,46.3405166,11.5753315
+2171,1035154227,way,,intermediate,,,,,46.3450871,11.559458
+2172,1035749259,way,,advanced,,,,,46.3467823,11.6865291
+2173,1035749260,way,,intermediate,,,,,46.3461689,11.6882148
+2174,1035749261,way,,intermediate,,,,,46.3506948,11.6840124
+2175,1035749262,way,,intermediate,,,,,46.3551491,11.6851665
+2176,1035749263,way,,intermediate,,,,,46.3556008,11.6860976
+2177,1035749264,way,,advanced,,,,,46.3509668,11.6893625
+2178,1035749265,way,,intermediate,,,,,46.3539869,11.6830085
+2179,1035749898,way,,intermediate,,,,,46.3457492,11.6854839
+2180,1035751438,way,,intermediate,,,,,46.3608885,11.5433559
+2181,1035751439,way,,easy,,,,,46.3586133,11.5373959
+2182,1035751440,way,,intermediate,,,,,46.3650429,11.5395654
+2183,1035751441,way,,intermediate,,,,,46.3639633,11.5468894
+2184,1035798790,way,,intermediate,,,,,46.340275,11.5778779
+2185,1035803656,way,,intermediate,,,,,46.3360993,11.5534759
+2186,1035803657,way,,easy,,,,,46.3491408,11.5458713
+2187,1035803658,way,,easy,,,,,46.3495958,11.5442847
+2188,1035803659,way,,intermediate,,,,,46.3474116,11.526022
+2189,1035803660,way,,advanced,,,,,46.350212,11.5328157
+2190,1035803661,way,,intermediate,,,,,46.3501454,11.5384939
+2191,1035803662,way,,intermediate,,,,,46.3505099,11.5403303
+2192,1035803663,way,,easy,,,,,46.3506491,11.5404935
+2193,1035806382,way,,intermediate,,,,,46.3729119,11.5375991
+2194,1035806383,way,,intermediate,,,,,46.3744467,11.5322248
+2195,1035806384,way,,intermediate,,,,,46.3423936,11.7013198
+2196,1035808959,way,,intermediate,,,,,46.3359925,11.6996567
+2197,1035818537,way,,intermediate,,,,,46.4377765,11.7632191
+2198,1035818538,way,,intermediate,,,,,46.4416181,11.7675
+2199,1035818539,way,,easy,,,,,46.4446337,11.7693976
+2200,1036043492,way,,easy,,,,,46.7830244,10.5193267
+2201,1036365258,way,,intermediate,,,,,46.3423139,11.5708208
+2202,1036365259,way,,intermediate,,,,,46.3412656,11.5726776
+2203,1036365260,way,,intermediate,,,,,46.3408894,11.5750581
+2204,1037187987,way,,advanced,,,,,46.3416029,11.5707859
+2205,1037187988,way,,intermediate,,,,,46.3420229,11.5692286
+2206,1037187989,way,,advanced,,,,,46.3426377,11.5728693
+2207,1037187990,way,,advanced,,,,,46.3418278,11.5739352
+2208,1037187991,way,,easy,,,,,46.3418852,11.5742327
+2209,1037201633,way,,easy,,,,,46.3486689,11.5459314
+2210,1037201634,way,,intermediate,,,,,46.3490013,11.5437414
+2211,1037201635,way,,intermediate,,,,,46.347186,11.5411807
+2212,1037201636,way,,intermediate,,,,,46.3439379,11.5403897
+2213,1037201637,way,,advanced,,,,,46.3372252,11.554006
+2214,1037201638,way,,intermediate,,,,,46.3382303,11.5531403
+2215,1037201639,way,,advanced,,,,,46.3319198,11.5566357
+2216,1037201640,way,,intermediate,,,,,46.3410177,11.5442211
+2217,1037201641,way,,advanced,,,,,46.3389819,11.5475276
+2218,1037324040,way,,intermediate,,,,,46.3625182,11.5443013
+2219,1037324041,way,,intermediate,,,,,46.3631469,11.5344849
+2220,1037324042,way,,intermediate,,,,,46.3672172,11.5311622
+2221,1037324043,way,,easy,,,,,46.3672814,11.5310991
+2222,1037324044,way,,easy,,,,,46.3697752,11.5323801
+2223,1037326179,way,,intermediate,,,,,46.372079,11.5346018
+2224,1037326180,way,,easy,,,,,46.371705,11.5335689
+2225,1037326181,way,,easy,,,,,46.3555726,11.5384561
+2226,1037326184,way,21 Variante Bosco,intermediate,,,,,46.3506251,11.5395255
+2227,1037500998,way,,easy,,,,,46.5161136,10.5962564
+2228,1037500999,way,,novice,,,,,46.5165512,10.5956292
+2229,1037501000,way,,intermediate,,,,,46.5034112,10.5974628
+2230,1038197323,way,,intermediate,,,no,classic,46.5899566,11.7025618
+2231,1046593198,way,Piz de Plaies,intermediate,,,no,classic,46.6983908,11.9143374
+2232,1046593199,way,Erta,advanced,,,no,classic,46.6997431,11.9195238
+2233,1046593200,way,Pedagà,easy,,,no,classic,46.6985987,11.923832
+2234,1047165601,way,Collegamento Montagnola - Momo,freeride,,15,,,45.7718622,10.9515563
+2235,1047165602,way,Momo,freeride,,17,,,45.7693881,10.9556782
+2236,1047165603,way,Collegamento Polsa - Rosa del Sole,easy,,19,,,45.778201,10.9380036
+2237,1047165604,way,Bellavista,easy,,11,,,45.7771149,10.9452022
+2238,1047165605,way,Polsa 2,intermediate,,12,,,45.7758178,10.9447999
+2239,1047170987,way,,novice,,,,,45.7798891,10.9409264
+2240,1047419046,way,Malga Vignola,freeride,,17,,,45.7695623,10.9552681
+2241,1047419047,way,Collegamento Momo - Polsa,easy,,16,,,45.7758758,10.9511733
+2242,1050331511,way,13,easy,,,,classic,46.8179097,10.4895424
+2243,1050739364,way,Raccordo Del Passo,easy,,43,,,46.3780015,11.7974003
+2244,1050740194,way,,intermediate,,,,,46.3490959,11.5309163
+2245,1050974684,way,,easy,,,,,46.7239636,10.6821861
+2246,1054180971,way,10:Talabfahrt Haideralm,intermediate,,10,,classic,46.7654856,10.5304469
+2247,1054631064,way,,intermediate,,,,backcountry,46.4522566,11.8642233
+2248,1054631067,way,,intermediate,,,,,46.443989,11.8804909
+2249,1054631068,way,,intermediate,,,,,46.4446618,11.882184
+2250,1054631069,way,,advanced,,,,,46.4441097,11.8830934
+2251,1054631073,way,,intermediate,,,,,46.4364422,11.8738763
+2252,1055159941,way,11 Marlet,advanced,,,,backcountry,46.5283926,10.5710277
+2253,1055159942,way,11 Marlet,advanced,,,,backcountry,46.5286323,10.5682269
+2254,1059900579,way,,advanced,Ghiacciaio Presena,,no,,46.223756,10.582586
+2255,1072389874,way,5,freeride,,,no,backcountry,46.4953997,10.6055881
+2256,1074307767,way,,,,,,,46.7839545,11.1032343
+2257,1074308738,way,,intermediate,,,,,46.7910444,11.0997426
+2258,1074308739,way,,intermediate,,,,,46.7914442,11.0990292
+2259,1074310017,way,,,,,,,46.7917037,11.0974301
+2260,1076017466,way,,easy,,,,,46.1478668,11.0243581
+2261,1076017468,way,,easy,,,,,46.1468196,11.0237942
+2262,1076017469,way,,easy,,,,,46.1462289,11.0229551
+2263,1082473164,way,,easy,,,,,46.1474535,11.0237019
+2264,1096693247,way,,easy,,,,,46.1526022,11.0160304
+2265,1096693248,way,,easy,,,,,46.1492716,11.036515
+2266,1096693249,way,,easy,,,,,46.1493028,11.0374706
+2267,1096693250,way,,easy,,,,,46.1489716,11.0369925
+2268,1096693251,way,,easy,,,,,46.1498966,11.0373037
+2269,1096693252,way,,easy,,,,,46.1495817,11.0373826
+2270,1096985202,way,,easy,,,,,46.2747162,10.8268505
+2271,1096987705,way,,easy,,,,,46.2750825,10.8274524
+2272,1101519459,way,,easy,,,,,46.3558572,10.6618233
+2273,1101519460,way,,easy,,,,,46.3579663,10.6523867
+2274,1101519461,way,Scoiattolo,easy,,,,,46.3729679,10.6618491
+2275,1101519462,way,,easy,,,,,46.370733,10.6636841
+2276,1101519463,way,,,,,,,46.3705997,10.6639983
+2277,1101519464,way,,easy,,,,,46.3702859,10.6629629
+2278,1101530135,way,Beverina,intermediate,,,,,46.3770209,10.6668067
+2279,1101530136,way,,easy,,,,,46.3701633,10.6601549
+2280,1101656036,way,,intermediate,,,,,46.1450526,11.0157561
+2281,1101656037,way,,easy,,,,,46.1450553,11.0151782
+2282,1101656038,way,,easy,,,,,46.1494594,10.9960748
+2283,1101656039,way,,easy,,,,,46.1497054,10.9966561
+2284,1101656040,way,,easy,,,,,46.163399,11.0058202
+2285,1101656041,way,,easy,,,,,46.1605786,11.004727
+2286,1102563721,way,,easy,,,,,46.1523215,11.0156485
+2287,1102563722,way,,easy,,,,,46.1523913,11.0145992
+2288,1102565722,way,,novice,,,,,46.143043,11.0374715
+2289,1102565723,way,,novice,,,,,46.1427347,11.0371714
+2290,1102580688,way,,easy,,,,,46.1636602,11.050084
+2291,1103199181,way,,easy,,,,,46.3011353,10.8103384
+2292,1103217702,way,,easy,,,,,46.1727885,10.8132761
+2293,1103229170,way,,easy,,,,,46.2802393,10.8325084
+2294,1103231006,way,,easy,,,,,46.1671888,10.8066236
+2295,1103514108,way,,,,,no,classic,46.840206,11.6019879
+2296,1104926011,way,Stella Alpina Variante,easy,,49A,no,classic,46.5662972,11.8522886
+2297,1105185570,way,,easy,,,,,46.3576287,11.6848036
+2298,1105185571,way,,easy,,,,,46.3576151,11.6844022
+2299,1105185572,way,,easy,,,,,46.3577511,11.6839555
+2300,1105193876,way,,easy,,,,,46.2510324,11.5036033
+2301,1105193877,way,Collegamento Lagorai - Costabella,easy,,,,,46.2509474,11.5034567
+2302,1105193878,way,,easy,,,,,46.2506216,11.5033618
+2303,1105193879,way,Collegamento Campo Scuola Doss dei Laresi,,,72,,,46.264393,11.4805965
+2304,1105211686,way,Kinderpiste-Eben,easy,,,,classic,46.3844715,11.5296125
+2305,1105216980,way,,easy,,,,,46.4340516,11.6652127
+2306,1105232422,way,,easy,,,,,46.3920063,11.8009674
+2307,1105237471,way,,easy,,1,,,45.9180545,11.1944357
+2308,1105237472,way,Baby Costa,novice,,,,,45.9177726,11.1955654
+2309,1105237473,way,,easy,,,,,45.9169523,11.1982066
+2310,1105237476,way,Campo Scuola Fondo Grande,novice,,,,,45.8922646,11.1929402
+2311,1105237477,way,,easy,,,,,45.8919057,11.1934085
+2312,1107322381,way,Pezzei,easy,,37,no,classic,46.5511034,11.8492334
+2313,1107322382,way,Sodlisia,easy,,36,no,classic,46.5500723,11.8490125
+2314,1107322387,way,Frara Sodlisia,easy,,40A,no,classic,46.5488295,11.8483621
+2315,1107322388,way,Frara Sodlisia,easy,,40A,no,classic,46.5489396,11.8485654
+2316,1109078263,way,Frara,easy,,40,no,classic,46.5486356,11.8285918
+2317,1109985091,way,Sorega,advanced,,40B,no,classic,46.6999971,11.9212641
+2318,1110545466,way,(81) Montagnoli,easy,,81,,,46.2340426,10.8463254
+2319,1111120838,way,,intermediate,Forcella Bombasel,,,,46.242288,11.5035757
+2320,1111120839,way,,easy,,,,,46.2446453,11.5039271
+2321,1111120840,way,,intermediate,,,,,46.2438041,11.5035793
+2322,1116902929,way,,easy,,,,,46.563413,11.8527973
+2323,1117632994,way,Campanil 2,easy,,,,,46.3505871,11.5457721
+2324,1117632995,way,Zanggen 2,intermediate,,9,,,46.3560612,11.5341122
+2325,1120638321,way,,novice,,,no,classic,46.638162,11.7168056
+2326,1124159184,way,Sochers 2,intermediate,,,no,classic,46.5402965,11.7413058
+2327,1124968992,way,La Longia,intermediate,,,no,classic,46.5941995,11.7249241
+2328,1125405609,way,Frea,intermediate,,,no,classic,46.5506639,11.8062463
+2329,1125405615,way,,intermediate,,,no,classic,46.5507369,11.7982992
+2330,1125477310,way,Capanna Nera,easy,,8,no,classic,46.5398453,11.8886759
+2331,1125517487,way,,easy,,,,,46.6079785,11.8973028
+2332,1125705197,way,Doninz,easy,,,no,classic,46.5848002,11.9000277
+2333,1125816033,way,Pilat Diretissima,advanced,,86,no,classic,46.564007,11.6681422
+2334,1126244317,way,Malga Pozza,easy,,,,,46.3546526,11.6820461
+2335,1126244318,way,,advanced,,,,,46.3606422,11.6859863
+2336,1129643443,way,Frea,intermediate,,,no,classic,46.5533774,11.8001569
+2337,1130752056,way,Hütteltal,advanced,,7,,classic,46.7954842,10.4906485
+2338,1130752057,way,Hütteltal,advanced,,7,,classic,46.7991648,10.4852948
+2339,1130752058,way,Hütteltal,intermediate,,,,classic,46.7996641,10.4875244
+2340,1130752061,way,Hütteltal,easy,,,,classic,46.7999801,10.4899043
+2341,1130752067,way,Valatschabfahrt,easy,,13,,classic,46.7615809,10.5037131
+2342,1130752068,way,Valatschabfahrt,easy,,13,,classic,46.7621274,10.5044178
+2343,1130752070,way,Valatschabfahrt,easy,,13,,classic,46.7616126,10.503827
+2344,1130752071,way,Hölltentl,intermediate,,11,,classic,46.8002796,10.5045836
+2345,1130752072,way,Hölltentl,intermediate,,11,,classic,46.7996642,10.5043208
+2346,1130752074,way,Höllental,intermediate,,11,,classic,46.7988636,10.4967545
+2347,1130752079,way,2: Jochabfahrt,easy,,2,,classic,46.805155,10.4920798
+2348,1130752081,way,2: Jochabfahrt,easy,,2,,classic,46.8068272,10.4932425
+2349,1130752083,way,2: Jochabfahrt;Abzweig 1: Talabfahrt Schöneben,easy,,2,,classic,46.8061036,10.4923743
+2350,1130752084,way,Talabfahrt Schöneben,easy,,1,,classic,46.8074484,10.4935184
+2351,1130752091,way,,novice,,,,classic,46.8048129,10.4914329
+2352,1130752095,way,Aussichtsabfahrt,easy,,4,,classic,46.8006963,10.4905749
+2353,1130752096,way,Snowpark,,,,,classic+skating,46.7982248,10.4917477
+2354,1130752098,way,Verbindung Bergbahn Schöneben Lift Fraiten,novice,,2,,classic,46.8045477,10.4902076
+2355,1130752100,way,4: Aussichtsabfahrt,easy,,4,,classic,46.8040798,10.4887749
+2356,1130752101,way,4: Aussichtsabfahrt,easy,,4,,classic,46.8042018,10.488485
+2357,1131113013,way,Schiappen-Sella,easy,,,no,classic,46.5330745,11.7720744
+2358,1131113014,way,Plan de Gralba,easy,,,no,classic,46.5337071,11.7704914
+2359,1131140826,way,Sotsaslong,easy,,,no,classic,46.5252032,11.7525904
+2360,1131213247,way,Paradiso - Bamby,easy,,,no,classic,46.5306132,11.6374471
+2361,1131524051,way,Campo Primi Passi,novice,,119,no,,46.1660807,10.7867905
+2362,1131551145,way,,intermediate,,,,,46.5978745,11.7245515
+2363,1131551146,way,Fermada 1,intermediate,,,no,classic,46.5990336,11.7288338
+2364,1131551147,way,Gardenissima,intermediate,,,no,classic,46.5922259,11.7340241
+2365,1131930104,way,,novice,,,,,46.2360584,10.8364854
+2366,1132190799,way,Schmugglerabfahrt - Pista dei Contrabbandieri,intermediate,,,,,46.7797505,10.7993021
+2367,1132432475,way,Euro - Laurin - Spitzbühl,intermediate,,75,no,classic,46.5379353,11.6089127
+2368,1132441961,way,Al Sole - Mezdí,easy,,48,no,classic,46.5523455,11.6626065
+2369,1132441962,way,Al Sole,easy,,48,no,classic,46.554655,11.6611621
+2370,1132441963,way,,easy,,,,,46.5535633,11.6633002
+2371,1132512658,way,,easy,Geister 1,,no,classic,46.5078428,10.4688787
+2372,1132512659,way,,easy,Geister 1,,no,classic,46.5063011,10.4702288
+2373,1132520338,way,,easy,Geister 2,,no,classic,46.5045931,10.4701872
+2374,1132551207,way,Geister - Trincerone,easy,Geister - Trincerone,3,no,classic,46.5081643,10.4669986
+2375,1132551208,way,,easy,Livrio - Trincerone,,no,classic,46.5136375,10.4641867
+2376,1132566669,way,,easy,,,no,classic,46.5151738,10.4618871
+2377,1132768725,way,,,,,,,46.2367979,10.8349192
+2378,1132768726,way,,easy,,,,,46.2369667,10.8346802
+2379,1132768727,way,(50) Pradalago Facile,easy,,50,no,,46.2368363,10.8348715
+2380,1132928054,way,,novice,,,,,46.2387112,10.5806799
+2381,1132981038,way,,easy,,,no,classic,46.5102092,10.4706678
+2382,1133477541,way,,easy,,,,,46.1681497,10.7861447
+2383,1134522599,way,,intermediate,,,,,46.1499091,11.0364466
+2384,1134522601,way,,intermediate,,,,,46.1482115,11.0370301
+2385,1134522602,way,,intermediate,,,,,46.1486072,11.0363758
+2386,1134522603,way,,intermediate,,,,,46.148447,11.0367624
+2387,1134821369,way,Prack,easy,,9,no,,45.9536161,11.2825081
+2388,1137219286,way,,easy,,,no,classic,46.5397599,11.8895502
+2389,1143699297,way,,easy,Variante Presena Paradiso,,no,,46.2286467,10.5808127
+2390,1143699299,way,,easy,Variante Presena Paradiso,,no,classic,46.2363387,10.5806673
+2391,1143699300,way,(40) Presena Paradiso,easy,(40) Presena Paradiso,,,,46.2387544,10.5808399
+2392,1147090374,way,Naturale Allenamento,intermediate,,29a,,,46.3363543,11.5507681
+2393,1147609542,way,Stiergarten - Orto del Toro,easy,,,no,classic,46.6951272,12.3950832
+2394,1147610934,way,Drei Zinnen 41a - Tre Cime 41a,easy,,,no,classic,46.6943691,12.394223
+2395,1147610935,way,Drei Zinnen 41a - Tre Cime 41a,easy,,,no,classic,46.6928699,12.3946158
+2396,1149441847,way,,easy,,1b,,,46.681353,11.2628692
+2397,1149441848,way,,intermediate,,,,,46.6775757,11.256535
+2398,1149451802,way,,intermediate,,,,,46.7238026,12.2047305
+2399,1149451803,way,,easy,,,,,46.7240192,12.2042502
+2400,1149456636,way,,easy,,,,,46.6949231,12.3501409
+2401,1149681902,way,Valatschabfahrt,easy,,13,,classic,46.7623016,10.5037402
+2402,1149687830,way,Collegamento Ciampinoi,intermediate,,,no,classic,46.5520617,11.7607507
+2403,1149687831,way,,intermediate,,,,,46.5388332,11.752572
+2404,1149728052,way,Costoratta,intermediate,,22A,no,classic,46.5198058,11.8721269
+2405,1149728471,way,Piz Sella 5,intermediate,,,no,classic,46.534405,11.7708368
+2406,1153240896,way,Le Coste B,intermediate,,49B,,,46.3885502,11.8003096
+2407,1153242392,way,,intermediate,,,,,46.3854513,11.7989397
+2408,1153242393,way,,easy,,,,,46.3819705,11.7972707
+2409,1153242394,way,,advanced,,,,,46.3730204,11.8027688
+2410,1153459217,way,,intermediate,,,,,46.3313414,11.7039733
+2411,1153459218,way,,intermediate,,,,,46.3354765,11.7103816
+2412,1153459219,way,,intermediate,,,,,46.3422526,11.7173913
+2413,1153459220,way,,intermediate,,,,,46.3446354,11.7163519
+2414,1155000402,way,,intermediate,,,,,46.3883612,11.7972914
+2415,1155000403,way,,intermediate,,,,,46.3819529,11.7955985
+2416,1155000404,way,,intermediate,,,,,46.365612,11.7961614
+2417,1155605672,way,,intermediate,,,,,46.4746405,11.8022421
+2418,1155880552,way,Prà Martin,intermediate,,,,,46.4388553,11.6627862
+2419,1155880553,way,Vajolet 2,easy,,,,,46.4385615,11.6632435
+2420,1155880554,way,Ciampedie - Pian Pecei,easy,,,,classic,46.438316,11.6633386
+2421,1155880555,way,Ciampedie - Pian Pecei,easy,,,,classic,46.4385153,11.6626848
+2422,1155903390,way,Skiweg Reiterjoch,easy,,,,classic,46.3619756,11.5340937
+2423,1156102426,way,Aloch GS,advanced,,,,,46.4245029,11.6949035
+2424,1189087340,way,Paradiso 1,advanced,,9,,,46.2897666,11.7809476
+2425,1189087341,way,Tiri Skiweg,easy,,,,,46.2907862,11.7774086
+2426,1189087931,way,Paradiso 2,advanced,,,,backcountry,46.2870731,11.7824698
+2427,1189087932,way,Paradiso 2,advanced,,,,backcountry,46.2881362,11.7779631
+2428,1195009119,way,Steilhang,intermediate,,12a,no,classic,46.5256926,10.602284
+2429,1195009120,way,Skiweg Seilbahn,easy,,12b,no,classic,46.5194748,10.5971445
+2430,1195009121,way,Rosim,intermediate,,16,no,classic,46.5228579,10.6082457
+2431,1200050158,way,,,,,,,46.801052,10.4913884
+2432,1206808927,way,9,advanced,,,no,classic,46.4987325,10.6228654
+2433,1206808929,way,,easy,,,,classic,46.4968027,10.6143116
+2434,1207369722,way,Val della Mite,intermediate,,12,no,classic,46.3853658,10.6404945
+2435,1207369724,way,Doss dei Gembri,intermediate,,4,no,classic,46.3802762,10.659413
+2436,1207369725,way,Campo Scuola Scoiattolo,easy,,6,no,classic,46.3716897,10.6597654
+2437,1210291741,way,Mickey Mouse,easy,,,no,classic,46.5578754,11.7631661
+2438,1210291742,way,,easy,,,no,classic,46.5576695,11.7633202
+2439,1210996026,way,Rara,easy,,31,no,classic,46.7202617,11.9628179
+2440,1212200080,way,,easy,,,,,46.6844617,11.7100378
+2441,1213013909,way,Charly,easy,,,no,classic,46.5414755,11.727775
+2442,1213013917,way,Tschucky,easy,,,no,classic,46.5497905,11.7169988
+2443,1213013918,way,Comici - Tramans,intermediate,,,no,classic,46.5311079,11.7470519
+2444,1213884862,way,Tramans,intermediate,,,no,classic,46.533625,11.7482865
+2445,1214350348,way,Ciampinoi 4,intermediate,,4,no,classic,46.551068,11.7580997
+2446,1215098015,way,Florian 1,intermediate,,30,no,classic,46.5165222,11.6830227
+2447,1219838098,way,,intermediate,,,,,46.2488419,11.7597527
+2448,1219838099,way,,intermediate,,,,,46.2490209,11.7597286
+2449,1221357378,way,Variante Sole,easy,,35,no,classic,46.5320086,11.9150459
+2450,1221501985,way,Costoratta,intermediate,,22A,no,classic,46.5209876,11.870287
+2451,1221501987,way,Boe - Campolongo,intermediate,,22,no,classic,46.5227727,11.8668424
+2452,1221501992,way,Costoratta,intermediate,,22A,no,classic,46.5239939,11.868258
+2453,1221951792,way,Tarscher Alm (Malga di Tarres),,,,,,46.5774708,10.8906964
+2454,1222219834,way,,intermediate,,,no,classic,46.5026015,11.745968
+2455,1222219835,way,Gabia,easy,,,no,classic,46.5009187,11.7463152
+2456,1225012919,way,,intermediate,,,,classic,46.5347447,11.7571809
+2457,1225013106,way,Collegamento Ronc - Furdenan,easy,,,,classic,46.5681725,11.6689813
+2458,1228223750,way,,easy,,,,,46.3572477,11.6834963
+2459,1229015048,way,Campo Scuola,easy,,110,,,46.1688067,10.7865806
+2460,1229470252,way,Dantercepies Variante,intermediate,,,no,classic,46.5524141,11.7822735
+2461,1229470253,way,,freeride,,,no,backcountry,46.5531742,11.7894291
+2462,1231665956,way,Paprika - Comici I,intermediate,,,no,classic,46.5281284,11.7552496
+2463,1231665959,way,Paprika,intermediate,,,no,classic,46.5300004,11.7511595
+2464,1231985799,way,15 - Übungslift - 15 - Esercizio di sollevamento,easy,,,,,46.7196404,12.3558686
+2465,1231985800,way,15 - Übungslift - 15 - Esercizio di sollevamento,easy,,,,,46.7197417,12.3558505
+2466,1231985801,way,,easy,,,,,46.7199315,12.3561724
+2467,1231999980,way,18 - Übungshang Raut,easy,,,,,46.7310475,12.3292332
+2468,1231999981,way,13 - Helm Vierschach - 13 - Elmo Versciaco,intermediate,,,,,46.7152569,12.349227
+2469,1231999982,way,13 - Helm Vierschach - 13 - Elmo Versciaco,intermediate,,,,,46.7149734,12.3548328
+2470,1231999983,way,Helm Vierschach - Elmo Versciaco,intermediate,,,,,46.7172317,12.3564481
+2471,1231999984,way,14 - Mittelstation,intermediate,,,,,46.7170661,12.3594736
+2472,1231999986,way,,easy,,,,,46.6970506,12.3583013
+2473,1231999987,way,11 - Kristlerhang,intermediate,,,,classic,46.6958994,12.3630291
+2474,1231999990,way,1 - Kreuzberg,intermediate,,,,,46.6541391,12.4185393
+2475,1231999991,way,2 - Marc Giradelli,easy,,,,,46.6518293,12.4153355
+2476,1231999992,way,,easy,,,,,46.6552003,12.4194601
+2477,1231999993,way,Porzen,intermediate,,,,,46.6666729,12.3798553
+2478,1231999994,way,Bad Moos - Rotwand,easy,,,,classic,46.6645696,12.3742088
+2479,1231999995,way,3,easy,Bad Moos - Rotwandwiesen,,,classic,46.681334,12.3647961
+2480,1231999996,way,Bad Moos - Rotwand,easy,,,,classic,46.6739269,12.3730868
+2481,1231999997,way,Bad Moos - Rotwand,easy,,,,classic,46.679464,12.3695958
+2482,1231999998,way,10,intermediate,Signaue,,,,46.6801064,12.381258
+2483,1232000001,way,11- Helm Sexten,intermediate,,,,,46.7116284,12.3677412
+2484,1232000002,way,11- Helm Sexten,intermediate,,,,,46.7097778,12.3679876
+2485,1232000003,way,16 - Helm - 16 - Elmo,easy,,,,,46.7160608,12.3719783
+2486,1233496279,way,15 - Übungslift - 15 - Esercizio di sollevamento,easy,,,,,46.719758,12.3560934
+2487,1233496280,way,Helm,easy,,,,,46.7195466,12.3578214
+2488,1233496281,way,15 - Übungslift - 15 - Esercizio di sollevamento,easy,,,,,46.7189016,12.3580011
+2489,1234245348,way,55 Prati di Latemar,intermediate,,,,,46.3966113,11.6008558
+2490,1236092348,way,,novice,,,,,46.346076,11.452665
+2491,1236092349,way,,easy,,,,,46.3455188,11.4532874
+2492,1236092350,way,,novice,,,,classic,46.3457237,11.4527479
+2493,1236092352,way,,easy,,,,classic,46.3411211,11.4532467
+2494,1236092353,way,,novice,,,,,46.3462962,11.4522461
+2495,1237766482,way,Pralongià II,easy,,8C,no,classic,46.537842,11.9058251
+2496,1239279485,way,Pilat,intermediate,,,,classic,46.5665745,11.6654071
+2497,1239280934,way,Verbindung Monte Pana-Saslong,advanced,,,,classic,46.5498935,11.7244176
+2498,1239280935,way,Verbindung Saslong-Sesselbahn Monte Pana,intermediate,,,,,46.5561295,11.7263528
+2499,1239872916,way,[5b] Abendleite (Almboden),easy,,5,no,classic,46.9819911,11.9836157
+2500,1239876617,way,Dino Funline (Almboden),easy,,5a,no,classic,46.9802721,11.9845658
+2501,1239885258,way,Talabfahrt,easy,,1,no,classic,46.9892053,11.9833943
+2502,1239889982,way,Talabfahrt,easy,,1,no,classic,46.9896272,11.9848044
+2503,1239889983,way,Sonnen 2,advanced,,3f,no,classic,46.9890855,11.9831972
+2504,1240699921,way,Saslong B,intermediate,,B,no,classic,46.5427427,11.7447617
+2505,1240699922,way,Saslong A,advanced,,A,no,classic,46.5411622,11.7460047
+2506,1240699923,way,,advanced,,,no,classic,46.5398158,11.7475878
+2507,1242220417,way,Panoramica,easy,,,,,45.7835847,10.9260609
+2508,1245196368,way,,advanced,,,,,46.4244835,11.6948892
+2509,1245196369,way,,advanced,,,,,46.422024,11.694832
+2510,1248786561,way,,intermediate,,,,classic,46.4384576,11.8765242
+2511,1249133104,way,Incisa,easy,,21,no,classic,46.5333473,11.9158399
+2512,1249133105,way,,easy,,9B,,classic,46.5337008,11.9153325
+2513,1249133106,way,Incisa,easy,,21,no,classic,46.5332393,11.9151084
+2514,1249541237,way,,advanced,,,,,46.4775348,11.7957255
+2515,1250013264,way,Boe - Campolongo,intermediate,,22,no,classic,46.5263236,11.8627405
+2516,1250013265,way,Boè,intermediate,,1,no,classic,46.5258266,11.8626221
+2517,1250013266,way,Boe - Campolongo,intermediate,,22,no,classic,46.5257002,11.8627238
+2518,1250367702,way,,intermediate,,,,,46.482668,11.8174285
+2519,1252972367,way,,,,,,,46.1559355,11.0030603
+2520,1252972368,way,,,,,,,46.1599119,11.0027253
+2521,1252972981,way,,,,,,,46.1406092,11.0153101
+2522,1252972982,way,,,,,,,46.1410052,11.0152281
+2523,1254613202,way,Dorfabfahrt,easy,,,no,classic,46.5632413,11.5654609
+2524,1254633172,way,Saslong B,intermediate,,B,no,classic,46.5406433,11.7519115
+2525,1257998132,way,Mezdí,intermediate,,43,no,classic,46.5585325,11.6579224
+2526,1258013399,way,,intermediate,,,,,46.5441849,11.617528
+2527,1260631051,way,,intermediate,,,,,46.2708566,10.5781076
+2528,1260631052,way,,easy,,,,,46.2663496,10.5834912
+2529,1260631060,way,,easy,,,,,46.2603671,10.5793342
+2530,1260632426,way,Vittoria,intermediate,Vittoria,29,,,46.2597945,10.581438
+2531,1260632428,way,,easy,,,,,46.2604947,10.5816941
+2532,1260642563,way,,easy,,,,,46.2279583,10.5805947
+2533,1260642568,way,,intermediate,Contrabbandieri,36,,,46.291643,10.5743708
+2534,1260642569,way,,intermediate,Contrabbandieri,36,,,46.2908405,10.575453
+2535,1260642570,way,,easy,,,,,46.280905,10.5804097
+2536,1260642571,way,,intermediate,Contrabbandieri,36,,,46.2825316,10.5783797
+2537,1260642572,way,,easy,,,,,46.2653973,10.587094
+2538,1265241836,way,,intermediate,,,,classic,46.8472639,11.2940863
+2539,1265512171,way,Lavaman Variante,intermediate,,I,,,46.0412068,11.0688294
+2540,1265512172,way,Canalon,intermediate,,B,,,46.0330527,11.0576442
+2541,1265514688,way,Free Ride Palon Direttissima,expert,,S,,backcountry,46.0284765,11.057968
+2542,1265514689,way,Canalon - Gran Pista,expert,,U,,backcountry,46.0298219,11.0546177
+2543,1265514690,way,Free Ride Gran Pista,expert,,V,,backcountry,46.0283289,11.0542384
+2544,1267916038,way,Dosso della Madonna 1,easy,,2,no,classic,45.9170682,11.1951576
+2545,1267918300,way,,easy,,,,classic,45.9173557,11.1952589
+2546,1270053872,way,,intermediate,,,,,46.2472649,11.7660532
+2547,1270053873,way,,easy,,,,,46.2428018,11.7723606
+2548,1270053874,way,,easy,,,,,46.2711532,11.7724812
+2549,1270053875,way,,easy,,,,,46.2713646,11.7741423
+2550,1270109984,way,,intermediate,,,,,46.2562109,11.7548043
+2551,1312012885,way,Sorega,advanced,,,no,classic,46.700074,11.9212583
+2552,1312391169,way,Mezdí,easy,,40,no,classic,46.5529963,11.660966
+2553,1312797177,way,Lärchen,intermediate,,3a,no,classic,46.9806926,11.9937698
+2554,1312797190,way,Steinhaus,advanced,,6,no,classic,46.9910343,11.9731764
+2555,1312797191,way,S-Line (Sonnen),easy,,3d,no,classic,46.9874532,11.9892578
+2556,1312797192,way,Smiley,easy,,2c,no,classic,46.9274334,11.9054823
+2557,1312843640,way,Familienpiste Lazaun,intermediate,,L1,,classic,46.7553162,10.7796525
+2558,1318080320,way,,easy,Geister - Trincerone,,no,classic,46.5031987,10.4697492
+2559,1318080321,way,,easy,,,,,46.5035069,10.467398
+2560,1318120773,way,,easy,,11A,no,classic,46.5520662,11.9311704
+2561,1318241404,way,,novice,,,,,46.944825,11.3820544
+2562,1319729696,way,Baurschaft (Sonnen),advanced,,3b,no,classic,46.9784405,11.9927713
+2563,1320601208,way,,intermediate,,,,,46.5505658,11.7949523
+2564,1321681979,way,Teufelsegg R1,advanced,,,,,46.7755277,10.7764936
+2565,1321681980,way,,intermediate,,,,,46.7739185,10.7825914
+2566,1321681981,way,Teufelsegg R2,advanced,,,,,46.7835246,10.7658988
+2567,1321681982,way,Schmugglerabfahrt - Pista dei Contrabbandieri,intermediate,,,,,46.7747846,10.7838296
+2568,1321681983,way,,intermediate,,,,,46.7921848,10.7914141
+2569,1321681984,way,,easy,,,,,46.779841,10.7969634
+2570,1321681985,way,,easy,,,,,46.7800006,10.7972534
+2571,1321681986,way,,easy,,,,,46.7817407,10.7976836
+2572,1322495780,way,,easy,,,no,classic,46.6392879,11.7166627
+2573,1322495781,way,,easy,,,no,classic,46.6386211,11.7163284
+2574,1323926012,way,I - Skiweg Unesco,easy,,,,,46.6600878,12.3732511
+2575,1323926013,way,Porzen,intermediate,,,,,46.6601318,12.3725966
+2576,1323926015,way,,easy,Parfal,,,,46.6701155,12.3781579
+2577,1327570059,way,Joel Couloir,freeride,,,,,46.499474,11.8184513
+2578,1329143721,way,,easy,,,,,46.3456469,11.6928389
+2579,1333760756,way,,easy,,,,,45.8784366,11.2180965
+2580,1333763349,way,Pioverna,easy,,25,,,45.8811582,11.2363977
+2581,1337095006,way,Naturale Allenamento,advanced,,29a,,,46.334519,11.5490857
+2582,1337095007,way,,advanced,,,,,46.3345215,11.549035
+2583,1337112296,way,Variante il Muro,advanced,,2b,,,46.4783374,11.8089215
+2584,1337112297,way,,intermediate,,,,,46.4791007,11.800597
+2585,1337115695,way,,intermediate,,,,,46.4780251,11.8060456
+2586,1337115696,way,,easy,,,,,46.4801069,11.8038805
+2587,1337115698,way,,intermediate,,,,,46.4817533,11.8029076
+2588,1337115784,way,,intermediate,,,,,46.4819276,11.7929161
+2589,1337140555,way,3-Tre,advanced,,11,no,classic,46.4995838,11.7586614
+2590,1337140556,way,Martinelli,intermediate,,,,,46.5055529,11.7466718
+2591,1337140557,way,,intermediate,,,no,classic,46.5045633,11.7467438
+2592,1337140558,way,,intermediate,,,,,46.4997134,11.7599028
+2593,1337140559,way,3-Tre,intermediate,,11,,,46.5010924,11.7561607
+2594,1337140560,way,Cinque Dita,intermediate,,13,no,classic,46.501934,11.7573331
+2595,1337140561,way,Cinque Dita,intermediate,,13,no,classic,46.5042002,11.7460917
+2596,1337360699,way,Puflatsch Race,advanced,,77,no,classic,46.5481701,11.61466
+2597,1341472668,way,Collegamento Momo - Montagnola,easy,,15,,,45.7698761,10.951684
+2598,1349462067,way,,advanced,,,,classic,46.7721686,12.199165
+2599,1351202735,way,Piculin,advanced,,45,no,classic,46.6945593,11.9022333
+2600,1352576440,way,Valatschabfahrt,easy,,13,,classic,46.7614362,10.504017
+2601,1352576441,way,Valatschabfahrt,easy,,13,,classic,46.7615366,10.5047738
+2602,1353356436,way,Tulot,advanced,,100,,,46.1765521,10.7777884
+2603,1353504468,way,Steilhang,intermediate,,12a,no,classic,46.5244409,10.6050854
+2604,1353504469,way,Abfahrt Kanzel,easy,,12,no,classic,46.5247104,10.6041653
+2605,1353505591,way,,easy,,15a,,,46.5173636,10.573349
+2606,1354998822,way,,intermediate,,,,,46.7230358,12.2045079
+2607,1355335273,way,,intermediate,,,,classic,46.4191426,11.1821409
+2608,1355335274,way,,easy,,,,classic,46.4181327,11.1828166
+2609,1357780018,way,Ried,intermediate,,,no,classic,46.7665503,11.9843857
+2610,1358627289,way,Ried,easy,,,no,classic,46.7829574,11.9855764
+2611,1358627290,way,Ried,advanced,,,no,classic,46.7825387,11.9841521
+2612,1361973851,way,,intermediate,,,,classic,46.5436515,11.7705185
+2613,1362327379,way,leichte Variante vor Steilhang Ort Plagött,easy,,,,classic,46.7623708,10.5231863
+2614,1362328933,way,,novice,,,,classic,46.7613404,10.504277
+2615,1362329638,way,,easy,,,no,classic,46.7651365,10.5314815
+2616,1362338848,way,,intermediate,,,no,backcountry,46.7998477,10.4825063
+2617,1362343170,way,,easy,,,,classic,46.8045134,10.4923202
+2618,1362345626,way,,easy,,,,classic,46.8039579,10.4897839
+2619,1363135194,way,10:Talabfahrt Haideralm,easy,,10,,classic,46.7654002,10.5310304
+2620,1363141373,way,,novice,,,,classic,46.7072197,10.4912823
+2621,1363141374,way,,novice,,,,classic,46.7075374,10.4926256
+2622,1363147606,way,leichte Watles Piste,easy,,,,classic,46.7132012,10.4878776
+2623,1363147607,way,Watles - Vatles,easy,,,,classic,46.7082492,10.4925799
+2624,1363149073,way,,novice,,,,classic,46.7053576,10.4927272
+2625,1363149074,way,,easy,,,,classic,46.7057403,10.4923227
+2626,1363152509,way,Freeride-Piste Sautal,freeride,,,,classic,46.7058576,10.4990921
+2627,1363153540,way,Watles - Vatles,easy,,,,classic,46.7068382,10.4929158
+2628,1363155917,way,Gipfelabfahrt Watles,easy,,,no,classic,46.7218051,10.4867794
+2629,1363990360,way,,advanced,,,,classic,46.8008678,10.4771568
+2630,1363990717,way,,easy,,,,classic,46.761936,10.5035902
+2631,1365099361,way,,easy,,,,,45.8885614,11.1756398
+2632,1365099363,way,,easy,,,,,45.8808801,11.1977715
+2633,1365099364,way,,easy,,,,,45.8773274,11.2005435
+2634,1365099365,way,Trugalait,intermediate,,16,,,45.8777451,11.200431
+2635,1365099366,way,,intermediate,,,,,45.8825569,11.2014042
+2636,1365099367,way,,easy,,,,,45.8779102,11.2036437
+2637,1365099370,way,Collegamento,easy,,,,,45.878015,11.1941017
+2638,1365099379,way,,,,,,,45.8898284,11.1575772
+2639,1365100229,way,,easy,,,,classic,46.5360082,11.8881793
+2640,1371890343,way,9a,easy,,,,,46.9512278,11.9130415
+2641,1377225353,way,Rinneralm Profi,advanced,,2a,no,classic,46.8452739,11.3069897
+2642,1380336212,way,Geister - Trincerone,easy,,3,no,classic,46.5108222,10.4647281
+2643,1383729389,way,,easy,,,,classic,46.5517753,11.7612315
+2644,1389396267,way,,intermediate,,,,,46.8298024,10.6514222
+2645,1390568907,way,,easy,,,,,46.1724141,10.8129489
+2646,1390568908,way,Cioca 2,intermediate,,108,,,46.175636,10.7985478
+2647,1390568909,way,Tulot,easy,,100,,,46.1738659,10.799651
+2648,1416718194,way,,easy,,,,,46.5167153,10.4602768
+2649,1417548451,way,Skiweg Skilift Nives - La Poza,easy,,,,classic,46.5580296,11.7601732
+2650,1417548452,way,Skiweg Skilift Nives - La Poza,easy,,,,classic,46.5576478,11.7581948
+2651,1417548453,way,Skiweg Skilift Nives - La Poza,easy,,,,classic,46.5571146,11.7555131
+2652,1417548454,way,,easy,,,,classic,46.5567616,11.7522384
+2653,1417548455,way,Skiweg Skilift Nives - La Poza,easy,,,,classic,46.5569718,11.7502111
+2654,1417548456,way,Skiweg Skilift Nives - La Poza,easy,,,,classic,46.5580741,11.7491165
+2655,1417549592,way,Skiweg Skilift Nives - La Poza,easy,,,,,46.5594574,11.746972
+2656,1417549593,way,,easy,,,,,46.5593612,11.7444479
+2657,1417549594,way,Skiweg Skilift Nives - La Poza,easy,,,,,46.559461,11.7428013
+2658,1417549595,way,,easy,,,,,46.5578014,11.7596614
+2659,1417549596,way,,easy,,,,,46.5578694,11.7637659
+2660,1417549761,way,,easy,,,,,46.5571512,11.7665811
+2661,1417549762,way,,,,,,,46.5584058,11.7645182
+2662,1417550131,way,,freeride,,,,backcountry,46.5478422,11.7258758
+2663,1417550132,way,,easy,Pilat,,no,classic,46.5724243,11.6710594
+2664,1417551117,way,,easy,,,,,46.5608121,11.7320999
+2665,1419642839,way,,easy,,,,,46.3441527,11.695161
+2666,1422614106,way,,easy,,,,,46.8347357,10.6459828
+2667,1422614107,way,,easy,,,,,46.829775,10.6499197
+2668,1424925849,way,,intermediate,Residenza,,,,46.3466885,11.5583094
+2669,1425074219,way,,intermediate,,,,,46.8503194,11.621326
+2670,1425074220,way,,intermediate,,,,,46.8505225,11.6213143
+2671,1425074221,way,,easy,,,,,46.8352982,11.6695846
+2672,1426732436,way,,easy,,,,,46.5127133,10.4660015
+2673,1426732438,way,,easy,,,,,46.5124606,10.466094
+2674,1426732439,way,,easy,,,,,46.5127717,10.4663083
+2675,1426735718,way,,easy,,,,,46.5115019,10.466553
+2676,1426735719,way,,easy,,,,,46.5132519,10.4620342
+2677,1426735720,way,,easy,,,,,46.5082205,10.4678444
+2678,1427209612,way,,easy,,,,,46.145736,11.0219304
+2679,1428431622,way,,easy,,,,,46.5176599,10.4586259
+2680,1430453308,way,,freeride,,,,backcountry,46.5868309,11.7308459
+2681,1430453309,way,,intermediate,,,,,46.5898607,11.7234185
+2682,1430453310,way,,easy,,,,,46.5860325,11.7383118
+2683,1435603368,way,,easy,,,,,46.5271318,10.5921278
+2684,1435603369,way,,easy,,,,,46.5275872,10.5929666
+2685,1441660914,way,,easy,,,,,46.5579537,11.6646797
+2686,1442716482,way,,easy,,,,,46.75685,10.7832006
+2687,1442716483,way,,easy,,,,,46.7567832,10.783072
+2688,1442716484,way,,easy,,,,,46.7577413,10.7872453
+2689,1444816965,way,,easy,,,,,46.6556199,12.41864
+2690,1444816966,way,,intermediate,,,,,46.6551214,12.4184005
+2691,1451106773,way,,easy,,,,,46.1456091,11.0214862
+2692,1453352855,way,,easy,,,,,46.6128188,11.9239005
+2693,1453352856,way,,easy,,,,,46.612649,11.9237227
+2694,1453542304,way,Roby - Bamby,easy,,15,,,46.5541374,11.9095204
+2695,1454195066,way,La Ciampinoi,advanced,,,,classic,46.5520116,11.7585402
+2696,1457408284,way,,freeride,,K,,backcountry,46.1420122,11.0355526
+2697,1457671942,way,,intermediate,,,,,46.492344,11.7811274
+2698,1463978155,way,Incisa,easy,,21,no,classic,46.5333004,11.9149269
+2699,1464316079,way,,Sehr Leicht,,,no,classic,46.8042049,10.4922713
+2700,1464316080,way,,Sehr Leicht,,,no,classic,46.8041011,10.4923717
+2701,1467077105,way,,easy,,,,,46.392706,11.3910764
+2702,1473381670,way,,easy,,,,,46.5446983,11.6164148
+2703,1473384973,way,Euro 70,intermediate,,,,,46.5439624,11.6220987
+2704,1473384974,way,,easy,,,,,46.543746,11.6227415
+2705,1473407863,way,10,easy,,,,,46.3712094,11.673223
+2706,1476499396,way,Lavaman variante gare,intermediate,,H,yes,,46.0415148,11.0670503
+2707,1479527777,way,,intermediate,,,,,46.5516028,11.75849
+2708,1479527778,way,,intermediate,,,,,46.5532315,11.7415847
+2709,1479527779,way,,easy,,,,,46.5568652,11.7575992
+2710,1479527780,way,,easy,,,,,46.5579967,11.738619
+2711,1479527781,way,,easy,,,,,46.5572921,11.7323992
+2712,1479530988,way,,intermediate,,,,,46.520279,11.7565944
+2713,1481464720,way,,easy,,,,,46.7439057,11.9723991
+2714,1481464723,way,,easy,,,,,46.7434158,11.9714944
+2715,1481689094,way,,intermediate,Seewiese,,,classic,46.7443749,11.9507262
+2716,1481689095,way,,intermediate,,,,,46.737908,11.9595733
+2717,1481689096,way,Lumen,intermediate,,,,,46.7404571,11.9558278
+2718,1482455856,way,Vesan Primi Passi,novice,,23,no,,45.9551414,11.3294963
+2719,1482455857,way,Skiweg Ninfea,easy,,14,no,,45.9544094,11.3011807
+2720,1483641409,way,Colraiser,intermediate,,,no,classic,46.5737204,11.7437323
+2721,1483642121,way,Col Raiser - Plan de Tieja,intermediate,,,,classic,46.5645114,11.7356246
+2722,1483653801,way,Colraiser - Fermeda,easy,,,no,classic,46.5865297,11.7400384
+2723,1483653802,way,Fermeda - S. Cristina,easy,,,no,classic,46.5809059,11.7431703
+2724,1483653995,way,Seceda - Fermeda,intermediate,,,no,classic,46.5976763,11.7275342
+2725,1483654069,way,Monte Fermeda,intermediate,,,no,classic,46.5991763,11.7259966
+2726,1483654492,way,La Longia,intermediate,,,no,classic,46.5912632,11.7145651
+2727,1483654814,way,,intermediate,,,no,classic,46.5912345,11.7029498
+2728,1483658249,way,Palmer,easy,,,,,46.5697394,11.6755966
+2729,1483661796,way,Leo Demetz - Sanon,easy,,45,no,classic,46.5494168,11.6533713
+2730,1483661797,way,Leo Demetz - Sanon,intermediate,,45,no,classic,46.5512699,11.6493411
+2731,1483661798,way,Leo Demetz - Mezdí,easy,,44,no,classic,46.5519865,11.6490307
+2732,1483731987,way,,easy,,,no,classic,46.5816619,11.9023926
+2733,1483731989,way,,intermediate,,,no,classic,46.565443,11.9063386
+2734,1483732004,way,,easy,,,no,,46.5675841,11.9379628
+2735,1484632008,way,,easy,,,no,classic,46.5596274,11.7731115
+2736,1484632344,way,Pista del Lupo,easy,,,,classic,46.5552113,11.7733714
+2737,1484632637,way,Cir - Ria,intermediate,,,no,classic,46.5558202,11.771911
+2738,1484636494,way,La Ria,advanced,,3,no,classic,46.5558915,11.7731157
+2739,1485328156,way,Familienpiste Lazaun,intermediate,,L1,,classic,46.7560808,10.777772
+2740,1485820115,way,Terza Punta,intermediate,,,no,classic,46.5509706,11.7590576
+2741,1485820116,way,Campo Freina,intermediate,,,no,classic,46.5511605,11.760756
+2742,1486365530,way,,intermediate,,,,classic,46.7999503,10.4898046
+2743,1486365531,way,,easy,,,,classic,46.7957421,10.4954209
+2744,1486365532,way,,easy,,,,classic,46.7611904,10.5044509
+2745,1486373603,way,Nuova Cima Uomo,advanced,,52,,,46.3942421,11.7995799
+2746,1488051359,way,,easy,,,no,classic,46.5291545,11.7479952
+2747,1489167619,way,Piz Sella 5,intermediate,,,no,classic,46.5324574,11.7650092
+2748,1489279270,way,,easy,,,,,46.5005706,10.4729474
+2749,1489279271,way,,easy,,,,,46.5077736,10.4682322
+2750,1489279272,way,,easy,,,,,46.5110049,10.4662363
+2751,1491357903,way,Mezdí - Leo Demetz,intermediate,,,no,classic,46.5534437,11.6524757
+2752,1493071564,way,,advanced,Schuss,,,,46.7181735,12.36302
+2753,1493079304,way,,easy,Familienvariante Vierschach,,,,46.7177285,12.3554468
+2754,1493084698,way,,easy,,,,,46.6612034,12.3714918
+2755,1819421,relation,Sellaronda Arancione,,,,,,46.5157404,11.81065
+2756,1819422,relation,Sellaronda Verde,,,,,,46.5174768,11.8086961
+2757,3794167,relation,,,,,,,46.1752033,10.7945082
+2758,3794173,relation,,easy,,,,,46.1675783,10.7865138
+2759,3794176,relation,,intermediate,,,,,46.1675783,10.7865138
+2760,4668560,relation,,intermediate,,,,,46.5038718,11.7481602
+2761,5776682,relation,G2,,,,,,46.7729188,10.799652
+2762,5845941,relation,G3,,,,,,46.7729188,10.8000709
+2763,5845942,relation,S1,,,,,,46.7790074,10.8031223
+2764,5845943,relation,S2,,,,,,46.778882,10.8022668
+2765,9360417,relation,,easy,,,,,46.6084477,11.8985756
+2766,9362236,relation,Gardenaccia 1,,,25,,,46.5857371,11.8945803
+2767,9362237,relation,Gardenaccia 2,,,26,,,46.5872938,11.8920543
+2768,9362238,relation,,easy,,,,,46.5858185,11.8945721
+2769,9362239,relation,,,,27,,,46.5939384,11.8953435
+2770,9362240,relation,,,,31,,,46.6101379,11.9101527
+2771,9362383,relation,,easy,,,,,46.5841256,11.9058652
+2772,10378892,relation,Plaut,,,23,,,45.8785878,11.2184067
+2773,10379475,relation,Rainer,,,21,,,45.8829075,11.2061941
+2774,10379476,relation,Plaut - Bus de la Nef,,,23b,,,45.8782011,11.2118179
+2775,11660833,relation,Super8,,,,,,46.5283406,12.0035701
+2776,12145461,relation,Talabfahrt Luttach,easy,,9,no,classic,46.9399147,11.9098628
+2777,12145463,relation,Talabfahrt Weißenbach,easy,,10,no,classic,46.9465759,11.8869953
+2778,12499658,relation,Gebirgsjäger - Grande Guerra CCW,,,,,,46.4931966,11.9641866
+2779,12500516,relation,Gebirgsjäger - Grande Guerra CW,,,,,,46.481945,11.964892
+2780,15322564,relation,Geister 1,easy,,1,no,classic,46.5062182,10.4698432
+2781,15322582,relation,Geister 2,easy,,2,no,classic,46.504631,10.4702806
+2782,15322908,relation,Livrio - Trincerone,easy,,4,no,classic,46.5136482,10.4644623
+2783,15330299,relation,Trincerone - Passo Stelvio,easy,,5,no,classic,46.5225107,10.4560056
+2784,15460398,relation,Ghiacciaio Presena,advanced,,41,,classic,46.2237973,10.5827744
+2785,15536053,relation,Sellaronda Arancione alternativa,,,,,,46.5387382,11.7554597
+2786,16438145,relation,,advanced,,,,,46.4514595,11.7801864
+2787,16681537,relation,Boè,intermediate,,1,no,classic,46.5357835,11.8684065
+2788,16833740,relation,Giro delle Cime,,,,,,46.6679559,12.4029816
+2789,16835366,relation,Ciampinoi 4,intermediate,,,yes,classic,46.5446449,11.7565956
+2790,17237431,relation,,easy,,,,,46.6563067,12.4182665
+2791,17237433,relation,,intermediate,,,,,46.6534894,12.4178989
+2792,17237434,relation,,novice,,,,,46.6555369,12.4194398

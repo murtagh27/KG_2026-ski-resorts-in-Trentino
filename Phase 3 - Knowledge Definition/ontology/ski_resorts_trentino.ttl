@@ -1,0 +1,242 @@
+@prefix ski: <http://skiresorts-trentino.2026.kg/ontology#> .
+@prefix schema: <http://schema.org/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+
+# ============================================================
+# Ontology Metadata
+# ============================================================
+
+<http://skiresorts-trentino.2026.kg/ontology> a owl:Ontology ;
+    dc:title "Ski Resorts in Trentino Knowledge Graph Ontology" ;
+    dc:description "Ontology for modeling ski resorts, slopes, lifts, and associated tourism facilities in the Trentino-Alto Adige/Sudtirol region." ;
+    dc:creator "KG 2026 Project Team - University of Trento" ;
+    dc:date "2026-03-26" ;
+    owl:versionInfo "1.0" .
+
+# ============================================================
+# Classes (Entity Types)
+# ============================================================
+
+ski:SkiResort a owl:Class ;
+    rdfs:subClassOf schema:SkiResort ;
+    rdfs:label "Ski Resort"@en ;
+    rdfs:comment "A ski resort or ski area in the Trentino region, containing slopes, lifts, and associated facilities."@en .
+
+ski:SkiSlope a owl:Class ;
+    rdfs:subClassOf schema:Place ;
+    rdfs:label "Ski Slope"@en ;
+    rdfs:comment "An individual downhill ski slope (piste) at a ski resort, characterized by difficulty level and length."@en .
+
+ski:SkiLift a owl:Class ;
+    rdfs:subClassOf schema:CivicStructure ;
+    rdfs:label "Ski Lift"@en ;
+    rdfs:comment "An aerial lift system (chairlift, gondola, cable car, drag lift) used to transport skiers uphill."@en .
+
+ski:SkiPass a owl:Class ;
+    rdfs:subClassOf schema:Offer ;
+    rdfs:label "Ski Pass"@en ;
+    rdfs:comment "A ticket or pass providing access to ski resort facilities, with associated pricing and duration."@en .
+
+ski:SkiSchool a owl:Class ;
+    rdfs:subClassOf schema:EducationalOrganization ;
+    rdfs:label "Ski School"@en ;
+    rdfs:comment "A ski instruction school operating at or near a ski resort."@en .
+
+ski:Hotel a owl:Class ;
+    rdfs:subClassOf schema:LodgingBusiness ;
+    rdfs:label "Hotel"@en ;
+    rdfs:comment "An accommodation facility (hotel, B&B, pension) near ski resorts in Trentino."@en .
+
+ski:Restaurant a owl:Class ;
+    rdfs:subClassOf schema:FoodEstablishment ;
+    rdfs:label "Restaurant"@en ;
+    rdfs:comment "A dining establishment near ski resorts in Trentino."@en .
+
+ski:RentalShop a owl:Class ;
+    rdfs:subClassOf schema:Store ;
+    rdfs:label "Rental Shop"@en ;
+    rdfs:comment "A ski equipment rental shop near ski resorts."@en .
+
+ski:Municipality a owl:Class ;
+    rdfs:subClassOf schema:AdministrativeArea ;
+    rdfs:label "Municipality"@en ;
+    rdfs:comment "A municipality (comune) in the Trentino region."@en .
+
+ski:Coordinate a owl:Class ;
+    rdfs:subClassOf geo:Point ;
+    rdfs:label "Coordinate"@en ;
+    rdfs:comment "A WGS84 geographic coordinate pair (latitude, longitude)."@en .
+
+# ============================================================
+# Object Properties
+# ============================================================
+
+ski:hasSlope a owl:ObjectProperty ;
+    rdfs:subPropertyOf schema:containsPlace ;
+    rdfs:domain ski:SkiResort ;
+    rdfs:range ski:SkiSlope ;
+    rdfs:label "has slope"@en ;
+    rdfs:comment "Links a ski resort to one of its ski slopes."@en .
+
+ski:hasLift a owl:ObjectProperty ;
+    rdfs:subPropertyOf schema:containsPlace ;
+    rdfs:domain ski:SkiResort ;
+    rdfs:range ski:SkiLift ;
+    rdfs:label "has lift"@en ;
+    rdfs:comment "Links a ski resort to one of its ski lifts."@en .
+
+ski:hasSkiPass a owl:ObjectProperty ;
+    rdfs:subPropertyOf schema:makesOffer ;
+    rdfs:domain ski:SkiResort ;
+    rdfs:range ski:SkiPass ;
+    rdfs:label "has ski pass"@en ;
+    rdfs:comment "Links a ski resort to a ski pass it offers."@en .
+
+ski:hasSkiSchool a owl:ObjectProperty ;
+    rdfs:subPropertyOf schema:containsPlace ;
+    rdfs:domain ski:SkiResort ;
+    rdfs:range ski:SkiSchool ;
+    rdfs:label "has ski school"@en ;
+    rdfs:comment "Links a ski resort to a ski school operating there."@en .
+
+ski:locatedIn a owl:ObjectProperty ;
+    rdfs:subPropertyOf schema:containedInPlace ;
+    rdfs:range ski:Municipality ;
+    rdfs:label "located in"@en ;
+    rdfs:comment "Links an entity to the municipality it is located in."@en .
+
+ski:nearResort a owl:ObjectProperty ;
+    rdfs:range ski:SkiResort ;
+    rdfs:label "near resort"@en ;
+    rdfs:comment "Links a facility (hotel, restaurant, shop) to the nearest ski resort within a threshold distance."@en .
+
+ski:hasCoordinates a owl:ObjectProperty ;
+    rdfs:subPropertyOf schema:geo ;
+    rdfs:range ski:Coordinate ;
+    rdfs:label "has coordinates"@en ;
+    rdfs:comment "Links an entity to its geographic coordinates."@en .
+
+# ============================================================
+# Data Properties
+# ============================================================
+
+ski:name a owl:DatatypeProperty ;
+    rdfs:subPropertyOf schema:name ;
+    rdfs:range xsd:string ;
+    rdfs:label "name"@en .
+
+ski:osmId a owl:DatatypeProperty ;
+    rdfs:subPropertyOf schema:identifier ;
+    rdfs:range xsd:string ;
+    rdfs:label "OSM ID"@en ;
+    rdfs:comment "OpenStreetMap identifier for cross-referencing."@en .
+
+ski:altitudeMin a owl:DatatypeProperty ;
+    rdfs:subPropertyOf schema:elevation ;
+    rdfs:domain ski:SkiResort ;
+    rdfs:range xsd:integer ;
+    rdfs:label "minimum altitude"@en .
+
+ski:altitudeMax a owl:DatatypeProperty ;
+    rdfs:subPropertyOf schema:elevation ;
+    rdfs:domain ski:SkiResort ;
+    rdfs:range xsd:integer ;
+    rdfs:label "maximum altitude"@en .
+
+ski:difficulty a owl:DatatypeProperty ;
+    rdfs:domain ski:SkiSlope ;
+    rdfs:range xsd:string ;
+    rdfs:label "difficulty"@en ;
+    rdfs:comment "Slope difficulty: novice, easy, intermediate, advanced, expert, freeride."@en .
+
+ski:lengthKm a owl:DatatypeProperty ;
+    rdfs:subPropertyOf schema:distance ;
+    rdfs:domain ski:SkiSlope ;
+    rdfs:range xsd:float ;
+    rdfs:label "length in km"@en .
+
+ski:liftType a owl:DatatypeProperty ;
+    rdfs:subPropertyOf schema:additionalType ;
+    rdfs:domain ski:SkiLift ;
+    rdfs:range xsd:string ;
+    rdfs:label "lift type"@en ;
+    rdfs:comment "Type of lift: chair_lift, gondola, cable_car, drag_lift, t-bar, platter, magic_carpet."@en .
+
+ski:capacity a owl:DatatypeProperty ;
+    rdfs:subPropertyOf schema:maximumAttendeeCapacity ;
+    rdfs:domain ski:SkiLift ;
+    rdfs:range xsd:integer ;
+    rdfs:label "capacity"@en ;
+    rdfs:comment "Persons per hour capacity."@en .
+
+ski:starRating a owl:DatatypeProperty ;
+    rdfs:subPropertyOf schema:starRating ;
+    rdfs:domain ski:Hotel ;
+    rdfs:range xsd:string ;
+    rdfs:label "star rating"@en .
+
+ski:numberOfBeds a owl:DatatypeProperty ;
+    rdfs:subPropertyOf schema:numberOfBedrooms ;
+    rdfs:domain ski:Hotel ;
+    rdfs:range xsd:integer ;
+    rdfs:label "number of beds"@en .
+
+ski:price a owl:DatatypeProperty ;
+    rdfs:subPropertyOf schema:price ;
+    rdfs:range xsd:float ;
+    rdfs:label "price"@en .
+
+ski:cuisine a owl:DatatypeProperty ;
+    rdfs:subPropertyOf schema:servesCuisine ;
+    rdfs:domain ski:Restaurant ;
+    rdfs:range xsd:string ;
+    rdfs:label "cuisine"@en .
+
+ski:phone a owl:DatatypeProperty ;
+    rdfs:subPropertyOf schema:telephone ;
+    rdfs:range xsd:string ;
+    rdfs:label "phone"@en .
+
+ski:email a owl:DatatypeProperty ;
+    rdfs:subPropertyOf schema:email ;
+    rdfs:domain ski:Hotel ;
+    rdfs:range xsd:string ;
+    rdfs:label "email"@en .
+
+ski:website a owl:DatatypeProperty ;
+    rdfs:subPropertyOf schema:url ;
+    rdfs:range xsd:anyURI ;
+    rdfs:label "website"@en .
+
+ski:address a owl:DatatypeProperty ;
+    rdfs:subPropertyOf schema:address ;
+    rdfs:range xsd:string ;
+    rdfs:label "address"@en .
+
+ski:postcode a owl:DatatypeProperty ;
+    rdfs:subPropertyOf schema:postalCode ;
+    rdfs:range xsd:string ;
+    rdfs:label "postcode"@en .
+
+ski:latitude a owl:DatatypeProperty ;
+    rdfs:subPropertyOf geo:lat ;
+    rdfs:domain ski:Coordinate ;
+    rdfs:range xsd:float ;
+    rdfs:label "latitude"@en .
+
+ski:longitude a owl:DatatypeProperty ;
+    rdfs:subPropertyOf geo:long ;
+    rdfs:domain ski:Coordinate ;
+    rdfs:range xsd:float ;
+    rdfs:label "longitude"@en .
+
+ski:duration a owl:DatatypeProperty ;
+    rdfs:domain ski:SkiPass ;
+    rdfs:range xsd:string ;
+    rdfs:label "duration"@en ;
+    rdfs:comment "Validity duration of the ski pass (e.g., 1-day, 3-day, season)."@en .

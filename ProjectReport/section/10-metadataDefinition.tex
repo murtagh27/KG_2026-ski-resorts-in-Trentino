@@ -1,0 +1,107 @@
+\section{Metadata Definition}
+
+This section collects the metadata definitions for all resources produced during the iTelos process.
+
+\subsection{Project Metadata}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|p{9cm}|}
+\hline
+\textbf{Field} & \textbf{Value} \\
+\hline
+Title & Ski Resorts in Trentino Knowledge Graph \\
+Creator & KG 2026 Project Team -- University of Trento \\
+Date & March 2026 \\
+Language & English \\
+Subject & Ski tourism, Knowledge Graphs, Trentino, Winter sports \\
+Coverage & Trentino-Alto Adige/S\"{u}dtirol, Italy (2026) \\
+License & Open Data (OSM data under ODbL) \\
+Format & RDF/Turtle (.ttl) \\
+Methodology & iTelos (KnowDive Group, University of Trento) \\
+\hline
+\end{tabular}
+\caption{Project metadata.}
+\end{table}
+
+\subsection{Language Resources Metadata}
+
+\begin{table}[h!]
+\centering
+\small
+\begin{tabular}{|l|p{5cm}|l|l|}
+\hline
+\textbf{Resource} & \textbf{Description} & \textbf{Format} & \textbf{Location} \\
+\hline
+Language Terms & Finalized etype, object and data property terms & Markdown & Phase 2/ \\
+LTLO Alignment & Mapping of terms to UKC/WordNet hierarchy & Markdown & Phase 2/ \\
+LTLO Enrichment & New terms added to the LTLO & Markdown & Phase 2/ \\
+\hline
+\end{tabular}
+\caption{Language resources metadata.}
+\end{table}
+
+\subsection{Knowledge Resources Metadata}
+
+\begin{table}[h!]
+\centering
+\small
+\begin{tabular}{|l|p{5cm}|l|l|}
+\hline
+\textbf{Resource} & \textbf{Description} & \textbf{Format} & \textbf{Location} \\
+\hline
+Teleology (Ontology) & OWL ontology with 10 classes, 7 object properties, 19 data properties & Turtle (.ttl) & Phase 3/ontology/ \\
+KTLO Alignment & Mapping to Schema.org / W3C Geo & Markdown & Phase 3/ \\
+ER Model & Entity-Relationship model & Markdown & Phase 1/ \\
+\hline
+\end{tabular}
+\caption{Knowledge resources metadata.}
+\end{table}
+
+\noindent The ontology is published under the namespace \texttt{http://skiresorts-trentino.2026.kg/ontology\#} with DCAT-compatible metadata and Creative Commons BY 4.0 license.
+
+\subsection{Data Resources Metadata}
+
+\begin{table}[h!]
+\centering
+\small
+\begin{tabular}{|l|l|r|l|l|}
+\hline
+\textbf{Resource} & \textbf{Source} & \textbf{Records} & \textbf{Class.} & \textbf{Location} \\
+\hline
+Ski Resorts (raw/clean) & OSM & 295/222 & Common & Phase 1--2/data/ \\
+Ski Slopes & OSM & 2,792 & Contextual & Phase 1--2/data/ \\
+Ski Lifts & OSM & 5,677 & Contextual & Phase 1--2/data/ \\
+Hotels & OSM & 3,393 & Core & Phase 1--2/data/ \\
+Restaurants & OSM & 3,896 & Core & Phase 1--2/data/ \\
+Rental Shops & OSM & 16 & Core & Phase 1--2/data/ \\
+\hline
+\end{tabular}
+\caption{Data resources metadata.}
+\end{table}
+
+\subsection{KG Metadata}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|p{8cm}|}
+\hline
+\textbf{Field} & \textbf{Value} \\
+\hline
+Title & Ski Resorts in Trentino Knowledge Graph \\
+Format & RDF/Turtle (.ttl) \\
+Size & $\sim$151,744 triples \\
+Entity types & 10 defined (7 populated) \\
+Total entities & $\sim$31,992 \\
+Namespace & http://skiresorts-trentino.2026.kg/ \\
+Ontology NS & http://skiresorts-trentino.2026.kg/ontology\# \\
+Resource NS & http://skiresorts-trentino.2026.kg/resource/ \\
+Primary source & OpenStreetMap (ODbL license) \\
+Schema refs & Schema.org, W3C Geo, OSM Piste/Aerialway \\
+Location & Phase 4/rdf/ski\_resorts\_trentino\_kg.ttl \\
+\hline
+\end{tabular}
+\caption{KG metadata.}
+\end{table}
+
+\noindent The KG and all associated resources are distributed via the GitHub repository and as standalone RDF files.

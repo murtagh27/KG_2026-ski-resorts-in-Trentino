@@ -1,0 +1,296 @@
+id,osmId,osm_type,name,website,phone,operator,municipality,latitude,longitude
+1,244899868,node,Skigebiet Ratschings Jaufen,,,,,46.8529488,11.3034909
+2,320974325,node,Kronplatz - Plan de Corones,,,,,46.7723826,11.9412494
+3,325117827,node,Obereggen,,,,,46.3836787,11.5265894
+4,333786223,node,,,,,,46.3014682,10.8083033
+5,595581141,node,Millegrobbe,,,,,45.935989,11.3201384
+6,2755977739,node,Sport Schenk,www.sportschenk.it,+39 0471 795238,Ruth Schenk,Sëlva - Wolkenstein in Gröden - Selva di Val Gardena,46.5536966,11.7618774
+7,3090948288,node,Lavazè,,,,,46.3548563,11.4924717
+8,5316633023,node,albl,,+39 333 1704059,,,46.5138375,10.9338183
+9,8078067992,node,Noleggio Sci Peio dai Maestri,https://www.noleggioscipeio.com/,+39 0463 753040,,Peio Fonti,46.3561707,10.6627901
+10,8897189932,node,Centro Sci di Fondo Chinaec,,,,Ledro,45.9287059,10.7369847
+11,11528521587,node,Alta Badia Shop & Rental,https://altabadiasport.it,+390471847616,,,46.5837277,11.9034247
+12,12592471812,node,Centro Fondo Passo Coe,https://www.supernordicskipass.it/#/snsCenter/265/Centro%20Fondo%20Passo%20Coe,+39 0464 720538,,Passo coe Folgaria,45.8762511,11.2189778
+13,12741878683,node,Sport Thöni,https://www.sportthoeni.com,+39 0473 613080,,,46.5199054,10.5962964
+14,13045817493,node,Centro Fondo Millegrobbe,https://www.malgamillegrobbe.it/it/attivita-inverno/centro-fondo,,,Luserna,45.9364323,11.3201161
+15,13152267587,node,Sci Club Valcampelle ASD,https://www.sciclubvalcampelle.it/,,,Scurelle,46.0639446,11.5068476
+16,13152345235,node,Ski Revolution,https://skirevolution.it,+393338068887,,,46.1155948,11.6605405
+17,13410766401,node,Centro fondo Val Campelle,,,,Scurelle,46.1473762,11.5173059
+18,13542749901,node,Centro di fondo Vallunga,https://www.suedtirol-dolomites.com/en/dolomites/winter/val-gardena/cross-country-skiing/cross-country-centre.html,,,,46.5616942,11.7717249
+19,22789203,way,16 Saxner II,,,,,46.8457211,11.2891164
+20,22789291,way,Saxner I,,,,,46.8454402,11.2897366
+21,22789301,way,Wasserfalleralm - Malga Cascata,,,,,46.8434605,11.2983945
+22,22789335,way,,,,,,46.8478792,11.3041747
+23,24987937,way,Avez del Prinzep,,,,,45.953232,11.3097602
+24,30804946,way,22 Frommer,,,,,46.4415328,11.5976153
+25,30804947,way,24 Laurin I,,,,,46.4389803,11.5763565
+26,34167339,way,,,,,,46.392399,11.2076764
+27,42689120,way,Orso Bruno,,,,,46.2804038,10.823509
+28,46773129,way,,,,,,46.9305951,12.037846
+29,50844773,way,Busa del Vigo,,,,,46.2768585,10.8318141
+30,50845485,way,Malghette,,,,,46.2691002,10.8307154
+31,51553591,way,Laner,,,,,46.3697868,11.532236
+32,51553597,way,Ochsenweide,,,,,46.3789682,11.5284283
+33,51558959,way,Maierl,,,,,46.3650609,11.5393854
+34,51646819,way,Absam,,,,,46.3627977,11.5395181
+35,52390077,way,Verbindung Wasserfalleralm-Enzian,,,,,46.8461298,11.295605
+36,52390078,way,,,,,,46.8604388,11.3021681
+37,52624809,way,Saxner I,,,,,46.8449605,11.2902921
+38,52624810,way,Saxner II,,,,,46.8447194,11.2869404
+39,52624813,way,Waldabfahrt,,,,,46.8553708,11.2985403
+40,88601299,way,Muro Bucaneve,,,,,45.785509,10.922316
+41,88601300,way,Cronel,,,,,45.7813728,10.9230579
+42,88601304,way,Campeggio,,,,,45.7864037,10.9238156
+43,88601311,way,Intermedia,,,,,45.7807117,10.9237772
+44,88601320,way,Vallette,,,,,45.7803981,10.9244695
+45,90938852,way,Cacciatori 2,,,,,46.1479943,11.018174
+46,90938854,way,Olimpionica 3,,,,,46.1457633,11.023548
+47,90938855,way,Olimpionica 3,,,,,46.144708,11.0301577
+48,90938856,way,Rindole,,,,,46.1610017,11.0080731
+49,90938858,way,Olimpionica 2 (H),,,,,46.151037,11.0198779
+50,90938859,way,Olimpionica 1,,,,,46.1545874,11.010747
+51,90938860,way,Cacciatori 1,,,,,46.1569668,11.0100885
+52,90938861,way,Rindole,,,,,46.159724,11.0084451
+53,90940506,way,Sant'Antonio 1,,,,,46.1402497,11.015689
+54,91036485,way,Gaggia,,,,,46.1596379,11.0038162
+55,91036487,way,Laghet,,,,,46.1613065,11.003553
+56,91036790,way,Gaggia,,,,,46.1520012,10.9988722
+57,91095431,way,Dosso Larici,,,,,46.1564185,11.0436162
+58,91095433,way,Traliccio,,,,,46.146875,11.0291172
+59,91095434,way,Tre-Tre (selletta),,,,,46.149059,11.0307327
+60,91095435,way,La Rocca,,,,,46.1693334,11.050902
+61,91095437,way,Panoramica,,,,,46.1437995,11.0379272
+62,91095442,way,La Rocca,,,,,46.1657541,11.0492799
+63,91095443,way,Nuvola Rossa,,,,,46.1575128,11.0478154
+64,91097045,way,Salare,,,,,46.1416502,11.0196943
+65,91097052,way,Skiweg conca d'argento,,,,,46.1408724,11.0222153
+66,96579228,way,Ust,,,,,45.9562755,11.2902495
+67,96579231,way,Bertoldi,,,,,45.9509067,11.2725415
+68,96579232,way,Le Stock,,,,,45.9511812,11.270516
+69,96579233,way,Tablat,,,,,45.9498799,11.2702033
+70,96579235,way,Sonneck,,,,,45.9514269,11.2780429
+71,96693485,way,Skiweg Nannufaro,,,,,45.9556381,11.2996934
+72,99685095,way,Diretta Bucaneve,,,,,45.7835527,10.9176792
+73,100064158,way,12 Enzian II,,,,,46.8446928,11.3003442
+74,101713915,way,28,,,,,46.8177747,11.6621741
+75,101713918,way,Family Slope,,,,,46.8285857,11.6656344
+76,101713924,way,26,,,,,46.8523673,11.68303
+77,101713926,way,27,,,,,46.812074,11.6575745
+78,101713927,way,Gitsch,,,,,46.855726,11.68701
+79,101713947,way,24,,,,,46.8446103,11.6819073
+80,101713957,way,,,,,,46.8522581,11.686506
+81,101713959,way,Nesselwiese,,,,,46.8417066,11.677594
+82,101787475,way,Jochtal Talabfahrt,,,,,46.847071,11.6109176
+83,101787477,way,Hinterberg,,,,,46.8409125,11.5999593
+84,101787479,way,Schwandt,,,,,46.8454064,11.6381515
+85,101787481,way,Tasa,,,,,46.8408589,11.6303129
+86,101787484,way,Sonnenhang,,,,,46.8402081,11.5982387
+87,101787485,way,Seepiste,,,,,46.839957,11.5989851
+88,101787486,way,Mitterling,,,,,46.8456978,11.602768
+89,101787951,way,,,,,,46.8338047,11.780129
+90,103118871,way,,,,,,46.1478868,11.0227683
+91,103118890,way,Sant'Antonio 2,,,,,46.1390493,11.0188164
+92,103118896,way,Panoramica,,,,,46.1458885,11.0375317
+93,103118901,way,Paganella 2,,,,,46.1458845,11.0030932
+94,103308853,way,Vezzena,,,,,45.9553825,11.3234968
+95,107041750,way,Ometto 2,,,,,46.2787005,10.8196645
+96,107041759,way,Panciana,,,,,46.2944078,10.816034
+97,107041760,way,Nera Marilleva,,,,,46.2953596,10.8121299
+98,141111747,way,,,,,,46.6750182,11.2501974
+99,142074618,way,Schilling,,,,,46.8481204,11.6289446
+100,142778385,way,,,,,,46.7024122,11.4537484
+101,142778386,way,Plankenhorn,,,,,46.6911532,11.4305316
+102,142778387,way,Schoneben,,,,,46.6923419,11.431767
+103,142778388,way,,,,,,46.6956443,11.4393199
+104,142778390,way,Joch,,,,,46.6998479,11.4492312
+105,142778392,way,,,,,,46.6897127,11.4235053
+106,142778394,way,,,,,,46.689538,11.420561
+107,145010643,way,Variante Oberholz,,,,,46.3740543,11.5364224
+108,147141120,way,Prà Alpesina,,,,,45.7593473,10.8717535
+109,147218267,way,Morgenrast,,,,,46.702322,11.4469257
+110,147218268,way,Pendio ripido,,,,,46.70249,11.4542901
+111,147218269,way,Pfnatsch,,,,,46.6997235,11.4469614
+112,147218270,way,Pichlberg,,,,,46.6975453,11.4483051
+113,147218271,way,,,,,,46.7013344,11.4445092
+114,147218272,way,,,,,,46.6974411,11.441114
+115,152034006,way,Breiteben,,,,,46.8479029,11.6854772
+116,152034009,way,Steinermandl,,,,,46.836399,11.5964987
+117,152034010,way,Restaurant,,,,,46.8437488,11.5991498
+118,152034012,way,Segerwiese,,,,,46.8400486,11.6852489
+119,152034015,way,Wastl Huber,,,,,46.8388291,11.6834053
+120,154714041,way,Falzeben 2,,,,,46.6764679,11.2521732
+121,154950322,way,Kesselberg 1 - Costa Valcanova 1,,,,,46.6884762,11.2929513
+122,154950324,way,Kesselberg 2 - Costa Valcanova 2,,,,,46.688833,11.29254
+123,154950330,way,Mittager 1 - Catino 1,,,,,46.6818834,11.2920111
+124,154950333,way,Mittager 2 - Catino 2,,,,,46.684075,11.2848432
+125,154950342,way,Oswald 1 - Osvaldo 1,,,,,46.6884869,11.2757074
+126,154950351,way,Oswald 2 - - Osvaldo 2,,,,,46.688586,11.2769137
+127,154950354,way,,,,,,46.6838583,11.2654635
+128,154950371,way,,,,,,46.6786479,11.2566689
+129,154952403,way,,,,,,46.6858411,11.2748155
+130,155220510,way,,,,,,46.6837735,11.2787144
+131,155220974,way,Oswald 2,,,,,46.6862219,11.279936
+132,179150279,way,Prà delle Nasse DX,,,,,46.264173,11.7975223
+133,179202070,way,Verbindung Wasserfalleralm-Enzian - Collegamento Malga Cascata-Enzian,,,,,46.8474791,11.2995759
+134,179202073,way,Blosegg,,,,,46.8560969,11.3040255
+135,180184885,way,3,,,,,46.5662724,10.5051593
+136,180184886,way,5,,,,,46.5710854,10.4994364
+137,180184887,way,7,,,,,46.569245,10.5038574
+138,181514508,way,Rivetta,,,,,45.957108,11.3143355
+139,184435029,way,Cordela,,,,,46.0421598,11.0632089
+140,184435031,way,Palon,,,,,46.0273199,11.0576909
+141,184435032,way,Pinot,,,,,46.0480692,11.0684206
+142,184435035,way,Gran Pista,,,,,46.034766,11.0460044
+143,184435036,way,,,,,,46.0275632,11.0561864
+144,184435037,way,3-Tre Vaneze,,,,,46.048283,11.0697649
+145,184641972,way,3-Tre Panoramica,,,,,46.0397512,11.0673822
+146,184641973,way,3-Tre Panoramica,,,,,46.0437316,11.0695524
+147,184818579,way,Lavaman,,,,,46.0419654,11.0674426
+148,184818581,way,Palon Direttissima,,,,,46.027924,11.0573092
+149,184818585,way,Boardercross Monte Bondone,,,,,46.042086,11.0685958
+150,184818586,way,Topolino,,,,,46.0431238,11.0693398
+151,184819120,way,Canalon Variante Gare,,,,,46.0347281,11.0582638
+152,197815806,way,,,,,,46.9654804,11.3392498
+153,198077834,way,,,,,,46.9642246,11.3435002
+154,198077836,way,,,,,,46.9642831,11.3443748
+155,198372895,way,Skiweg lo Scoiattolo,,,,,46.1436665,11.0146322
+156,198372896,way,Nuvola Rossa,,,,,46.1539284,11.0445606
+157,202064090,way,,,,,,46.6971635,11.4390886
+158,203774864,way,Olimpionica 2,,,,,46.1465026,11.0227397
+159,206375991,way,,,,,,46.3979027,11.2082918
+160,206375992,way,,,,,,46.403138,11.2075661
+161,215041787,way,Nordisches Skizentrum Schlinig - Centro sci nordico Slingia,http://langlaufen-vinschgau.com/nordisches-skizentrum-schlinig/,,,,46.7063761,10.468819
+162,227342281,way,Campo Scuola Rolly Marchi,,,,,46.1610903,11.0507424
+163,227347793,way,Snowpark Dosson,,,,,46.1520115,11.0178132
+164,243640148,way,Skiweg Fossadei - Cioca 2,,,,,46.1728349,10.7983049
+165,266616285,way,Loipe Panider Sattel - Pista Passo Pinei,,,,,46.5782312,11.6185469
+166,268865053,way,Dosso Larici,,,,,46.1478836,11.0402459
+167,278003886,way,Le Cogole,,,,,45.9569426,11.2884577
+168,278118272,way,Baby,,,,,45.9591178,11.3140117
+169,278118274,way,Skiweg Laghetto,,,,,45.956644,11.2956427
+170,278118276,way,Lait primi passi 1-2,,,,,45.9596761,11.3146471
+171,278118280,way,Skiweg Vivaio,,,,,45.9561101,11.2977545
+172,278118281,way,Skiweg Vivaio,,,,,45.9570935,11.2942443
+173,305517450,way,,,,,,46.4038783,11.4417554
+174,307890418,way,Sghirlat,,,,,46.2845983,10.8228427
+175,320339196,way,Doss della Pesa / Ometto,,,,,46.2817307,10.8209325
+176,320340256,way,junction,,,,,46.2797975,10.8151461
+177,320340816,way,(24) Skiweg Panciana,,,,,46.2885335,10.8165165
+178,320359740,way,Pancianina,,,,,46.2875858,10.8210887
+179,320361724,way,,,,,,46.2814309,10.8224472
+180,320372929,way,Biancaneve,,,,,46.3002025,10.8089141
+181,320373290,way,,,,,,46.3003501,10.8103061
+182,320388413,way,,,,,,46.2751803,10.8270918
+183,320767994,way,,,,,,46.2640368,10.8306572
+184,320767995,way,,,,,,46.2640561,10.8303696
+185,320770150,way,,,,,,46.2852846,10.837504
+186,320770151,way,,,,,,46.2854004,10.8374322
+187,320770620,way,junction,,,,,46.2887316,10.8471936
+188,324486208,way,,,,,,46.2797714,10.832202
+189,327799776,way,Verbindung Wasserfalleralm-Enzian,,,,,46.8481598,11.3031932
+190,329615097,way,22 Frommer,,,,,46.4427752,11.5921353
+191,334817747,way,Carezza,https://carezza.it/,,,,46.420563,11.5803171
+192,335031400,way,Vigo di Fassa - Ciampedie,https://www.fassa.com/de/lifte-und-pisten/skigebiete/catinaccio,,,,46.4322016,11.6701131
+193,336062441,way,Brentonico,https://www.brentonicoski.com,,,,45.7802679,10.9318564
+194,336220681,way,Prà Alpesina,https://www.funiviedelbaldo.it,,,,45.7655272,10.8697603
+195,336229660,way,Folgaria,https://www.alpecimbra.it/de/skigebiet-alpe-cimbra/lavarone-folgaria-skigebiet/46-0.html,,,,45.8960677,11.2109816
+196,336234488,way,Monte Bondone,https://www.skimontebondone.it/,,,,46.0390593,11.0538542
+197,336236243,way,Paganella,https://www.paganella.net/,,,,46.1574157,11.0248602
+198,394926962,way,24 Laurin I,,,,,46.4333572,11.547776
+199,394984147,way,24 Laurin I,,,,,46.4354462,11.5526376
+200,462540464,way,,,,,,46.2755086,10.827709
+201,474258174,way,Kronplatz - Plan de Corones,https://www.kronplatz.com/,,,,46.7403468,11.9521528
+202,540659516,way,Seiser Alm - Mont de Sëuc - Alpe di Siusi,https://www.seiseralm.it/,,,,46.54127,11.6269029
+203,540697973,way,Gitschberg Jochtal,https://www.gitschberg-jochtal.com,,,,46.8346933,11.6410017
+204,540700967,way,Brixen Plose - Plose di Bressanone,https://www.plose.org/,,,,46.6881476,11.7142161
+205,540707095,way,Ski Center Lavarone,https://www.alpecimbra.it/de/skigebiet-alpe-cimbra/lavarone-folgaria-skigebiet/46-0.html,,,,45.9541555,11.2947499
+206,540714397,way,Campiglio Dolomiti di Brenta,https://www.funiviecampiglio.it/,,,,46.2368902,10.8495997
+207,540714398,way,Folgarida-Marilleva,https://www.visittrentino.info/en/trentino/ski-areas/alpine-skiing/folgarida-marilleva-skiarea-campiglio-dolomiti-di-brenta-val-di-sole-val-rendena_md_2211,,,,46.2917733,10.8374977
+208,540714830,way,Pinzolo,https://www.pinzolo.it/,,,,46.1754198,10.791353
+209,542210741,way,Klausberg - Monte Chiusetta,,,,,46.9785227,11.9808023
+210,542210742,way,Rein in Taufers - Riva di Tures,https://www.ahrntal.com/de/winterurlaub-im-ahrntal/skigebiete/skigebiet-rein-in-taufers.html,,,,46.9509944,12.0622801
+211,542210743,way,Speikboden,https://www.skiworldahrntal.it/,,,,46.9344366,11.8991929
+212,542223677,way,Latemar Dolomites,https://www.latemar.it/,,,,46.3554644,11.5613374
+213,542227211,way,Ski Area San Pellegrino - Falcade,https://www.skiareasanpellegrino.it/,,,,46.3672341,11.8190574
+214,542227215,way,Ski Area Alpe Lusia,http://www.skiareaalpelusia.it/,,,,46.3402097,11.7018127
+215,542230189,way,Passo Rolle,https://www.sanmartino.com,,,,46.295935,11.7882335
+216,542230191,way,San Martino di Castrozza,https://www.sanmartino.com,,,,46.254003,11.7924392
+217,542233365,way,Passo Stelvio,https://passostelvio.eu/,,S.I.F.A.S. - Società Impianti Funiviari Allo Stelvio S.p.A.,,46.5120357,10.4629111
+218,542233865,way,Pejo 3000,https://www.skipejo.it/,,,,46.37207,10.6509876
+219,542234274,way,Trafoi,https://www.ortlerskiarena.com/de/skigebiete/vinschgau/trafoi-am-ortler.html,,,,46.5637647,10.5034446
+220,542234714,way,Sulden am Ortler - Solda al Ortles,https://www.seilbahnensulden.it/,,,,46.5073974,10.5989742
+221,542235880,way,Ponte di Legno - Passo Tonale,https://www.pontedilegnotonale.com/,,,,46.2559682,10.5310392
+222,542238137,way,Alpe Cermis,https://www.alpecermis.it/,,,,46.2602172,11.4846396
+223,542239467,way,Val Senales-Schnalstal,https://www.schnalstal.com/,,,,46.7718163,10.7867288
+224,560769473,way,Pista 1 (SX),,,,,46.0287772,10.7322897
+225,560769474,way,Pista 2 (DX),,,,,46.0278874,10.733372
+226,567920635,way,1,,,,,46.8463769,11.6307535
+227,601130440,way,Kaunertaler Gletscher,https://www.kaunertaler-gletscher.at,,,,46.8680603,10.7063634
+228,642554159,way,21,,,,,46.8475427,11.6791525
+229,642554161,way,21,,,,,46.8523635,11.6782963
+230,653944640,way,Schöneben - Belpiano,https://www.schoeneben.it,,,,46.794364,10.503946
+231,660266697,way,Lupetto,,,,,46.1443338,11.0061118
+232,665201245,way,Rosskopf,https://www.rosskopf.com/,,,,46.9071973,11.4077514
+233,674403594,way,Jöchl,,,,,46.8457605,11.6018099
+234,768717600,way,30 Tschein,,,,,46.4378195,11.5986304
+235,768720619,way,22 Frommer,,,,,46.4429604,11.592682
+236,770721873,way,24 Laurin I,,,,,46.4373397,11.559359
+237,771293224,way,Diretta Prà Alpesina,,,,,45.7611833,10.8738532
+238,773875906,way,30 Tschein,,,,,46.4348681,11.5976682
+239,849532245,way,Gaisraste,,,,,46.8399602,11.6776487
+240,874580167,way,,,,,,46.8409739,11.5993905
+241,874580168,way,,,,,,46.8439208,11.6002816
+242,874580169,way,,,,,,46.8439016,11.600609
+243,874580170,way,,,,,,46.8436852,11.5977444
+244,874580171,way,Panorama,,,,,46.8359446,11.595272
+245,874580172,way,Gimmy Fun Ride,,,,,46.8395675,11.5936808
+246,898105556,way,Verbindung Wasserfalleralm-Enzian - Collegamento Malga Cascata-Enzian,,,,,46.8464299,11.2962842
+247,907693541,way,Sghirlat,,,,,46.2825745,10.8245125
+248,909762715,way,Terenten - Terento,https://skilift-terenten.com/,,,,46.8339894,11.7806107
+249,909762716,way,Antermoia,,,,,46.6901544,11.8457347
+250,1021989352,way,Le Cogole,,,,,45.9573546,11.292871
+251,1030872814,way,Jochgrimm,https://jochgrimm.com,,,,46.3452135,11.4466223
+252,1033549864,way,Petersberg - Monte San Pietro,,,,,46.3932159,11.3882263
+253,1033549865,way,Deutschnofen - Nova Ponente,,,,,46.4036642,11.442486
+254,1033549866,way,Passo Lavazè,https://www.visitfiemme.it/en/more-info/fiemme/all-fiemme/Snowpark-Malga-Varena_isd_91340,,,,46.3547727,11.4857393
+255,1103514108,way,,,,,,46.840206,11.6019879
+256,1134522601,way,,,,,,46.1482115,11.0370301
+257,1134522602,way,,,,,,46.1486072,11.0363758
+258,1134522603,way,,,,,,46.148447,11.0367624
+259,1134821369,way,Prack,,,,,45.9536161,11.2825081
+260,1155872102,way,,,,,,46.9659269,11.3380713
+261,1155872103,way,,,,,,46.9662253,11.337872
+262,1227175926,way,Watles - Vatles,,,,,46.7115512,10.4968326
+263,1229470909,way,,,,,,46.0303105,10.7334631
+264,1265241836,way,,,,,,46.8472639,11.2940863
+265,1265512171,way,Lavaman Variante,,,,,46.0412068,11.0688294
+266,1265512172,way,Canalon,,,,,46.0330527,11.0576442
+267,1265514688,way,Free Ride Palon Direttissima,,,,,46.0284765,11.057968
+268,1265514689,way,Canalon - Gran Pista,,,,,46.0298219,11.0546177
+269,1265514690,way,Free Ride Gran Pista,,,,,46.0283289,11.0542384
+270,1320343678,way,Ratschings-Jaufen,https://www.ratschings-jaufen.it,,,,46.852187,11.3049101
+271,1375566444,way,Reinswald,,,,,46.6961681,11.4386719
+272,1375567505,way,Meran 2000,https://www.meran2000.com,,,,46.6796806,11.268108
+273,1429929063,way,Pfelders Ski Resort,,,,,46.788493,11.0919823
+274,1467038340,way,Schwemmalm,https://www.merano-suedtirol.it/it/schwemmalm.html,+39 0473 795390,,,46.53696,10.9298507
+275,1476499396,way,Lavaman variante gare,,,,,46.0415148,11.0670503
+276,1482455856,way,Vesan Primi Passi,,,,,45.9551414,11.3294963
+277,6989110,relation,Val di Fassa,https://www.fassa.com/,,,,46.4608631,11.7360054
+278,6990942,relation,Cortina d'Ampezzo,http://www.cortinadolomiti.eu/,,,,46.5274934,12.194493
+279,7736385,relation,Alpe Cimbra,https://www.alpecimbra.it/de/skigebiet-alpe-cimbra/lavarone-folgaria-skigebiet/46-0.html,,,,45.9169809,11.2438735
+280,7751878,relation,Drei Zinnen - Tre Cime,https://www.drei-zinnen.info,,,,46.6666429,12.319217
+281,7751891,relation,Klausberg Skiarena,https://www.kronplatz.com/de/klausberg,,,,46.9544897,11.9630509
+282,7752047,relation,San Martino di Castrozza - Passo Rolle,https://www.sanmartino.com/,,,,46.2689268,11.7924392
+283,10727394,relation,Sellaronda,,,,,46.5359968,11.8257514
+284,10732925,relation,Arabba,http://www.arabba.it,,,,46.4914216,11.8559908
+285,10732928,relation,Val Gardena,https://www.valgardena.it/,,,,46.5534368,11.7393946
+286,12342024,relation,Alta Badia,https://www.altabadia.org/,,,,46.5649739,11.8921295
+287,12350096,relation,Gsieser Tal,,,,,46.808349,12.1757009
+288,13798380,relation,Lagazuoi - 5 Torri,https://cortinadelicious.it/,,,,46.523667,12.019334
+289,13798381,relation,Marmolada,https://www.visitmarmolada.com/,,,,46.4431296,11.8872159
+290,13798382,relation,Dolomiti Superski,https://www.dolomitisuperski.com,,,,46.5463282,11.9321166
+291,13830109,relation,Belvedere - Col Rodella - Passo Pordoi,https://www.valdifassalift.it/,,,,46.4820427,11.7838504
+292,13830110,relation,Buffaure - Ciampac,,,,,46.4365626,11.7399994
+293,15532830,relation,,,,,,46.6927763,12.3699617
+294,15532831,relation,Val Comelico - Padola,https://www.valcomelicodolomiti.it/en/ski-area-val-comelico.htm,,,,46.6296804,12.4443055
+295,15830969,relation,Pradis_ci,http://www.winterparkpradis-ci.it/,,,,46.1545677,11.2898289

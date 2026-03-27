@@ -1,0 +1,90 @@
+\section{Entity Definition}
+
+This section describes the Entity Definition phase, where the knowledge layer (OWL ontology from Phase 3) and data layer (cleaned datasets from Phase 2) are merged to produce the final Knowledge Graph in RDF format.
+
+\subsection{Entity Identification}
+
+For each dataset, entities were identified using unique identifiers:
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|r|}
+\hline
+\textbf{Dataset} & \textbf{Entity Type} & \textbf{ID Field} & \textbf{Count} \\
+\hline
+Ski Resorts & ski:SkiResort & resortId & 222 \\
+Ski Slopes & ski:SkiSlope & slopeId & 2,792 \\
+Ski Lifts & ski:SkiLift & liftId & 5,677 \\
+Hotels & ski:Hotel & hotelId & 3,393 \\
+Restaurants & ski:Restaurant & restaurantId & 3,896 \\
+Rental Shops & ski:RentalShop & rentalId & 16 \\
+Coordinates & ski:Coordinate & per-entity & $\sim$15,996 \\
+\hline
+\textbf{Total} & & & \textbf{$\sim$31,992} \\
+\hline
+\end{tabular}
+\caption{Entity identification summary.}
+\end{table}
+
+\subsection{Data Mapping -- Producer Process}
+
+Each dataset was mapped to the teleology using a Python script (\texttt{generate\_rdf.py}) that serves as the mapping tool. The mapping process:
+\begin{enumerate}
+    \item \textbf{Individual dataset mapping}: Each cleaned JSON dataset is read and mapped to the corresponding OWL class and properties.
+    \item \textbf{URI generation}: Entities are assigned URIs following the pattern \texttt{res:\{type\}\_\{id\}} (e.g., \texttt{res:resort\_1}, \texttt{res:slope\_42}).
+    \item \textbf{Coordinate entities}: Created as separate entities (\texttt{res:coord\_\{type\}\_\{id\}}) linked via \texttt{ski:hasCoordinates}.
+    \item \textbf{Cross-dataset linking}: Slopes and lifts linked to nearest resort via \texttt{ski:nearResort} (within 15km threshold using Haversine distance). Hotels linked within 20km, restaurants within 15km.
+\end{enumerate}
+
+\subsection{Data Mapping -- Consumer Process (Cross-Dataset Composition)}
+
+The consumer process merges all individual RDF files into a unified Knowledge Graph (\texttt{ski\_resorts\_trentino\_kg.ttl}):
+\begin{itemize}
+    \item \textbf{Resort $\leftrightarrow$ Slopes}: Associated via spatial proximity (Haversine distance $<$ 15km)
+    \item \textbf{Resort $\leftrightarrow$ Lifts}: Associated via spatial proximity ($<$ 15km)
+    \item \textbf{Resort $\leftrightarrow$ Hotels/Restaurants/Shops}: Linked via \texttt{ski:nearResort} when within proximity threshold
+    \item \textbf{Municipality matching}: All entities with \texttt{addr:city} mapped to \texttt{ski:Municipality} entities
+\end{itemize}
+
+\subsection{Phase Outcomes}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|r|}
+\hline
+\textbf{Metric} & \textbf{Value} \\
+\hline
+Total entities & $\sim$31,992 \\
+Total RDF triples & $\sim$151,744 \\
+Individual TTL files & 6 \\
+Merged KG file & 1 \\
+Etypes populated & 7 \\
+Etypes not populated & 3 (SkiPass, SkiSchool, Municipality) \\
+\hline
+\end{tabular}
+\caption{Entity Definition outcomes.}
+\end{table}
+
+\subsection{Evaluation -- Entity Definition}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|r|r|}
+\hline
+\textbf{Entity Type} & \textbf{Initially} & \textbf{Finally Produced} \\
+\hline
+SkiResort & 295 (raw) & 222 (cleaned) \\
+SkiSlope & 2,792 & 2,792 \\
+SkiLift & 5,677 & 5,677 \\
+Hotel & 3,393 & 3,393 \\
+Restaurant & 3,896 & 3,896 \\
+RentalShop & 16 & 16 \\
+SkiPass & 0 & 0 (no data) \\
+SkiSchool & 0 & 0 (no data) \\
+Municipality & 0 & 0 (referenced as URIs) \\
+\hline
+\end{tabular}
+\caption{Entity Definition evaluation.}
+\end{table}
+
+\noindent \textbf{Challenges}: SkiPass and SkiSchool entities exist in the ontology but could not be populated due to lack of structured data from OSM. Municipality entities are referenced as string values but not instantiated as dedicated entities. Spatial proximity is an approximation --- some entities may be incorrectly associated with resorts in areas where multiple resorts are close together. No changes were required to previous phases.

@@ -1,0 +1,2082 @@
+@prefix ski: <http://skiresorts-trentino.2026.kg/ontology#> .
+@prefix res: <http://skiresorts-trentino.2026.kg/resource/> .
+@prefix schema: <http://schema.org/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+res:resort_1 a ski:SkiResort ;
+    ski:name "Skigebiet Ratschings Jaufen" ;
+    ski:osmId "244899868" ;
+    ski:hasCoordinates res:coord_resort_1 .
+
+res:coord_resort_1 a ski:Coordinate ;
+    ski:latitude "46.8529488"^^xsd:float ;
+    ski:longitude "11.3034909"^^xsd:float .
+
+res:resort_2 a ski:SkiResort ;
+    ski:name "Kronplatz - Plan de Corones" ;
+    ski:osmId "320974325" ;
+    ski:hasCoordinates res:coord_resort_2 .
+
+res:coord_resort_2 a ski:Coordinate ;
+    ski:latitude "46.7723826"^^xsd:float ;
+    ski:longitude "11.9412494"^^xsd:float .
+
+res:resort_3 a ski:SkiResort ;
+    ski:name "Obereggen" ;
+    ski:osmId "325117827" ;
+    ski:hasCoordinates res:coord_resort_3 .
+
+res:coord_resort_3 a ski:Coordinate ;
+    ski:latitude "46.3836787"^^xsd:float ;
+    ski:longitude "11.5265894"^^xsd:float .
+
+res:resort_4 a ski:SkiResort ;
+    ski:name "Millegrobbe" ;
+    ski:osmId "595581141" ;
+    ski:hasCoordinates res:coord_resort_4 .
+
+res:coord_resort_4 a ski:Coordinate ;
+    ski:latitude "45.935989"^^xsd:float ;
+    ski:longitude "11.3201384"^^xsd:float .
+
+res:resort_5 a ski:SkiResort ;
+    ski:name "Sport Schenk" ;
+    ski:osmId "2755977739" ;
+    ski:phone "+39 0471 795238" ;
+    ski:website <www.sportschenk.it> ;
+    ski:locatedIn res:municipality_S_lva_-_Wolkenstein_in_Gr_den_-_Selva_di_Val_Gardena ;
+    ski:hasCoordinates res:coord_resort_5 .
+
+res:coord_resort_5 a ski:Coordinate ;
+    ski:latitude "46.5536966"^^xsd:float ;
+    ski:longitude "11.7618774"^^xsd:float .
+
+res:resort_6 a ski:SkiResort ;
+    ski:name "Lavazè" ;
+    ski:osmId "3090948288" ;
+    ski:hasCoordinates res:coord_resort_6 .
+
+res:coord_resort_6 a ski:Coordinate ;
+    ski:latitude "46.3548563"^^xsd:float ;
+    ski:longitude "11.4924717"^^xsd:float .
+
+res:resort_7 a ski:SkiResort ;
+    ski:name "albl" ;
+    ski:osmId "5316633023" ;
+    ski:phone "+39 333 1704059" ;
+    ski:hasCoordinates res:coord_resort_7 .
+
+res:coord_resort_7 a ski:Coordinate ;
+    ski:latitude "46.5138375"^^xsd:float ;
+    ski:longitude "10.9338183"^^xsd:float .
+
+res:resort_8 a ski:SkiResort ;
+    ski:name "Noleggio Sci Peio dai Maestri" ;
+    ski:osmId "8078067992" ;
+    ski:phone "+39 0463 753040" ;
+    ski:website <https://www.noleggioscipeio.com/> ;
+    ski:locatedIn res:municipality_Peio_Fonti ;
+    ski:hasCoordinates res:coord_resort_8 .
+
+res:coord_resort_8 a ski:Coordinate ;
+    ski:latitude "46.3561707"^^xsd:float ;
+    ski:longitude "10.6627901"^^xsd:float .
+
+res:resort_9 a ski:SkiResort ;
+    ski:name "Centro Sci di Fondo Chinaec" ;
+    ski:osmId "8897189932" ;
+    ski:locatedIn res:municipality_Ledro ;
+    ski:hasCoordinates res:coord_resort_9 .
+
+res:coord_resort_9 a ski:Coordinate ;
+    ski:latitude "45.9287059"^^xsd:float ;
+    ski:longitude "10.7369847"^^xsd:float .
+
+res:resort_10 a ski:SkiResort ;
+    ski:name "Alta Badia Shop & Rental" ;
+    ski:osmId "11528521587" ;
+    ski:phone "+390471847616" ;
+    ski:website <https://altabadiasport.it> ;
+    ski:hasCoordinates res:coord_resort_10 .
+
+res:coord_resort_10 a ski:Coordinate ;
+    ski:latitude "46.5837277"^^xsd:float ;
+    ski:longitude "11.9034247"^^xsd:float .
+
+res:resort_11 a ski:SkiResort ;
+    ski:name "Centro Fondo Passo Coe" ;
+    ski:osmId "12592471812" ;
+    ski:phone "+39 0464 720538" ;
+    ski:website <https://www.supernordicskipass.it/#/snsCenter/265/Centro%20Fondo%20Passo%20Coe> ;
+    ski:locatedIn res:municipality_Passo_coe_Folgaria ;
+    ski:hasCoordinates res:coord_resort_11 .
+
+res:coord_resort_11 a ski:Coordinate ;
+    ski:latitude "45.8762511"^^xsd:float ;
+    ski:longitude "11.2189778"^^xsd:float .
+
+res:resort_12 a ski:SkiResort ;
+    ski:name "Sport Thöni" ;
+    ski:osmId "12741878683" ;
+    ski:phone "+39 0473 613080" ;
+    ski:website <https://www.sportthoeni.com> ;
+    ski:hasCoordinates res:coord_resort_12 .
+
+res:coord_resort_12 a ski:Coordinate ;
+    ski:latitude "46.5199054"^^xsd:float ;
+    ski:longitude "10.5962964"^^xsd:float .
+
+res:resort_13 a ski:SkiResort ;
+    ski:name "Centro Fondo Millegrobbe" ;
+    ski:osmId "13045817493" ;
+    ski:website <https://www.malgamillegrobbe.it/it/attivita-inverno/centro-fondo> ;
+    ski:locatedIn res:municipality_Luserna ;
+    ski:hasCoordinates res:coord_resort_13 .
+
+res:coord_resort_13 a ski:Coordinate ;
+    ski:latitude "45.9364323"^^xsd:float ;
+    ski:longitude "11.3201161"^^xsd:float .
+
+res:resort_14 a ski:SkiResort ;
+    ski:name "Sci Club Valcampelle ASD" ;
+    ski:osmId "13152267587" ;
+    ski:website <https://www.sciclubvalcampelle.it/> ;
+    ski:locatedIn res:municipality_Scurelle ;
+    ski:hasCoordinates res:coord_resort_14 .
+
+res:coord_resort_14 a ski:Coordinate ;
+    ski:latitude "46.0639446"^^xsd:float ;
+    ski:longitude "11.5068476"^^xsd:float .
+
+res:resort_15 a ski:SkiResort ;
+    ski:name "Ski Revolution" ;
+    ski:osmId "13152345235" ;
+    ski:phone "+393338068887" ;
+    ski:website <https://skirevolution.it> ;
+    ski:hasCoordinates res:coord_resort_15 .
+
+res:coord_resort_15 a ski:Coordinate ;
+    ski:latitude "46.1155948"^^xsd:float ;
+    ski:longitude "11.6605405"^^xsd:float .
+
+res:resort_16 a ski:SkiResort ;
+    ski:name "Centro fondo Val Campelle" ;
+    ski:osmId "13410766401" ;
+    ski:locatedIn res:municipality_Scurelle ;
+    ski:hasCoordinates res:coord_resort_16 .
+
+res:coord_resort_16 a ski:Coordinate ;
+    ski:latitude "46.1473762"^^xsd:float ;
+    ski:longitude "11.5173059"^^xsd:float .
+
+res:resort_17 a ski:SkiResort ;
+    ski:name "Centro di fondo Vallunga" ;
+    ski:osmId "13542749901" ;
+    ski:website <https://www.suedtirol-dolomites.com/en/dolomites/winter/val-gardena/cross-country-skiing/cross-country-centre.html> ;
+    ski:hasCoordinates res:coord_resort_17 .
+
+res:coord_resort_17 a ski:Coordinate ;
+    ski:latitude "46.5616942"^^xsd:float ;
+    ski:longitude "11.7717249"^^xsd:float .
+
+res:resort_18 a ski:SkiResort ;
+    ski:name "16 Saxner II" ;
+    ski:osmId "22789203" ;
+    ski:hasCoordinates res:coord_resort_18 .
+
+res:coord_resort_18 a ski:Coordinate ;
+    ski:latitude "46.8457211"^^xsd:float ;
+    ski:longitude "11.2891164"^^xsd:float .
+
+res:resort_19 a ski:SkiResort ;
+    ski:name "Saxner I" ;
+    ski:osmId "22789291" ;
+    ski:hasCoordinates res:coord_resort_19 .
+
+res:coord_resort_19 a ski:Coordinate ;
+    ski:latitude "46.8454402"^^xsd:float ;
+    ski:longitude "11.2897366"^^xsd:float .
+
+res:resort_20 a ski:SkiResort ;
+    ski:name "Wasserfalleralm - Malga Cascata" ;
+    ski:osmId "22789301" ;
+    ski:hasCoordinates res:coord_resort_20 .
+
+res:coord_resort_20 a ski:Coordinate ;
+    ski:latitude "46.8434605"^^xsd:float ;
+    ski:longitude "11.2983945"^^xsd:float .
+
+res:resort_21 a ski:SkiResort ;
+    ski:name "Avez del Prinzep" ;
+    ski:osmId "24987937" ;
+    ski:hasCoordinates res:coord_resort_21 .
+
+res:coord_resort_21 a ski:Coordinate ;
+    ski:latitude "45.953232"^^xsd:float ;
+    ski:longitude "11.3097602"^^xsd:float .
+
+res:resort_22 a ski:SkiResort ;
+    ski:name "22 Frommer" ;
+    ski:osmId "30804946" ;
+    ski:hasCoordinates res:coord_resort_22 .
+
+res:coord_resort_22 a ski:Coordinate ;
+    ski:latitude "46.4415328"^^xsd:float ;
+    ski:longitude "11.5976153"^^xsd:float .
+
+res:resort_23 a ski:SkiResort ;
+    ski:name "24 Laurin I" ;
+    ski:osmId "30804947" ;
+    ski:hasCoordinates res:coord_resort_23 .
+
+res:coord_resort_23 a ski:Coordinate ;
+    ski:latitude "46.4389803"^^xsd:float ;
+    ski:longitude "11.5763565"^^xsd:float .
+
+res:resort_24 a ski:SkiResort ;
+    ski:name "Orso Bruno" ;
+    ski:osmId "42689120" ;
+    ski:hasCoordinates res:coord_resort_24 .
+
+res:coord_resort_24 a ski:Coordinate ;
+    ski:latitude "46.2804038"^^xsd:float ;
+    ski:longitude "10.823509"^^xsd:float .
+
+res:resort_25 a ski:SkiResort ;
+    ski:name "Busa del Vigo" ;
+    ski:osmId "50844773" ;
+    ski:hasCoordinates res:coord_resort_25 .
+
+res:coord_resort_25 a ski:Coordinate ;
+    ski:latitude "46.2768585"^^xsd:float ;
+    ski:longitude "10.8318141"^^xsd:float .
+
+res:resort_26 a ski:SkiResort ;
+    ski:name "Malghette" ;
+    ski:osmId "50845485" ;
+    ski:hasCoordinates res:coord_resort_26 .
+
+res:coord_resort_26 a ski:Coordinate ;
+    ski:latitude "46.2691002"^^xsd:float ;
+    ski:longitude "10.8307154"^^xsd:float .
+
+res:resort_27 a ski:SkiResort ;
+    ski:name "Laner" ;
+    ski:osmId "51553591" ;
+    ski:hasCoordinates res:coord_resort_27 .
+
+res:coord_resort_27 a ski:Coordinate ;
+    ski:latitude "46.3697868"^^xsd:float ;
+    ski:longitude "11.532236"^^xsd:float .
+
+res:resort_28 a ski:SkiResort ;
+    ski:name "Ochsenweide" ;
+    ski:osmId "51553597" ;
+    ski:hasCoordinates res:coord_resort_28 .
+
+res:coord_resort_28 a ski:Coordinate ;
+    ski:latitude "46.3789682"^^xsd:float ;
+    ski:longitude "11.5284283"^^xsd:float .
+
+res:resort_29 a ski:SkiResort ;
+    ski:name "Maierl" ;
+    ski:osmId "51558959" ;
+    ski:hasCoordinates res:coord_resort_29 .
+
+res:coord_resort_29 a ski:Coordinate ;
+    ski:latitude "46.3650609"^^xsd:float ;
+    ski:longitude "11.5393854"^^xsd:float .
+
+res:resort_30 a ski:SkiResort ;
+    ski:name "Absam" ;
+    ski:osmId "51646819" ;
+    ski:hasCoordinates res:coord_resort_30 .
+
+res:coord_resort_30 a ski:Coordinate ;
+    ski:latitude "46.3627977"^^xsd:float ;
+    ski:longitude "11.5395181"^^xsd:float .
+
+res:resort_31 a ski:SkiResort ;
+    ski:name "Verbindung Wasserfalleralm-Enzian" ;
+    ski:osmId "52390077" ;
+    ski:hasCoordinates res:coord_resort_31 .
+
+res:coord_resort_31 a ski:Coordinate ;
+    ski:latitude "46.8461298"^^xsd:float ;
+    ski:longitude "11.295605"^^xsd:float .
+
+res:resort_32 a ski:SkiResort ;
+    ski:name "Saxner II" ;
+    ski:osmId "52624810" ;
+    ski:hasCoordinates res:coord_resort_32 .
+
+res:coord_resort_32 a ski:Coordinate ;
+    ski:latitude "46.8447194"^^xsd:float ;
+    ski:longitude "11.2869404"^^xsd:float .
+
+res:resort_33 a ski:SkiResort ;
+    ski:name "Waldabfahrt" ;
+    ski:osmId "52624813" ;
+    ski:hasCoordinates res:coord_resort_33 .
+
+res:coord_resort_33 a ski:Coordinate ;
+    ski:latitude "46.8553708"^^xsd:float ;
+    ski:longitude "11.2985403"^^xsd:float .
+
+res:resort_34 a ski:SkiResort ;
+    ski:name "Muro Bucaneve" ;
+    ski:osmId "88601299" ;
+    ski:hasCoordinates res:coord_resort_34 .
+
+res:coord_resort_34 a ski:Coordinate ;
+    ski:latitude "45.785509"^^xsd:float ;
+    ski:longitude "10.922316"^^xsd:float .
+
+res:resort_35 a ski:SkiResort ;
+    ski:name "Cronel" ;
+    ski:osmId "88601300" ;
+    ski:hasCoordinates res:coord_resort_35 .
+
+res:coord_resort_35 a ski:Coordinate ;
+    ski:latitude "45.7813728"^^xsd:float ;
+    ski:longitude "10.9230579"^^xsd:float .
+
+res:resort_36 a ski:SkiResort ;
+    ski:name "Campeggio" ;
+    ski:osmId "88601304" ;
+    ski:hasCoordinates res:coord_resort_36 .
+
+res:coord_resort_36 a ski:Coordinate ;
+    ski:latitude "45.7864037"^^xsd:float ;
+    ski:longitude "10.9238156"^^xsd:float .
+
+res:resort_37 a ski:SkiResort ;
+    ski:name "Intermedia" ;
+    ski:osmId "88601311" ;
+    ski:hasCoordinates res:coord_resort_37 .
+
+res:coord_resort_37 a ski:Coordinate ;
+    ski:latitude "45.7807117"^^xsd:float ;
+    ski:longitude "10.9237772"^^xsd:float .
+
+res:resort_38 a ski:SkiResort ;
+    ski:name "Vallette" ;
+    ski:osmId "88601320" ;
+    ski:hasCoordinates res:coord_resort_38 .
+
+res:coord_resort_38 a ski:Coordinate ;
+    ski:latitude "45.7803981"^^xsd:float ;
+    ski:longitude "10.9244695"^^xsd:float .
+
+res:resort_39 a ski:SkiResort ;
+    ski:name "Cacciatori 2" ;
+    ski:osmId "90938852" ;
+    ski:hasCoordinates res:coord_resort_39 .
+
+res:coord_resort_39 a ski:Coordinate ;
+    ski:latitude "46.1479943"^^xsd:float ;
+    ski:longitude "11.018174"^^xsd:float .
+
+res:resort_40 a ski:SkiResort ;
+    ski:name "Olimpionica 3" ;
+    ski:osmId "90938854" ;
+    ski:hasCoordinates res:coord_resort_40 .
+
+res:coord_resort_40 a ski:Coordinate ;
+    ski:latitude "46.1457633"^^xsd:float ;
+    ski:longitude "11.023548"^^xsd:float .
+
+res:resort_41 a ski:SkiResort ;
+    ski:name "Rindole" ;
+    ski:osmId "90938856" ;
+    ski:hasCoordinates res:coord_resort_41 .
+
+res:coord_resort_41 a ski:Coordinate ;
+    ski:latitude "46.1610017"^^xsd:float ;
+    ski:longitude "11.0080731"^^xsd:float .
+
+res:resort_42 a ski:SkiResort ;
+    ski:name "Olimpionica 2 (H)" ;
+    ski:osmId "90938858" ;
+    ski:hasCoordinates res:coord_resort_42 .
+
+res:coord_resort_42 a ski:Coordinate ;
+    ski:latitude "46.151037"^^xsd:float ;
+    ski:longitude "11.0198779"^^xsd:float .
+
+res:resort_43 a ski:SkiResort ;
+    ski:name "Olimpionica 1" ;
+    ski:osmId "90938859" ;
+    ski:hasCoordinates res:coord_resort_43 .
+
+res:coord_resort_43 a ski:Coordinate ;
+    ski:latitude "46.1545874"^^xsd:float ;
+    ski:longitude "11.010747"^^xsd:float .
+
+res:resort_44 a ski:SkiResort ;
+    ski:name "Cacciatori 1" ;
+    ski:osmId "90938860" ;
+    ski:hasCoordinates res:coord_resort_44 .
+
+res:coord_resort_44 a ski:Coordinate ;
+    ski:latitude "46.1569668"^^xsd:float ;
+    ski:longitude "11.0100885"^^xsd:float .
+
+res:resort_45 a ski:SkiResort ;
+    ski:name "Sant'Antonio 1" ;
+    ski:osmId "90940506" ;
+    ski:hasCoordinates res:coord_resort_45 .
+
+res:coord_resort_45 a ski:Coordinate ;
+    ski:latitude "46.1402497"^^xsd:float ;
+    ski:longitude "11.015689"^^xsd:float .
+
+res:resort_46 a ski:SkiResort ;
+    ski:name "Gaggia" ;
+    ski:osmId "91036485" ;
+    ski:hasCoordinates res:coord_resort_46 .
+
+res:coord_resort_46 a ski:Coordinate ;
+    ski:latitude "46.1596379"^^xsd:float ;
+    ski:longitude "11.0038162"^^xsd:float .
+
+res:resort_47 a ski:SkiResort ;
+    ski:name "Laghet" ;
+    ski:osmId "91036487" ;
+    ski:hasCoordinates res:coord_resort_47 .
+
+res:coord_resort_47 a ski:Coordinate ;
+    ski:latitude "46.1613065"^^xsd:float ;
+    ski:longitude "11.003553"^^xsd:float .
+
+res:resort_48 a ski:SkiResort ;
+    ski:name "Dosso Larici" ;
+    ski:osmId "91095431" ;
+    ski:hasCoordinates res:coord_resort_48 .
+
+res:coord_resort_48 a ski:Coordinate ;
+    ski:latitude "46.1564185"^^xsd:float ;
+    ski:longitude "11.0436162"^^xsd:float .
+
+res:resort_49 a ski:SkiResort ;
+    ski:name "Traliccio" ;
+    ski:osmId "91095433" ;
+    ski:hasCoordinates res:coord_resort_49 .
+
+res:coord_resort_49 a ski:Coordinate ;
+    ski:latitude "46.146875"^^xsd:float ;
+    ski:longitude "11.0291172"^^xsd:float .
+
+res:resort_50 a ski:SkiResort ;
+    ski:name "Tre-Tre (selletta)" ;
+    ski:osmId "91095434" ;
+    ski:hasCoordinates res:coord_resort_50 .
+
+res:coord_resort_50 a ski:Coordinate ;
+    ski:latitude "46.149059"^^xsd:float ;
+    ski:longitude "11.0307327"^^xsd:float .
+
+res:resort_51 a ski:SkiResort ;
+    ski:name "La Rocca" ;
+    ski:osmId "91095435" ;
+    ski:hasCoordinates res:coord_resort_51 .
+
+res:coord_resort_51 a ski:Coordinate ;
+    ski:latitude "46.1693334"^^xsd:float ;
+    ski:longitude "11.050902"^^xsd:float .
+
+res:resort_52 a ski:SkiResort ;
+    ski:name "Panoramica" ;
+    ski:osmId "91095437" ;
+    ski:hasCoordinates res:coord_resort_52 .
+
+res:coord_resort_52 a ski:Coordinate ;
+    ski:latitude "46.1437995"^^xsd:float ;
+    ski:longitude "11.0379272"^^xsd:float .
+
+res:resort_53 a ski:SkiResort ;
+    ski:name "Nuvola Rossa" ;
+    ski:osmId "91095443" ;
+    ski:hasCoordinates res:coord_resort_53 .
+
+res:coord_resort_53 a ski:Coordinate ;
+    ski:latitude "46.1575128"^^xsd:float ;
+    ski:longitude "11.0478154"^^xsd:float .
+
+res:resort_54 a ski:SkiResort ;
+    ski:name "Salare" ;
+    ski:osmId "91097045" ;
+    ski:hasCoordinates res:coord_resort_54 .
+
+res:coord_resort_54 a ski:Coordinate ;
+    ski:latitude "46.1416502"^^xsd:float ;
+    ski:longitude "11.0196943"^^xsd:float .
+
+res:resort_55 a ski:SkiResort ;
+    ski:name "Skiweg conca d'argento" ;
+    ski:osmId "91097052" ;
+    ski:hasCoordinates res:coord_resort_55 .
+
+res:coord_resort_55 a ski:Coordinate ;
+    ski:latitude "46.1408724"^^xsd:float ;
+    ski:longitude "11.0222153"^^xsd:float .
+
+res:resort_56 a ski:SkiResort ;
+    ski:name "Ust" ;
+    ski:osmId "96579228" ;
+    ski:hasCoordinates res:coord_resort_56 .
+
+res:coord_resort_56 a ski:Coordinate ;
+    ski:latitude "45.9562755"^^xsd:float ;
+    ski:longitude "11.2902495"^^xsd:float .
+
+res:resort_57 a ski:SkiResort ;
+    ski:name "Bertoldi" ;
+    ski:osmId "96579231" ;
+    ski:hasCoordinates res:coord_resort_57 .
+
+res:coord_resort_57 a ski:Coordinate ;
+    ski:latitude "45.9509067"^^xsd:float ;
+    ski:longitude "11.2725415"^^xsd:float .
+
+res:resort_58 a ski:SkiResort ;
+    ski:name "Le Stock" ;
+    ski:osmId "96579232" ;
+    ski:hasCoordinates res:coord_resort_58 .
+
+res:coord_resort_58 a ski:Coordinate ;
+    ski:latitude "45.9511812"^^xsd:float ;
+    ski:longitude "11.270516"^^xsd:float .
+
+res:resort_59 a ski:SkiResort ;
+    ski:name "Tablat" ;
+    ski:osmId "96579233" ;
+    ski:hasCoordinates res:coord_resort_59 .
+
+res:coord_resort_59 a ski:Coordinate ;
+    ski:latitude "45.9498799"^^xsd:float ;
+    ski:longitude "11.2702033"^^xsd:float .
+
+res:resort_60 a ski:SkiResort ;
+    ski:name "Sonneck" ;
+    ski:osmId "96579235" ;
+    ski:hasCoordinates res:coord_resort_60 .
+
+res:coord_resort_60 a ski:Coordinate ;
+    ski:latitude "45.9514269"^^xsd:float ;
+    ski:longitude "11.2780429"^^xsd:float .
+
+res:resort_61 a ski:SkiResort ;
+    ski:name "Skiweg Nannufaro" ;
+    ski:osmId "96693485" ;
+    ski:hasCoordinates res:coord_resort_61 .
+
+res:coord_resort_61 a ski:Coordinate ;
+    ski:latitude "45.9556381"^^xsd:float ;
+    ski:longitude "11.2996934"^^xsd:float .
+
+res:resort_62 a ski:SkiResort ;
+    ski:name "Diretta Bucaneve" ;
+    ski:osmId "99685095" ;
+    ski:hasCoordinates res:coord_resort_62 .
+
+res:coord_resort_62 a ski:Coordinate ;
+    ski:latitude "45.7835527"^^xsd:float ;
+    ski:longitude "10.9176792"^^xsd:float .
+
+res:resort_63 a ski:SkiResort ;
+    ski:name "12 Enzian II" ;
+    ski:osmId "100064158" ;
+    ski:hasCoordinates res:coord_resort_63 .
+
+res:coord_resort_63 a ski:Coordinate ;
+    ski:latitude "46.8446928"^^xsd:float ;
+    ski:longitude "11.3003442"^^xsd:float .
+
+res:resort_64 a ski:SkiResort ;
+    ski:name "28" ;
+    ski:osmId "101713915" ;
+    ski:hasCoordinates res:coord_resort_64 .
+
+res:coord_resort_64 a ski:Coordinate ;
+    ski:latitude "46.8177747"^^xsd:float ;
+    ski:longitude "11.6621741"^^xsd:float .
+
+res:resort_65 a ski:SkiResort ;
+    ski:name "Family Slope" ;
+    ski:osmId "101713918" ;
+    ski:hasCoordinates res:coord_resort_65 .
+
+res:coord_resort_65 a ski:Coordinate ;
+    ski:latitude "46.8285857"^^xsd:float ;
+    ski:longitude "11.6656344"^^xsd:float .
+
+res:resort_66 a ski:SkiResort ;
+    ski:name "26" ;
+    ski:osmId "101713924" ;
+    ski:hasCoordinates res:coord_resort_66 .
+
+res:coord_resort_66 a ski:Coordinate ;
+    ski:latitude "46.8523673"^^xsd:float ;
+    ski:longitude "11.68303"^^xsd:float .
+
+res:resort_67 a ski:SkiResort ;
+    ski:name "27" ;
+    ski:osmId "101713926" ;
+    ski:hasCoordinates res:coord_resort_67 .
+
+res:coord_resort_67 a ski:Coordinate ;
+    ski:latitude "46.812074"^^xsd:float ;
+    ski:longitude "11.6575745"^^xsd:float .
+
+res:resort_68 a ski:SkiResort ;
+    ski:name "Gitsch" ;
+    ski:osmId "101713927" ;
+    ski:hasCoordinates res:coord_resort_68 .
+
+res:coord_resort_68 a ski:Coordinate ;
+    ski:latitude "46.855726"^^xsd:float ;
+    ski:longitude "11.68701"^^xsd:float .
+
+res:resort_69 a ski:SkiResort ;
+    ski:name "24" ;
+    ski:osmId "101713947" ;
+    ski:hasCoordinates res:coord_resort_69 .
+
+res:coord_resort_69 a ski:Coordinate ;
+    ski:latitude "46.8446103"^^xsd:float ;
+    ski:longitude "11.6819073"^^xsd:float .
+
+res:resort_70 a ski:SkiResort ;
+    ski:name "Nesselwiese" ;
+    ski:osmId "101713959" ;
+    ski:hasCoordinates res:coord_resort_70 .
+
+res:coord_resort_70 a ski:Coordinate ;
+    ski:latitude "46.8417066"^^xsd:float ;
+    ski:longitude "11.677594"^^xsd:float .
+
+res:resort_71 a ski:SkiResort ;
+    ski:name "Jochtal Talabfahrt" ;
+    ski:osmId "101787475" ;
+    ski:hasCoordinates res:coord_resort_71 .
+
+res:coord_resort_71 a ski:Coordinate ;
+    ski:latitude "46.847071"^^xsd:float ;
+    ski:longitude "11.6109176"^^xsd:float .
+
+res:resort_72 a ski:SkiResort ;
+    ski:name "Hinterberg" ;
+    ski:osmId "101787477" ;
+    ski:hasCoordinates res:coord_resort_72 .
+
+res:coord_resort_72 a ski:Coordinate ;
+    ski:latitude "46.8409125"^^xsd:float ;
+    ski:longitude "11.5999593"^^xsd:float .
+
+res:resort_73 a ski:SkiResort ;
+    ski:name "Schwandt" ;
+    ski:osmId "101787479" ;
+    ski:hasCoordinates res:coord_resort_73 .
+
+res:coord_resort_73 a ski:Coordinate ;
+    ski:latitude "46.8454064"^^xsd:float ;
+    ski:longitude "11.6381515"^^xsd:float .
+
+res:resort_74 a ski:SkiResort ;
+    ski:name "Tasa" ;
+    ski:osmId "101787481" ;
+    ski:hasCoordinates res:coord_resort_74 .
+
+res:coord_resort_74 a ski:Coordinate ;
+    ski:latitude "46.8408589"^^xsd:float ;
+    ski:longitude "11.6303129"^^xsd:float .
+
+res:resort_75 a ski:SkiResort ;
+    ski:name "Sonnenhang" ;
+    ski:osmId "101787484" ;
+    ski:hasCoordinates res:coord_resort_75 .
+
+res:coord_resort_75 a ski:Coordinate ;
+    ski:latitude "46.8402081"^^xsd:float ;
+    ski:longitude "11.5982387"^^xsd:float .
+
+res:resort_76 a ski:SkiResort ;
+    ski:name "Seepiste" ;
+    ski:osmId "101787485" ;
+    ski:hasCoordinates res:coord_resort_76 .
+
+res:coord_resort_76 a ski:Coordinate ;
+    ski:latitude "46.839957"^^xsd:float ;
+    ski:longitude "11.5989851"^^xsd:float .
+
+res:resort_77 a ski:SkiResort ;
+    ski:name "Mitterling" ;
+    ski:osmId "101787486" ;
+    ski:hasCoordinates res:coord_resort_77 .
+
+res:coord_resort_77 a ski:Coordinate ;
+    ski:latitude "46.8456978"^^xsd:float ;
+    ski:longitude "11.602768"^^xsd:float .
+
+res:resort_78 a ski:SkiResort ;
+    ski:name "Sant'Antonio 2" ;
+    ski:osmId "103118890" ;
+    ski:hasCoordinates res:coord_resort_78 .
+
+res:coord_resort_78 a ski:Coordinate ;
+    ski:latitude "46.1390493"^^xsd:float ;
+    ski:longitude "11.0188164"^^xsd:float .
+
+res:resort_79 a ski:SkiResort ;
+    ski:name "Paganella 2" ;
+    ski:osmId "103118901" ;
+    ski:hasCoordinates res:coord_resort_79 .
+
+res:coord_resort_79 a ski:Coordinate ;
+    ski:latitude "46.1458845"^^xsd:float ;
+    ski:longitude "11.0030932"^^xsd:float .
+
+res:resort_80 a ski:SkiResort ;
+    ski:name "Vezzena" ;
+    ski:osmId "103308853" ;
+    ski:hasCoordinates res:coord_resort_80 .
+
+res:coord_resort_80 a ski:Coordinate ;
+    ski:latitude "45.9553825"^^xsd:float ;
+    ski:longitude "11.3234968"^^xsd:float .
+
+res:resort_81 a ski:SkiResort ;
+    ski:name "Ometto 2" ;
+    ski:osmId "107041750" ;
+    ski:hasCoordinates res:coord_resort_81 .
+
+res:coord_resort_81 a ski:Coordinate ;
+    ski:latitude "46.2787005"^^xsd:float ;
+    ski:longitude "10.8196645"^^xsd:float .
+
+res:resort_82 a ski:SkiResort ;
+    ski:name "Panciana" ;
+    ski:osmId "107041759" ;
+    ski:hasCoordinates res:coord_resort_82 .
+
+res:coord_resort_82 a ski:Coordinate ;
+    ski:latitude "46.2944078"^^xsd:float ;
+    ski:longitude "10.816034"^^xsd:float .
+
+res:resort_83 a ski:SkiResort ;
+    ski:name "Nera Marilleva" ;
+    ski:osmId "107041760" ;
+    ski:hasCoordinates res:coord_resort_83 .
+
+res:coord_resort_83 a ski:Coordinate ;
+    ski:latitude "46.2953596"^^xsd:float ;
+    ski:longitude "10.8121299"^^xsd:float .
+
+res:resort_84 a ski:SkiResort ;
+    ski:name "Schilling" ;
+    ski:osmId "142074618" ;
+    ski:hasCoordinates res:coord_resort_84 .
+
+res:coord_resort_84 a ski:Coordinate ;
+    ski:latitude "46.8481204"^^xsd:float ;
+    ski:longitude "11.6289446"^^xsd:float .
+
+res:resort_85 a ski:SkiResort ;
+    ski:name "Plankenhorn" ;
+    ski:osmId "142778386" ;
+    ski:hasCoordinates res:coord_resort_85 .
+
+res:coord_resort_85 a ski:Coordinate ;
+    ski:latitude "46.6911532"^^xsd:float ;
+    ski:longitude "11.4305316"^^xsd:float .
+
+res:resort_86 a ski:SkiResort ;
+    ski:name "Schoneben" ;
+    ski:osmId "142778387" ;
+    ski:hasCoordinates res:coord_resort_86 .
+
+res:coord_resort_86 a ski:Coordinate ;
+    ski:latitude "46.6923419"^^xsd:float ;
+    ski:longitude "11.431767"^^xsd:float .
+
+res:resort_87 a ski:SkiResort ;
+    ski:name "Joch" ;
+    ski:osmId "142778390" ;
+    ski:hasCoordinates res:coord_resort_87 .
+
+res:coord_resort_87 a ski:Coordinate ;
+    ski:latitude "46.6998479"^^xsd:float ;
+    ski:longitude "11.4492312"^^xsd:float .
+
+res:resort_88 a ski:SkiResort ;
+    ski:name "Variante Oberholz" ;
+    ski:osmId "145010643" ;
+    ski:hasCoordinates res:coord_resort_88 .
+
+res:coord_resort_88 a ski:Coordinate ;
+    ski:latitude "46.3740543"^^xsd:float ;
+    ski:longitude "11.5364224"^^xsd:float .
+
+res:resort_89 a ski:SkiResort ;
+    ski:name "Prà Alpesina" ;
+    ski:osmId "147141120" ;
+    ski:hasCoordinates res:coord_resort_89 .
+
+res:coord_resort_89 a ski:Coordinate ;
+    ski:latitude "45.7593473"^^xsd:float ;
+    ski:longitude "10.8717535"^^xsd:float .
+
+res:resort_90 a ski:SkiResort ;
+    ski:name "Morgenrast" ;
+    ski:osmId "147218267" ;
+    ski:hasCoordinates res:coord_resort_90 .
+
+res:coord_resort_90 a ski:Coordinate ;
+    ski:latitude "46.702322"^^xsd:float ;
+    ski:longitude "11.4469257"^^xsd:float .
+
+res:resort_91 a ski:SkiResort ;
+    ski:name "Pendio ripido" ;
+    ski:osmId "147218268" ;
+    ski:hasCoordinates res:coord_resort_91 .
+
+res:coord_resort_91 a ski:Coordinate ;
+    ski:latitude "46.70249"^^xsd:float ;
+    ski:longitude "11.4542901"^^xsd:float .
+
+res:resort_92 a ski:SkiResort ;
+    ski:name "Pfnatsch" ;
+    ski:osmId "147218269" ;
+    ski:hasCoordinates res:coord_resort_92 .
+
+res:coord_resort_92 a ski:Coordinate ;
+    ski:latitude "46.6997235"^^xsd:float ;
+    ski:longitude "11.4469614"^^xsd:float .
+
+res:resort_93 a ski:SkiResort ;
+    ski:name "Pichlberg" ;
+    ski:osmId "147218270" ;
+    ski:hasCoordinates res:coord_resort_93 .
+
+res:coord_resort_93 a ski:Coordinate ;
+    ski:latitude "46.6975453"^^xsd:float ;
+    ski:longitude "11.4483051"^^xsd:float .
+
+res:resort_94 a ski:SkiResort ;
+    ski:name "Breiteben" ;
+    ski:osmId "152034006" ;
+    ski:hasCoordinates res:coord_resort_94 .
+
+res:coord_resort_94 a ski:Coordinate ;
+    ski:latitude "46.8479029"^^xsd:float ;
+    ski:longitude "11.6854772"^^xsd:float .
+
+res:resort_95 a ski:SkiResort ;
+    ski:name "Steinermandl" ;
+    ski:osmId "152034009" ;
+    ski:hasCoordinates res:coord_resort_95 .
+
+res:coord_resort_95 a ski:Coordinate ;
+    ski:latitude "46.836399"^^xsd:float ;
+    ski:longitude "11.5964987"^^xsd:float .
+
+res:resort_96 a ski:SkiResort ;
+    ski:name "Restaurant" ;
+    ski:osmId "152034010" ;
+    ski:hasCoordinates res:coord_resort_96 .
+
+res:coord_resort_96 a ski:Coordinate ;
+    ski:latitude "46.8437488"^^xsd:float ;
+    ski:longitude "11.5991498"^^xsd:float .
+
+res:resort_97 a ski:SkiResort ;
+    ski:name "Segerwiese" ;
+    ski:osmId "152034012" ;
+    ski:hasCoordinates res:coord_resort_97 .
+
+res:coord_resort_97 a ski:Coordinate ;
+    ski:latitude "46.8400486"^^xsd:float ;
+    ski:longitude "11.6852489"^^xsd:float .
+
+res:resort_98 a ski:SkiResort ;
+    ski:name "Wastl Huber" ;
+    ski:osmId "152034015" ;
+    ski:hasCoordinates res:coord_resort_98 .
+
+res:coord_resort_98 a ski:Coordinate ;
+    ski:latitude "46.8388291"^^xsd:float ;
+    ski:longitude "11.6834053"^^xsd:float .
+
+res:resort_99 a ski:SkiResort ;
+    ski:name "Falzeben 2" ;
+    ski:osmId "154714041" ;
+    ski:hasCoordinates res:coord_resort_99 .
+
+res:coord_resort_99 a ski:Coordinate ;
+    ski:latitude "46.6764679"^^xsd:float ;
+    ski:longitude "11.2521732"^^xsd:float .
+
+res:resort_100 a ski:SkiResort ;
+    ski:name "Kesselberg 1 - Costa Valcanova 1" ;
+    ski:osmId "154950322" ;
+    ski:hasCoordinates res:coord_resort_100 .
+
+res:coord_resort_100 a ski:Coordinate ;
+    ski:latitude "46.6884762"^^xsd:float ;
+    ski:longitude "11.2929513"^^xsd:float .
+
+res:resort_101 a ski:SkiResort ;
+    ski:name "Kesselberg 2 - Costa Valcanova 2" ;
+    ski:osmId "154950324" ;
+    ski:hasCoordinates res:coord_resort_101 .
+
+res:coord_resort_101 a ski:Coordinate ;
+    ski:latitude "46.688833"^^xsd:float ;
+    ski:longitude "11.29254"^^xsd:float .
+
+res:resort_102 a ski:SkiResort ;
+    ski:name "Mittager 1 - Catino 1" ;
+    ski:osmId "154950330" ;
+    ski:hasCoordinates res:coord_resort_102 .
+
+res:coord_resort_102 a ski:Coordinate ;
+    ski:latitude "46.6818834"^^xsd:float ;
+    ski:longitude "11.2920111"^^xsd:float .
+
+res:resort_103 a ski:SkiResort ;
+    ski:name "Mittager 2 - Catino 2" ;
+    ski:osmId "154950333" ;
+    ski:hasCoordinates res:coord_resort_103 .
+
+res:coord_resort_103 a ski:Coordinate ;
+    ski:latitude "46.684075"^^xsd:float ;
+    ski:longitude "11.2848432"^^xsd:float .
+
+res:resort_104 a ski:SkiResort ;
+    ski:name "Oswald 1 - Osvaldo 1" ;
+    ski:osmId "154950342" ;
+    ski:hasCoordinates res:coord_resort_104 .
+
+res:coord_resort_104 a ski:Coordinate ;
+    ski:latitude "46.6884869"^^xsd:float ;
+    ski:longitude "11.2757074"^^xsd:float .
+
+res:resort_105 a ski:SkiResort ;
+    ski:name "Oswald 2 - - Osvaldo 2" ;
+    ski:osmId "154950351" ;
+    ski:hasCoordinates res:coord_resort_105 .
+
+res:coord_resort_105 a ski:Coordinate ;
+    ski:latitude "46.688586"^^xsd:float ;
+    ski:longitude "11.2769137"^^xsd:float .
+
+res:resort_106 a ski:SkiResort ;
+    ski:name "Oswald 2" ;
+    ski:osmId "155220974" ;
+    ski:hasCoordinates res:coord_resort_106 .
+
+res:coord_resort_106 a ski:Coordinate ;
+    ski:latitude "46.6862219"^^xsd:float ;
+    ski:longitude "11.279936"^^xsd:float .
+
+res:resort_107 a ski:SkiResort ;
+    ski:name "Prà delle Nasse DX" ;
+    ski:osmId "179150279" ;
+    ski:hasCoordinates res:coord_resort_107 .
+
+res:coord_resort_107 a ski:Coordinate ;
+    ski:latitude "46.264173"^^xsd:float ;
+    ski:longitude "11.7975223"^^xsd:float .
+
+res:resort_108 a ski:SkiResort ;
+    ski:name "Verbindung Wasserfalleralm-Enzian - Collegamento Malga Cascata-Enzian" ;
+    ski:osmId "179202070" ;
+    ski:hasCoordinates res:coord_resort_108 .
+
+res:coord_resort_108 a ski:Coordinate ;
+    ski:latitude "46.8474791"^^xsd:float ;
+    ski:longitude "11.2995759"^^xsd:float .
+
+res:resort_109 a ski:SkiResort ;
+    ski:name "Blosegg" ;
+    ski:osmId "179202073" ;
+    ski:hasCoordinates res:coord_resort_109 .
+
+res:coord_resort_109 a ski:Coordinate ;
+    ski:latitude "46.8560969"^^xsd:float ;
+    ski:longitude "11.3040255"^^xsd:float .
+
+res:resort_110 a ski:SkiResort ;
+    ski:name "3" ;
+    ski:osmId "180184885" ;
+    ski:hasCoordinates res:coord_resort_110 .
+
+res:coord_resort_110 a ski:Coordinate ;
+    ski:latitude "46.5662724"^^xsd:float ;
+    ski:longitude "10.5051593"^^xsd:float .
+
+res:resort_111 a ski:SkiResort ;
+    ski:name "5" ;
+    ski:osmId "180184886" ;
+    ski:hasCoordinates res:coord_resort_111 .
+
+res:coord_resort_111 a ski:Coordinate ;
+    ski:latitude "46.5710854"^^xsd:float ;
+    ski:longitude "10.4994364"^^xsd:float .
+
+res:resort_112 a ski:SkiResort ;
+    ski:name "7" ;
+    ski:osmId "180184887" ;
+    ski:hasCoordinates res:coord_resort_112 .
+
+res:coord_resort_112 a ski:Coordinate ;
+    ski:latitude "46.569245"^^xsd:float ;
+    ski:longitude "10.5038574"^^xsd:float .
+
+res:resort_113 a ski:SkiResort ;
+    ski:name "Rivetta" ;
+    ski:osmId "181514508" ;
+    ski:hasCoordinates res:coord_resort_113 .
+
+res:coord_resort_113 a ski:Coordinate ;
+    ski:latitude "45.957108"^^xsd:float ;
+    ski:longitude "11.3143355"^^xsd:float .
+
+res:resort_114 a ski:SkiResort ;
+    ski:name "Cordela" ;
+    ski:osmId "184435029" ;
+    ski:hasCoordinates res:coord_resort_114 .
+
+res:coord_resort_114 a ski:Coordinate ;
+    ski:latitude "46.0421598"^^xsd:float ;
+    ski:longitude "11.0632089"^^xsd:float .
+
+res:resort_115 a ski:SkiResort ;
+    ski:name "Palon" ;
+    ski:osmId "184435031" ;
+    ski:hasCoordinates res:coord_resort_115 .
+
+res:coord_resort_115 a ski:Coordinate ;
+    ski:latitude "46.0273199"^^xsd:float ;
+    ski:longitude "11.0576909"^^xsd:float .
+
+res:resort_116 a ski:SkiResort ;
+    ski:name "Pinot" ;
+    ski:osmId "184435032" ;
+    ski:hasCoordinates res:coord_resort_116 .
+
+res:coord_resort_116 a ski:Coordinate ;
+    ski:latitude "46.0480692"^^xsd:float ;
+    ski:longitude "11.0684206"^^xsd:float .
+
+res:resort_117 a ski:SkiResort ;
+    ski:name "Gran Pista" ;
+    ski:osmId "184435035" ;
+    ski:hasCoordinates res:coord_resort_117 .
+
+res:coord_resort_117 a ski:Coordinate ;
+    ski:latitude "46.034766"^^xsd:float ;
+    ski:longitude "11.0460044"^^xsd:float .
+
+res:resort_118 a ski:SkiResort ;
+    ski:name "3-Tre Vaneze" ;
+    ski:osmId "184435037" ;
+    ski:hasCoordinates res:coord_resort_118 .
+
+res:coord_resort_118 a ski:Coordinate ;
+    ski:latitude "46.048283"^^xsd:float ;
+    ski:longitude "11.0697649"^^xsd:float .
+
+res:resort_119 a ski:SkiResort ;
+    ski:name "3-Tre Panoramica" ;
+    ski:osmId "184641972" ;
+    ski:hasCoordinates res:coord_resort_119 .
+
+res:coord_resort_119 a ski:Coordinate ;
+    ski:latitude "46.0397512"^^xsd:float ;
+    ski:longitude "11.0673822"^^xsd:float .
+
+res:resort_120 a ski:SkiResort ;
+    ski:name "Lavaman" ;
+    ski:osmId "184818579" ;
+    ski:hasCoordinates res:coord_resort_120 .
+
+res:coord_resort_120 a ski:Coordinate ;
+    ski:latitude "46.0419654"^^xsd:float ;
+    ski:longitude "11.0674426"^^xsd:float .
+
+res:resort_121 a ski:SkiResort ;
+    ski:name "Palon Direttissima" ;
+    ski:osmId "184818581" ;
+    ski:hasCoordinates res:coord_resort_121 .
+
+res:coord_resort_121 a ski:Coordinate ;
+    ski:latitude "46.027924"^^xsd:float ;
+    ski:longitude "11.0573092"^^xsd:float .
+
+res:resort_122 a ski:SkiResort ;
+    ski:name "Boardercross Monte Bondone" ;
+    ski:osmId "184818585" ;
+    ski:hasCoordinates res:coord_resort_122 .
+
+res:coord_resort_122 a ski:Coordinate ;
+    ski:latitude "46.042086"^^xsd:float ;
+    ski:longitude "11.0685958"^^xsd:float .
+
+res:resort_123 a ski:SkiResort ;
+    ski:name "Topolino" ;
+    ski:osmId "184818586" ;
+    ski:hasCoordinates res:coord_resort_123 .
+
+res:coord_resort_123 a ski:Coordinate ;
+    ski:latitude "46.0431238"^^xsd:float ;
+    ski:longitude "11.0693398"^^xsd:float .
+
+res:resort_124 a ski:SkiResort ;
+    ski:name "Canalon Variante Gare" ;
+    ski:osmId "184819120" ;
+    ski:hasCoordinates res:coord_resort_124 .
+
+res:coord_resort_124 a ski:Coordinate ;
+    ski:latitude "46.0347281"^^xsd:float ;
+    ski:longitude "11.0582638"^^xsd:float .
+
+res:resort_125 a ski:SkiResort ;
+    ski:name "Skiweg lo Scoiattolo" ;
+    ski:osmId "198372895" ;
+    ski:hasCoordinates res:coord_resort_125 .
+
+res:coord_resort_125 a ski:Coordinate ;
+    ski:latitude "46.1436665"^^xsd:float ;
+    ski:longitude "11.0146322"^^xsd:float .
+
+res:resort_126 a ski:SkiResort ;
+    ski:name "Olimpionica 2" ;
+    ski:osmId "203774864" ;
+    ski:hasCoordinates res:coord_resort_126 .
+
+res:coord_resort_126 a ski:Coordinate ;
+    ski:latitude "46.1465026"^^xsd:float ;
+    ski:longitude "11.0227397"^^xsd:float .
+
+res:resort_127 a ski:SkiResort ;
+    ski:name "Nordisches Skizentrum Schlinig - Centro sci nordico Slingia" ;
+    ski:osmId "215041787" ;
+    ski:website <http://langlaufen-vinschgau.com/nordisches-skizentrum-schlinig/> ;
+    ski:hasCoordinates res:coord_resort_127 .
+
+res:coord_resort_127 a ski:Coordinate ;
+    ski:latitude "46.7063761"^^xsd:float ;
+    ski:longitude "10.468819"^^xsd:float .
+
+res:resort_128 a ski:SkiResort ;
+    ski:name "Campo Scuola Rolly Marchi" ;
+    ski:osmId "227342281" ;
+    ski:hasCoordinates res:coord_resort_128 .
+
+res:coord_resort_128 a ski:Coordinate ;
+    ski:latitude "46.1610903"^^xsd:float ;
+    ski:longitude "11.0507424"^^xsd:float .
+
+res:resort_129 a ski:SkiResort ;
+    ski:name "Snowpark Dosson" ;
+    ski:osmId "227347793" ;
+    ski:hasCoordinates res:coord_resort_129 .
+
+res:coord_resort_129 a ski:Coordinate ;
+    ski:latitude "46.1520115"^^xsd:float ;
+    ski:longitude "11.0178132"^^xsd:float .
+
+res:resort_130 a ski:SkiResort ;
+    ski:name "Skiweg Fossadei - Cioca 2" ;
+    ski:osmId "243640148" ;
+    ski:hasCoordinates res:coord_resort_130 .
+
+res:coord_resort_130 a ski:Coordinate ;
+    ski:latitude "46.1728349"^^xsd:float ;
+    ski:longitude "10.7983049"^^xsd:float .
+
+res:resort_131 a ski:SkiResort ;
+    ski:name "Loipe Panider Sattel - Pista Passo Pinei" ;
+    ski:osmId "266616285" ;
+    ski:hasCoordinates res:coord_resort_131 .
+
+res:coord_resort_131 a ski:Coordinate ;
+    ski:latitude "46.5782312"^^xsd:float ;
+    ski:longitude "11.6185469"^^xsd:float .
+
+res:resort_132 a ski:SkiResort ;
+    ski:name "Le Cogole" ;
+    ski:osmId "278003886" ;
+    ski:hasCoordinates res:coord_resort_132 .
+
+res:coord_resort_132 a ski:Coordinate ;
+    ski:latitude "45.9569426"^^xsd:float ;
+    ski:longitude "11.2884577"^^xsd:float .
+
+res:resort_133 a ski:SkiResort ;
+    ski:name "Baby" ;
+    ski:osmId "278118272" ;
+    ski:hasCoordinates res:coord_resort_133 .
+
+res:coord_resort_133 a ski:Coordinate ;
+    ski:latitude "45.9591178"^^xsd:float ;
+    ski:longitude "11.3140117"^^xsd:float .
+
+res:resort_134 a ski:SkiResort ;
+    ski:name "Skiweg Laghetto" ;
+    ski:osmId "278118274" ;
+    ski:hasCoordinates res:coord_resort_134 .
+
+res:coord_resort_134 a ski:Coordinate ;
+    ski:latitude "45.956644"^^xsd:float ;
+    ski:longitude "11.2956427"^^xsd:float .
+
+res:resort_135 a ski:SkiResort ;
+    ski:name "Lait primi passi 1-2" ;
+    ski:osmId "278118276" ;
+    ski:hasCoordinates res:coord_resort_135 .
+
+res:coord_resort_135 a ski:Coordinate ;
+    ski:latitude "45.9596761"^^xsd:float ;
+    ski:longitude "11.3146471"^^xsd:float .
+
+res:resort_136 a ski:SkiResort ;
+    ski:name "Skiweg Vivaio" ;
+    ski:osmId "278118280" ;
+    ski:hasCoordinates res:coord_resort_136 .
+
+res:coord_resort_136 a ski:Coordinate ;
+    ski:latitude "45.9561101"^^xsd:float ;
+    ski:longitude "11.2977545"^^xsd:float .
+
+res:resort_137 a ski:SkiResort ;
+    ski:name "Sghirlat" ;
+    ski:osmId "307890418" ;
+    ski:hasCoordinates res:coord_resort_137 .
+
+res:coord_resort_137 a ski:Coordinate ;
+    ski:latitude "46.2845983"^^xsd:float ;
+    ski:longitude "10.8228427"^^xsd:float .
+
+res:resort_138 a ski:SkiResort ;
+    ski:name "Doss della Pesa / Ometto" ;
+    ski:osmId "320339196" ;
+    ski:hasCoordinates res:coord_resort_138 .
+
+res:coord_resort_138 a ski:Coordinate ;
+    ski:latitude "46.2817307"^^xsd:float ;
+    ski:longitude "10.8209325"^^xsd:float .
+
+res:resort_139 a ski:SkiResort ;
+    ski:name "junction" ;
+    ski:osmId "320340256" ;
+    ski:hasCoordinates res:coord_resort_139 .
+
+res:coord_resort_139 a ski:Coordinate ;
+    ski:latitude "46.2797975"^^xsd:float ;
+    ski:longitude "10.8151461"^^xsd:float .
+
+res:resort_140 a ski:SkiResort ;
+    ski:name "(24) Skiweg Panciana" ;
+    ski:osmId "320340816" ;
+    ski:hasCoordinates res:coord_resort_140 .
+
+res:coord_resort_140 a ski:Coordinate ;
+    ski:latitude "46.2885335"^^xsd:float ;
+    ski:longitude "10.8165165"^^xsd:float .
+
+res:resort_141 a ski:SkiResort ;
+    ski:name "Pancianina" ;
+    ski:osmId "320359740" ;
+    ski:hasCoordinates res:coord_resort_141 .
+
+res:coord_resort_141 a ski:Coordinate ;
+    ski:latitude "46.2875858"^^xsd:float ;
+    ski:longitude "10.8210887"^^xsd:float .
+
+res:resort_142 a ski:SkiResort ;
+    ski:name "Biancaneve" ;
+    ski:osmId "320372929" ;
+    ski:hasCoordinates res:coord_resort_142 .
+
+res:coord_resort_142 a ski:Coordinate ;
+    ski:latitude "46.3002025"^^xsd:float ;
+    ski:longitude "10.8089141"^^xsd:float .
+
+res:resort_143 a ski:SkiResort ;
+    ski:name "Carezza" ;
+    ski:osmId "334817747" ;
+    ski:website <https://carezza.it/> ;
+    ski:hasCoordinates res:coord_resort_143 .
+
+res:coord_resort_143 a ski:Coordinate ;
+    ski:latitude "46.420563"^^xsd:float ;
+    ski:longitude "11.5803171"^^xsd:float .
+
+res:resort_144 a ski:SkiResort ;
+    ski:name "Vigo di Fassa - Ciampedie" ;
+    ski:osmId "335031400" ;
+    ski:website <https://www.fassa.com/de/lifte-und-pisten/skigebiete/catinaccio> ;
+    ski:hasCoordinates res:coord_resort_144 .
+
+res:coord_resort_144 a ski:Coordinate ;
+    ski:latitude "46.4322016"^^xsd:float ;
+    ski:longitude "11.6701131"^^xsd:float .
+
+res:resort_145 a ski:SkiResort ;
+    ski:name "Brentonico" ;
+    ski:osmId "336062441" ;
+    ski:website <https://www.brentonicoski.com> ;
+    ski:hasCoordinates res:coord_resort_145 .
+
+res:coord_resort_145 a ski:Coordinate ;
+    ski:latitude "45.7802679"^^xsd:float ;
+    ski:longitude "10.9318564"^^xsd:float .
+
+res:resort_146 a ski:SkiResort ;
+    ski:name "Folgaria" ;
+    ski:osmId "336229660" ;
+    ski:website <https://www.alpecimbra.it/de/skigebiet-alpe-cimbra/lavarone-folgaria-skigebiet/46-0.html> ;
+    ski:hasCoordinates res:coord_resort_146 .
+
+res:coord_resort_146 a ski:Coordinate ;
+    ski:latitude "45.8960677"^^xsd:float ;
+    ski:longitude "11.2109816"^^xsd:float .
+
+res:resort_147 a ski:SkiResort ;
+    ski:name "Monte Bondone" ;
+    ski:osmId "336234488" ;
+    ski:website <https://www.skimontebondone.it/> ;
+    ski:hasCoordinates res:coord_resort_147 .
+
+res:coord_resort_147 a ski:Coordinate ;
+    ski:latitude "46.0390593"^^xsd:float ;
+    ski:longitude "11.0538542"^^xsd:float .
+
+res:resort_148 a ski:SkiResort ;
+    ski:name "Paganella" ;
+    ski:osmId "336236243" ;
+    ski:website <https://www.paganella.net/> ;
+    ski:hasCoordinates res:coord_resort_148 .
+
+res:coord_resort_148 a ski:Coordinate ;
+    ski:latitude "46.1574157"^^xsd:float ;
+    ski:longitude "11.0248602"^^xsd:float .
+
+res:resort_149 a ski:SkiResort ;
+    ski:name "Seiser Alm - Mont de Sëuc - Alpe di Siusi" ;
+    ski:osmId "540659516" ;
+    ski:website <https://www.seiseralm.it/> ;
+    ski:hasCoordinates res:coord_resort_149 .
+
+res:coord_resort_149 a ski:Coordinate ;
+    ski:latitude "46.54127"^^xsd:float ;
+    ski:longitude "11.6269029"^^xsd:float .
+
+res:resort_150 a ski:SkiResort ;
+    ski:name "Gitschberg Jochtal" ;
+    ski:osmId "540697973" ;
+    ski:website <https://www.gitschberg-jochtal.com> ;
+    ski:hasCoordinates res:coord_resort_150 .
+
+res:coord_resort_150 a ski:Coordinate ;
+    ski:latitude "46.8346933"^^xsd:float ;
+    ski:longitude "11.6410017"^^xsd:float .
+
+res:resort_151 a ski:SkiResort ;
+    ski:name "Brixen Plose - Plose di Bressanone" ;
+    ski:osmId "540700967" ;
+    ski:website <https://www.plose.org/> ;
+    ski:hasCoordinates res:coord_resort_151 .
+
+res:coord_resort_151 a ski:Coordinate ;
+    ski:latitude "46.6881476"^^xsd:float ;
+    ski:longitude "11.7142161"^^xsd:float .
+
+res:resort_152 a ski:SkiResort ;
+    ski:name "Ski Center Lavarone" ;
+    ski:osmId "540707095" ;
+    ski:website <https://www.alpecimbra.it/de/skigebiet-alpe-cimbra/lavarone-folgaria-skigebiet/46-0.html> ;
+    ski:hasCoordinates res:coord_resort_152 .
+
+res:coord_resort_152 a ski:Coordinate ;
+    ski:latitude "45.9541555"^^xsd:float ;
+    ski:longitude "11.2947499"^^xsd:float .
+
+res:resort_153 a ski:SkiResort ;
+    ski:name "Campiglio Dolomiti di Brenta" ;
+    ski:osmId "540714397" ;
+    ski:website <https://www.funiviecampiglio.it/> ;
+    ski:hasCoordinates res:coord_resort_153 .
+
+res:coord_resort_153 a ski:Coordinate ;
+    ski:latitude "46.2368902"^^xsd:float ;
+    ski:longitude "10.8495997"^^xsd:float .
+
+res:resort_154 a ski:SkiResort ;
+    ski:name "Folgarida-Marilleva" ;
+    ski:osmId "540714398" ;
+    ski:website <https://www.visittrentino.info/en/trentino/ski-areas/alpine-skiing/folgarida-marilleva-skiarea-campiglio-dolomiti-di-brenta-val-di-sole-val-rendena_md_2211> ;
+    ski:hasCoordinates res:coord_resort_154 .
+
+res:coord_resort_154 a ski:Coordinate ;
+    ski:latitude "46.2917733"^^xsd:float ;
+    ski:longitude "10.8374977"^^xsd:float .
+
+res:resort_155 a ski:SkiResort ;
+    ski:name "Pinzolo" ;
+    ski:osmId "540714830" ;
+    ski:website <https://www.pinzolo.it/> ;
+    ski:hasCoordinates res:coord_resort_155 .
+
+res:coord_resort_155 a ski:Coordinate ;
+    ski:latitude "46.1754198"^^xsd:float ;
+    ski:longitude "10.791353"^^xsd:float .
+
+res:resort_156 a ski:SkiResort ;
+    ski:name "Klausberg - Monte Chiusetta" ;
+    ski:osmId "542210741" ;
+    ski:hasCoordinates res:coord_resort_156 .
+
+res:coord_resort_156 a ski:Coordinate ;
+    ski:latitude "46.9785227"^^xsd:float ;
+    ski:longitude "11.9808023"^^xsd:float .
+
+res:resort_157 a ski:SkiResort ;
+    ski:name "Rein in Taufers - Riva di Tures" ;
+    ski:osmId "542210742" ;
+    ski:website <https://www.ahrntal.com/de/winterurlaub-im-ahrntal/skigebiete/skigebiet-rein-in-taufers.html> ;
+    ski:hasCoordinates res:coord_resort_157 .
+
+res:coord_resort_157 a ski:Coordinate ;
+    ski:latitude "46.9509944"^^xsd:float ;
+    ski:longitude "12.0622801"^^xsd:float .
+
+res:resort_158 a ski:SkiResort ;
+    ski:name "Speikboden" ;
+    ski:osmId "542210743" ;
+    ski:website <https://www.skiworldahrntal.it/> ;
+    ski:hasCoordinates res:coord_resort_158 .
+
+res:coord_resort_158 a ski:Coordinate ;
+    ski:latitude "46.9344366"^^xsd:float ;
+    ski:longitude "11.8991929"^^xsd:float .
+
+res:resort_159 a ski:SkiResort ;
+    ski:name "Latemar Dolomites" ;
+    ski:osmId "542223677" ;
+    ski:website <https://www.latemar.it/> ;
+    ski:hasCoordinates res:coord_resort_159 .
+
+res:coord_resort_159 a ski:Coordinate ;
+    ski:latitude "46.3554644"^^xsd:float ;
+    ski:longitude "11.5613374"^^xsd:float .
+
+res:resort_160 a ski:SkiResort ;
+    ski:name "Ski Area San Pellegrino - Falcade" ;
+    ski:osmId "542227211" ;
+    ski:website <https://www.skiareasanpellegrino.it/> ;
+    ski:hasCoordinates res:coord_resort_160 .
+
+res:coord_resort_160 a ski:Coordinate ;
+    ski:latitude "46.3672341"^^xsd:float ;
+    ski:longitude "11.8190574"^^xsd:float .
+
+res:resort_161 a ski:SkiResort ;
+    ski:name "Ski Area Alpe Lusia" ;
+    ski:osmId "542227215" ;
+    ski:website <http://www.skiareaalpelusia.it/> ;
+    ski:hasCoordinates res:coord_resort_161 .
+
+res:coord_resort_161 a ski:Coordinate ;
+    ski:latitude "46.3402097"^^xsd:float ;
+    ski:longitude "11.7018127"^^xsd:float .
+
+res:resort_162 a ski:SkiResort ;
+    ski:name "Passo Rolle" ;
+    ski:osmId "542230189" ;
+    ski:website <https://www.sanmartino.com> ;
+    ski:hasCoordinates res:coord_resort_162 .
+
+res:coord_resort_162 a ski:Coordinate ;
+    ski:latitude "46.295935"^^xsd:float ;
+    ski:longitude "11.7882335"^^xsd:float .
+
+res:resort_163 a ski:SkiResort ;
+    ski:name "San Martino di Castrozza" ;
+    ski:osmId "542230191" ;
+    ski:website <https://www.sanmartino.com> ;
+    ski:hasCoordinates res:coord_resort_163 .
+
+res:coord_resort_163 a ski:Coordinate ;
+    ski:latitude "46.254003"^^xsd:float ;
+    ski:longitude "11.7924392"^^xsd:float .
+
+res:resort_164 a ski:SkiResort ;
+    ski:name "Passo Stelvio" ;
+    ski:osmId "542233365" ;
+    ski:website <https://passostelvio.eu/> ;
+    ski:hasCoordinates res:coord_resort_164 .
+
+res:coord_resort_164 a ski:Coordinate ;
+    ski:latitude "46.5120357"^^xsd:float ;
+    ski:longitude "10.4629111"^^xsd:float .
+
+res:resort_165 a ski:SkiResort ;
+    ski:name "Pejo 3000" ;
+    ski:osmId "542233865" ;
+    ski:website <https://www.skipejo.it/> ;
+    ski:hasCoordinates res:coord_resort_165 .
+
+res:coord_resort_165 a ski:Coordinate ;
+    ski:latitude "46.37207"^^xsd:float ;
+    ski:longitude "10.6509876"^^xsd:float .
+
+res:resort_166 a ski:SkiResort ;
+    ski:name "Trafoi" ;
+    ski:osmId "542234274" ;
+    ski:website <https://www.ortlerskiarena.com/de/skigebiete/vinschgau/trafoi-am-ortler.html> ;
+    ski:hasCoordinates res:coord_resort_166 .
+
+res:coord_resort_166 a ski:Coordinate ;
+    ski:latitude "46.5637647"^^xsd:float ;
+    ski:longitude "10.5034446"^^xsd:float .
+
+res:resort_167 a ski:SkiResort ;
+    ski:name "Sulden am Ortler - Solda al Ortles" ;
+    ski:osmId "542234714" ;
+    ski:website <https://www.seilbahnensulden.it/> ;
+    ski:hasCoordinates res:coord_resort_167 .
+
+res:coord_resort_167 a ski:Coordinate ;
+    ski:latitude "46.5073974"^^xsd:float ;
+    ski:longitude "10.5989742"^^xsd:float .
+
+res:resort_168 a ski:SkiResort ;
+    ski:name "Ponte di Legno - Passo Tonale" ;
+    ski:osmId "542235880" ;
+    ski:website <https://www.pontedilegnotonale.com/> ;
+    ski:hasCoordinates res:coord_resort_168 .
+
+res:coord_resort_168 a ski:Coordinate ;
+    ski:latitude "46.2559682"^^xsd:float ;
+    ski:longitude "10.5310392"^^xsd:float .
+
+res:resort_169 a ski:SkiResort ;
+    ski:name "Alpe Cermis" ;
+    ski:osmId "542238137" ;
+    ski:website <https://www.alpecermis.it/> ;
+    ski:hasCoordinates res:coord_resort_169 .
+
+res:coord_resort_169 a ski:Coordinate ;
+    ski:latitude "46.2602172"^^xsd:float ;
+    ski:longitude "11.4846396"^^xsd:float .
+
+res:resort_170 a ski:SkiResort ;
+    ski:name "Val Senales-Schnalstal" ;
+    ski:osmId "542239467" ;
+    ski:website <https://www.schnalstal.com/> ;
+    ski:hasCoordinates res:coord_resort_170 .
+
+res:coord_resort_170 a ski:Coordinate ;
+    ski:latitude "46.7718163"^^xsd:float ;
+    ski:longitude "10.7867288"^^xsd:float .
+
+res:resort_171 a ski:SkiResort ;
+    ski:name "Pista 1 (SX)" ;
+    ski:osmId "560769473" ;
+    ski:hasCoordinates res:coord_resort_171 .
+
+res:coord_resort_171 a ski:Coordinate ;
+    ski:latitude "46.0287772"^^xsd:float ;
+    ski:longitude "10.7322897"^^xsd:float .
+
+res:resort_172 a ski:SkiResort ;
+    ski:name "Pista 2 (DX)" ;
+    ski:osmId "560769474" ;
+    ski:hasCoordinates res:coord_resort_172 .
+
+res:coord_resort_172 a ski:Coordinate ;
+    ski:latitude "46.0278874"^^xsd:float ;
+    ski:longitude "10.733372"^^xsd:float .
+
+res:resort_173 a ski:SkiResort ;
+    ski:name "1" ;
+    ski:osmId "567920635" ;
+    ski:hasCoordinates res:coord_resort_173 .
+
+res:coord_resort_173 a ski:Coordinate ;
+    ski:latitude "46.8463769"^^xsd:float ;
+    ski:longitude "11.6307535"^^xsd:float .
+
+res:resort_174 a ski:SkiResort ;
+    ski:name "Kaunertaler Gletscher" ;
+    ski:osmId "601130440" ;
+    ski:website <https://www.kaunertaler-gletscher.at> ;
+    ski:hasCoordinates res:coord_resort_174 .
+
+res:coord_resort_174 a ski:Coordinate ;
+    ski:latitude "46.8680603"^^xsd:float ;
+    ski:longitude "10.7063634"^^xsd:float .
+
+res:resort_175 a ski:SkiResort ;
+    ski:name "21" ;
+    ski:osmId "642554159" ;
+    ski:hasCoordinates res:coord_resort_175 .
+
+res:coord_resort_175 a ski:Coordinate ;
+    ski:latitude "46.8475427"^^xsd:float ;
+    ski:longitude "11.6791525"^^xsd:float .
+
+res:resort_176 a ski:SkiResort ;
+    ski:name "Schöneben - Belpiano" ;
+    ski:osmId "653944640" ;
+    ski:website <https://www.schoeneben.it> ;
+    ski:hasCoordinates res:coord_resort_176 .
+
+res:coord_resort_176 a ski:Coordinate ;
+    ski:latitude "46.794364"^^xsd:float ;
+    ski:longitude "10.503946"^^xsd:float .
+
+res:resort_177 a ski:SkiResort ;
+    ski:name "Lupetto" ;
+    ski:osmId "660266697" ;
+    ski:hasCoordinates res:coord_resort_177 .
+
+res:coord_resort_177 a ski:Coordinate ;
+    ski:latitude "46.1443338"^^xsd:float ;
+    ski:longitude "11.0061118"^^xsd:float .
+
+res:resort_178 a ski:SkiResort ;
+    ski:name "Rosskopf" ;
+    ski:osmId "665201245" ;
+    ski:website <https://www.rosskopf.com/> ;
+    ski:hasCoordinates res:coord_resort_178 .
+
+res:coord_resort_178 a ski:Coordinate ;
+    ski:latitude "46.9071973"^^xsd:float ;
+    ski:longitude "11.4077514"^^xsd:float .
+
+res:resort_179 a ski:SkiResort ;
+    ski:name "Jöchl" ;
+    ski:osmId "674403594" ;
+    ski:hasCoordinates res:coord_resort_179 .
+
+res:coord_resort_179 a ski:Coordinate ;
+    ski:latitude "46.8457605"^^xsd:float ;
+    ski:longitude "11.6018099"^^xsd:float .
+
+res:resort_180 a ski:SkiResort ;
+    ski:name "30 Tschein" ;
+    ski:osmId "768717600" ;
+    ski:hasCoordinates res:coord_resort_180 .
+
+res:coord_resort_180 a ski:Coordinate ;
+    ski:latitude "46.4378195"^^xsd:float ;
+    ski:longitude "11.5986304"^^xsd:float .
+
+res:resort_181 a ski:SkiResort ;
+    ski:name "Diretta Prà Alpesina" ;
+    ski:osmId "771293224" ;
+    ski:hasCoordinates res:coord_resort_181 .
+
+res:coord_resort_181 a ski:Coordinate ;
+    ski:latitude "45.7611833"^^xsd:float ;
+    ski:longitude "10.8738532"^^xsd:float .
+
+res:resort_182 a ski:SkiResort ;
+    ski:name "Gaisraste" ;
+    ski:osmId "849532245" ;
+    ski:hasCoordinates res:coord_resort_182 .
+
+res:coord_resort_182 a ski:Coordinate ;
+    ski:latitude "46.8399602"^^xsd:float ;
+    ski:longitude "11.6776487"^^xsd:float .
+
+res:resort_183 a ski:SkiResort ;
+    ski:name "Panorama" ;
+    ski:osmId "874580171" ;
+    ski:hasCoordinates res:coord_resort_183 .
+
+res:coord_resort_183 a ski:Coordinate ;
+    ski:latitude "46.8359446"^^xsd:float ;
+    ski:longitude "11.595272"^^xsd:float .
+
+res:resort_184 a ski:SkiResort ;
+    ski:name "Gimmy Fun Ride" ;
+    ski:osmId "874580172" ;
+    ski:hasCoordinates res:coord_resort_184 .
+
+res:coord_resort_184 a ski:Coordinate ;
+    ski:latitude "46.8395675"^^xsd:float ;
+    ski:longitude "11.5936808"^^xsd:float .
+
+res:resort_185 a ski:SkiResort ;
+    ski:name "Terenten - Terento" ;
+    ski:osmId "909762715" ;
+    ski:website <https://skilift-terenten.com/> ;
+    ski:hasCoordinates res:coord_resort_185 .
+
+res:coord_resort_185 a ski:Coordinate ;
+    ski:latitude "46.8339894"^^xsd:float ;
+    ski:longitude "11.7806107"^^xsd:float .
+
+res:resort_186 a ski:SkiResort ;
+    ski:name "Antermoia" ;
+    ski:osmId "909762716" ;
+    ski:hasCoordinates res:coord_resort_186 .
+
+res:coord_resort_186 a ski:Coordinate ;
+    ski:latitude "46.6901544"^^xsd:float ;
+    ski:longitude "11.8457347"^^xsd:float .
+
+res:resort_187 a ski:SkiResort ;
+    ski:name "Jochgrimm" ;
+    ski:osmId "1030872814" ;
+    ski:website <https://jochgrimm.com> ;
+    ski:hasCoordinates res:coord_resort_187 .
+
+res:coord_resort_187 a ski:Coordinate ;
+    ski:latitude "46.3452135"^^xsd:float ;
+    ski:longitude "11.4466223"^^xsd:float .
+
+res:resort_188 a ski:SkiResort ;
+    ski:name "Petersberg - Monte San Pietro" ;
+    ski:osmId "1033549864" ;
+    ski:hasCoordinates res:coord_resort_188 .
+
+res:coord_resort_188 a ski:Coordinate ;
+    ski:latitude "46.3932159"^^xsd:float ;
+    ski:longitude "11.3882263"^^xsd:float .
+
+res:resort_189 a ski:SkiResort ;
+    ski:name "Deutschnofen - Nova Ponente" ;
+    ski:osmId "1033549865" ;
+    ski:hasCoordinates res:coord_resort_189 .
+
+res:coord_resort_189 a ski:Coordinate ;
+    ski:latitude "46.4036642"^^xsd:float ;
+    ski:longitude "11.442486"^^xsd:float .
+
+res:resort_190 a ski:SkiResort ;
+    ski:name "Passo Lavazè" ;
+    ski:osmId "1033549866" ;
+    ski:website <https://www.visitfiemme.it/en/more-info/fiemme/all-fiemme/Snowpark-Malga-Varena_isd_91340> ;
+    ski:hasCoordinates res:coord_resort_190 .
+
+res:coord_resort_190 a ski:Coordinate ;
+    ski:latitude "46.3547727"^^xsd:float ;
+    ski:longitude "11.4857393"^^xsd:float .
+
+res:resort_191 a ski:SkiResort ;
+    ski:name "Prack" ;
+    ski:osmId "1134821369" ;
+    ski:hasCoordinates res:coord_resort_191 .
+
+res:coord_resort_191 a ski:Coordinate ;
+    ski:latitude "45.9536161"^^xsd:float ;
+    ski:longitude "11.2825081"^^xsd:float .
+
+res:resort_192 a ski:SkiResort ;
+    ski:name "Watles - Vatles" ;
+    ski:osmId "1227175926" ;
+    ski:hasCoordinates res:coord_resort_192 .
+
+res:coord_resort_192 a ski:Coordinate ;
+    ski:latitude "46.7115512"^^xsd:float ;
+    ski:longitude "10.4968326"^^xsd:float .
+
+res:resort_193 a ski:SkiResort ;
+    ski:name "Lavaman Variante" ;
+    ski:osmId "1265512171" ;
+    ski:hasCoordinates res:coord_resort_193 .
+
+res:coord_resort_193 a ski:Coordinate ;
+    ski:latitude "46.0412068"^^xsd:float ;
+    ski:longitude "11.0688294"^^xsd:float .
+
+res:resort_194 a ski:SkiResort ;
+    ski:name "Canalon" ;
+    ski:osmId "1265512172" ;
+    ski:hasCoordinates res:coord_resort_194 .
+
+res:coord_resort_194 a ski:Coordinate ;
+    ski:latitude "46.0330527"^^xsd:float ;
+    ski:longitude "11.0576442"^^xsd:float .
+
+res:resort_195 a ski:SkiResort ;
+    ski:name "Free Ride Palon Direttissima" ;
+    ski:osmId "1265514688" ;
+    ski:hasCoordinates res:coord_resort_195 .
+
+res:coord_resort_195 a ski:Coordinate ;
+    ski:latitude "46.0284765"^^xsd:float ;
+    ski:longitude "11.057968"^^xsd:float .
+
+res:resort_196 a ski:SkiResort ;
+    ski:name "Canalon - Gran Pista" ;
+    ski:osmId "1265514689" ;
+    ski:hasCoordinates res:coord_resort_196 .
+
+res:coord_resort_196 a ski:Coordinate ;
+    ski:latitude "46.0298219"^^xsd:float ;
+    ski:longitude "11.0546177"^^xsd:float .
+
+res:resort_197 a ski:SkiResort ;
+    ski:name "Free Ride Gran Pista" ;
+    ski:osmId "1265514690" ;
+    ski:hasCoordinates res:coord_resort_197 .
+
+res:coord_resort_197 a ski:Coordinate ;
+    ski:latitude "46.0283289"^^xsd:float ;
+    ski:longitude "11.0542384"^^xsd:float .
+
+res:resort_198 a ski:SkiResort ;
+    ski:name "Ratschings-Jaufen" ;
+    ski:osmId "1320343678" ;
+    ski:website <https://www.ratschings-jaufen.it> ;
+    ski:hasCoordinates res:coord_resort_198 .
+
+res:coord_resort_198 a ski:Coordinate ;
+    ski:latitude "46.852187"^^xsd:float ;
+    ski:longitude "11.3049101"^^xsd:float .
+
+res:resort_199 a ski:SkiResort ;
+    ski:name "Reinswald" ;
+    ski:osmId "1375566444" ;
+    ski:hasCoordinates res:coord_resort_199 .
+
+res:coord_resort_199 a ski:Coordinate ;
+    ski:latitude "46.6961681"^^xsd:float ;
+    ski:longitude "11.4386719"^^xsd:float .
+
+res:resort_200 a ski:SkiResort ;
+    ski:name "Meran 2000" ;
+    ski:osmId "1375567505" ;
+    ski:website <https://www.meran2000.com> ;
+    ski:hasCoordinates res:coord_resort_200 .
+
+res:coord_resort_200 a ski:Coordinate ;
+    ski:latitude "46.6796806"^^xsd:float ;
+    ski:longitude "11.268108"^^xsd:float .
+
+res:resort_201 a ski:SkiResort ;
+    ski:name "Pfelders Ski Resort" ;
+    ski:osmId "1429929063" ;
+    ski:hasCoordinates res:coord_resort_201 .
+
+res:coord_resort_201 a ski:Coordinate ;
+    ski:latitude "46.788493"^^xsd:float ;
+    ski:longitude "11.0919823"^^xsd:float .
+
+res:resort_202 a ski:SkiResort ;
+    ski:name "Schwemmalm" ;
+    ski:osmId "1467038340" ;
+    ski:phone "+39 0473 795390" ;
+    ski:website <https://www.merano-suedtirol.it/it/schwemmalm.html> ;
+    ski:hasCoordinates res:coord_resort_202 .
+
+res:coord_resort_202 a ski:Coordinate ;
+    ski:latitude "46.53696"^^xsd:float ;
+    ski:longitude "10.9298507"^^xsd:float .
+
+res:resort_203 a ski:SkiResort ;
+    ski:name "Lavaman variante gare" ;
+    ski:osmId "1476499396" ;
+    ski:hasCoordinates res:coord_resort_203 .
+
+res:coord_resort_203 a ski:Coordinate ;
+    ski:latitude "46.0415148"^^xsd:float ;
+    ski:longitude "11.0670503"^^xsd:float .
+
+res:resort_204 a ski:SkiResort ;
+    ski:name "Vesan Primi Passi" ;
+    ski:osmId "1482455856" ;
+    ski:hasCoordinates res:coord_resort_204 .
+
+res:coord_resort_204 a ski:Coordinate ;
+    ski:latitude "45.9551414"^^xsd:float ;
+    ski:longitude "11.3294963"^^xsd:float .
+
+res:resort_205 a ski:SkiResort ;
+    ski:name "Val di Fassa" ;
+    ski:osmId "6989110" ;
+    ski:website <https://www.fassa.com/> ;
+    ski:hasCoordinates res:coord_resort_205 .
+
+res:coord_resort_205 a ski:Coordinate ;
+    ski:latitude "46.4608631"^^xsd:float ;
+    ski:longitude "11.7360054"^^xsd:float .
+
+res:resort_206 a ski:SkiResort ;
+    ski:name "Cortina d'Ampezzo" ;
+    ski:osmId "6990942" ;
+    ski:website <http://www.cortinadolomiti.eu/> ;
+    ski:hasCoordinates res:coord_resort_206 .
+
+res:coord_resort_206 a ski:Coordinate ;
+    ski:latitude "46.5274934"^^xsd:float ;
+    ski:longitude "12.194493"^^xsd:float .
+
+res:resort_207 a ski:SkiResort ;
+    ski:name "Alpe Cimbra" ;
+    ski:osmId "7736385" ;
+    ski:website <https://www.alpecimbra.it/de/skigebiet-alpe-cimbra/lavarone-folgaria-skigebiet/46-0.html> ;
+    ski:hasCoordinates res:coord_resort_207 .
+
+res:coord_resort_207 a ski:Coordinate ;
+    ski:latitude "45.9169809"^^xsd:float ;
+    ski:longitude "11.2438735"^^xsd:float .
+
+res:resort_208 a ski:SkiResort ;
+    ski:name "Drei Zinnen - Tre Cime" ;
+    ski:osmId "7751878" ;
+    ski:website <https://www.drei-zinnen.info> ;
+    ski:hasCoordinates res:coord_resort_208 .
+
+res:coord_resort_208 a ski:Coordinate ;
+    ski:latitude "46.6666429"^^xsd:float ;
+    ski:longitude "12.319217"^^xsd:float .
+
+res:resort_209 a ski:SkiResort ;
+    ski:name "Klausberg Skiarena" ;
+    ski:osmId "7751891" ;
+    ski:website <https://www.kronplatz.com/de/klausberg> ;
+    ski:hasCoordinates res:coord_resort_209 .
+
+res:coord_resort_209 a ski:Coordinate ;
+    ski:latitude "46.9544897"^^xsd:float ;
+    ski:longitude "11.9630509"^^xsd:float .
+
+res:resort_210 a ski:SkiResort ;
+    ski:name "San Martino di Castrozza - Passo Rolle" ;
+    ski:osmId "7752047" ;
+    ski:website <https://www.sanmartino.com/> ;
+    ski:hasCoordinates res:coord_resort_210 .
+
+res:coord_resort_210 a ski:Coordinate ;
+    ski:latitude "46.2689268"^^xsd:float ;
+    ski:longitude "11.7924392"^^xsd:float .
+
+res:resort_211 a ski:SkiResort ;
+    ski:name "Sellaronda" ;
+    ski:osmId "10727394" ;
+    ski:hasCoordinates res:coord_resort_211 .
+
+res:coord_resort_211 a ski:Coordinate ;
+    ski:latitude "46.5359968"^^xsd:float ;
+    ski:longitude "11.8257514"^^xsd:float .
+
+res:resort_212 a ski:SkiResort ;
+    ski:name "Arabba" ;
+    ski:osmId "10732925" ;
+    ski:website <http://www.arabba.it> ;
+    ski:hasCoordinates res:coord_resort_212 .
+
+res:coord_resort_212 a ski:Coordinate ;
+    ski:latitude "46.4914216"^^xsd:float ;
+    ski:longitude "11.8559908"^^xsd:float .
+
+res:resort_213 a ski:SkiResort ;
+    ski:name "Val Gardena" ;
+    ski:osmId "10732928" ;
+    ski:website <https://www.valgardena.it/> ;
+    ski:hasCoordinates res:coord_resort_213 .
+
+res:coord_resort_213 a ski:Coordinate ;
+    ski:latitude "46.5534368"^^xsd:float ;
+    ski:longitude "11.7393946"^^xsd:float .
+
+res:resort_214 a ski:SkiResort ;
+    ski:name "Alta Badia" ;
+    ski:osmId "12342024" ;
+    ski:website <https://www.altabadia.org/> ;
+    ski:hasCoordinates res:coord_resort_214 .
+
+res:coord_resort_214 a ski:Coordinate ;
+    ski:latitude "46.5649739"^^xsd:float ;
+    ski:longitude "11.8921295"^^xsd:float .
+
+res:resort_215 a ski:SkiResort ;
+    ski:name "Gsieser Tal" ;
+    ski:osmId "12350096" ;
+    ski:hasCoordinates res:coord_resort_215 .
+
+res:coord_resort_215 a ski:Coordinate ;
+    ski:latitude "46.808349"^^xsd:float ;
+    ski:longitude "12.1757009"^^xsd:float .
+
+res:resort_216 a ski:SkiResort ;
+    ski:name "Lagazuoi - 5 Torri" ;
+    ski:osmId "13798380" ;
+    ski:website <https://cortinadelicious.it/> ;
+    ski:hasCoordinates res:coord_resort_216 .
+
+res:coord_resort_216 a ski:Coordinate ;
+    ski:latitude "46.523667"^^xsd:float ;
+    ski:longitude "12.019334"^^xsd:float .
+
+res:resort_217 a ski:SkiResort ;
+    ski:name "Marmolada" ;
+    ski:osmId "13798381" ;
+    ski:website <https://www.visitmarmolada.com/> ;
+    ski:hasCoordinates res:coord_resort_217 .
+
+res:coord_resort_217 a ski:Coordinate ;
+    ski:latitude "46.4431296"^^xsd:float ;
+    ski:longitude "11.8872159"^^xsd:float .
+
+res:resort_218 a ski:SkiResort ;
+    ski:name "Dolomiti Superski" ;
+    ski:osmId "13798382" ;
+    ski:website <https://www.dolomitisuperski.com> ;
+    ski:hasCoordinates res:coord_resort_218 .
+
+res:coord_resort_218 a ski:Coordinate ;
+    ski:latitude "46.5463282"^^xsd:float ;
+    ski:longitude "11.9321166"^^xsd:float .
+
+res:resort_219 a ski:SkiResort ;
+    ski:name "Belvedere - Col Rodella - Passo Pordoi" ;
+    ski:osmId "13830109" ;
+    ski:website <https://www.valdifassalift.it/> ;
+    ski:hasCoordinates res:coord_resort_219 .
+
+res:coord_resort_219 a ski:Coordinate ;
+    ski:latitude "46.4820427"^^xsd:float ;
+    ski:longitude "11.7838504"^^xsd:float .
+
+res:resort_220 a ski:SkiResort ;
+    ski:name "Buffaure - Ciampac" ;
+    ski:osmId "13830110" ;
+    ski:hasCoordinates res:coord_resort_220 .
+
+res:coord_resort_220 a ski:Coordinate ;
+    ski:latitude "46.4365626"^^xsd:float ;
+    ski:longitude "11.7399994"^^xsd:float .
+
+res:resort_221 a ski:SkiResort ;
+    ski:name "Val Comelico - Padola" ;
+    ski:osmId "15532831" ;
+    ski:website <https://www.valcomelicodolomiti.it/en/ski-area-val-comelico.htm> ;
+    ski:hasCoordinates res:coord_resort_221 .
+
+res:coord_resort_221 a ski:Coordinate ;
+    ski:latitude "46.6296804"^^xsd:float ;
+    ski:longitude "12.4443055"^^xsd:float .
+
+res:resort_222 a ski:SkiResort ;
+    ski:name "Pradis_ci" ;
+    ski:osmId "15830969" ;
+    ski:website <http://www.winterparkpradis-ci.it/> ;
+    ski:hasCoordinates res:coord_resort_222 .
+
+res:coord_resort_222 a ski:Coordinate ;
+    ski:latitude "46.1545677"^^xsd:float ;
+    ski:longitude "11.2898289"^^xsd:float .
+

@@ -1,0 +1,17 @@
+id,osmId,osm_type,name,shop_type,phone,website,addr_city,addr_street,addr_postcode,latitude,longitude
+1,1104358447,node,Sportrent Speikboden,ski,,,,,,46.9328746,11.9377795
+2,1230713862,node,Noleggio sci Sport Center Ski,ski,,http://www.noleggioscivaldifassa.it,Pozza di Fassa,Strada de Meida,38036,46.4294651,11.6937257
+3,5316633023,node,albl,ski,+39 333 1704059,,,,,46.5138375,10.9338183
+4,5814793989,node,Skicenter St. Johann,ski,,,,,,46.9674173,11.9250306
+5,6289187970,node,,ski,,,,,,46.9333735,11.9364215
+6,6466815112,node,Ski School S. Cristina,ski_rental,,,,,,46.5569714,11.7258401
+7,7047951560,node,Ski School & Rental Ortisei,ski_rental,,,,,,46.5765605,11.6748659
+8,7282829983,node,Skiverleih Gufler,ski,,,,,,46.7971203,11.0921511
+9,7704856850,node,Maciaconi,ski_rental,,,,,,46.5583359,11.7284331
+10,8794311016,node,Outdoor Center Rosskopf,ski_rental,,,,,,46.9126212,11.3973771
+11,9196392368,node,Sportservice Erwin Stricker,ski_rental,,,,,,46.6776077,11.737507
+12,11476648880,node,,ski,,https://www.fiemme.ski/,,,,46.3466337,11.4529849
+13,12741878683,node,Sport Thöni,ski,+39 0473 613080,https://www.sportthoeni.com,,,,46.5199054,10.5962964
+14,59275902,way,Northland Ski Shop,ski,,,,Via Del Piz,38032,46.4737401,11.7737888
+15,88060148,way,Noleggio del Brenta,ski,,,Madonna di Campiglio,Via Cima Tosa,38084,46.2335288,10.8238363
+16,252275752,way,,ski,,,,,,46.9043031,11.3111626

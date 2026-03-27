@@ -1,0 +1,172 @@
+@prefix ski: <http://skiresorts-trentino.2026.kg/ontology#> .
+@prefix res: <http://skiresorts-trentino.2026.kg/resource/> .
+@prefix schema: <http://schema.org/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+res:rental_1 a ski:RentalShop ;
+    ski:name "Sportrent Speikboden" ;
+    ski:osmId "1104358447" ;
+    ski:nearResort res:resort_Speikboden ;
+    ski:hasCoordinates res:coord_rental_1 .
+
+res:coord_rental_1 a ski:Coordinate ;
+    ski:latitude "46.9328746"^^xsd:float ;
+    ski:longitude "11.9377795"^^xsd:float .
+
+res:rental_2 a ski:RentalShop ;
+    ski:name "Noleggio sci Sport Center Ski" ;
+    ski:osmId "1230713862" ;
+    ski:website <http://www.noleggioscivaldifassa.it> ;
+    ski:locatedIn res:municipality_Pozza_di_Fassa ;
+    ski:nearResort res:resort_Vigo_di_Fassa_-_Ciampedie ;
+    ski:hasCoordinates res:coord_rental_2 .
+
+res:coord_rental_2 a ski:Coordinate ;
+    ski:latitude "46.4294651"^^xsd:float ;
+    ski:longitude "11.6937257"^^xsd:float .
+
+res:rental_3 a ski:RentalShop ;
+    ski:name "albl" ;
+    ski:osmId "5316633023" ;
+    ski:phone "+39 333 1704059" ;
+    ski:nearResort res:resort_albl ;
+    ski:hasCoordinates res:coord_rental_3 .
+
+res:coord_rental_3 a ski:Coordinate ;
+    ski:latitude "46.5138375"^^xsd:float ;
+    ski:longitude "10.9338183"^^xsd:float .
+
+res:rental_4 a ski:RentalShop ;
+    ski:name "Skicenter St. Johann" ;
+    ski:osmId "5814793989" ;
+    ski:nearResort res:resort_Klausberg_Skiarena ;
+    ski:hasCoordinates res:coord_rental_4 .
+
+res:coord_rental_4 a ski:Coordinate ;
+    ski:latitude "46.9674173"^^xsd:float ;
+    ski:longitude "11.9250306"^^xsd:float .
+
+res:rental_5 a ski:RentalShop ;
+    ski:osmId "6289187970" ;
+    ski:nearResort res:resort_Speikboden ;
+    ski:hasCoordinates res:coord_rental_5 .
+
+res:coord_rental_5 a ski:Coordinate ;
+    ski:latitude "46.9333735"^^xsd:float ;
+    ski:longitude "11.9364215"^^xsd:float .
+
+res:rental_6 a ski:RentalShop ;
+    ski:name "Ski School S. Cristina" ;
+    ski:osmId "6466815112" ;
+    ski:nearResort res:resort_Val_Gardena ;
+    ski:hasCoordinates res:coord_rental_6 .
+
+res:coord_rental_6 a ski:Coordinate ;
+    ski:latitude "46.5569714"^^xsd:float ;
+    ski:longitude "11.7258401"^^xsd:float .
+
+res:rental_7 a ski:RentalShop ;
+    ski:name "Ski School & Rental Ortisei" ;
+    ski:osmId "7047951560" ;
+    ski:nearResort res:resort_Loipe_Panider_Sattel_-_Pista_Passo_Pinei ;
+    ski:hasCoordinates res:coord_rental_7 .
+
+res:coord_rental_7 a ski:Coordinate ;
+    ski:latitude "46.5765605"^^xsd:float ;
+    ski:longitude "11.6748659"^^xsd:float .
+
+res:rental_8 a ski:RentalShop ;
+    ski:name "Skiverleih Gufler" ;
+    ski:osmId "7282829983" ;
+    ski:nearResort res:resort_Pfelders_Ski_Resort ;
+    ski:hasCoordinates res:coord_rental_8 .
+
+res:coord_rental_8 a ski:Coordinate ;
+    ski:latitude "46.7971203"^^xsd:float ;
+    ski:longitude "11.0921511"^^xsd:float .
+
+res:rental_9 a ski:RentalShop ;
+    ski:name "Maciaconi" ;
+    ski:osmId "7704856850" ;
+    ski:nearResort res:resort_Val_Gardena ;
+    ski:hasCoordinates res:coord_rental_9 .
+
+res:coord_rental_9 a ski:Coordinate ;
+    ski:latitude "46.5583359"^^xsd:float ;
+    ski:longitude "11.7284331"^^xsd:float .
+
+res:rental_10 a ski:RentalShop ;
+    ski:name "Outdoor Center Rosskopf" ;
+    ski:osmId "8794311016" ;
+    ski:nearResort res:resort_Rosskopf ;
+    ski:hasCoordinates res:coord_rental_10 .
+
+res:coord_rental_10 a ski:Coordinate ;
+    ski:latitude "46.9126212"^^xsd:float ;
+    ski:longitude "11.3973771"^^xsd:float .
+
+res:rental_11 a ski:RentalShop ;
+    ski:name "Sportservice Erwin Stricker" ;
+    ski:osmId "9196392368" ;
+    ski:nearResort res:resort_Brixen_Plose_-_Plose_di_Bressanone ;
+    ski:hasCoordinates res:coord_rental_11 .
+
+res:coord_rental_11 a ski:Coordinate ;
+    ski:latitude "46.6776077"^^xsd:float ;
+    ski:longitude "11.737507"^^xsd:float .
+
+res:rental_12 a ski:RentalShop ;
+    ski:osmId "11476648880" ;
+    ski:website <https://www.fiemme.ski/> ;
+    ski:nearResort res:resort_Jochgrimm ;
+    ski:hasCoordinates res:coord_rental_12 .
+
+res:coord_rental_12 a ski:Coordinate ;
+    ski:latitude "46.3466337"^^xsd:float ;
+    ski:longitude "11.4529849"^^xsd:float .
+
+res:rental_13 a ski:RentalShop ;
+    ski:name "Sport Thöni" ;
+    ski:osmId "12741878683" ;
+    ski:phone "+39 0473 613080" ;
+    ski:website <https://www.sportthoeni.com> ;
+    ski:nearResort res:resort_Sport_Th_ni ;
+    ski:hasCoordinates res:coord_rental_13 .
+
+res:coord_rental_13 a ski:Coordinate ;
+    ski:latitude "46.5199054"^^xsd:float ;
+    ski:longitude "10.5962964"^^xsd:float .
+
+res:rental_14 a ski:RentalShop ;
+    ski:name "Northland Ski Shop" ;
+    ski:osmId "59275902" ;
+    ski:nearResort res:resort_Belvedere_-_Col_Rodella_-_Passo_Pordoi ;
+    ski:hasCoordinates res:coord_rental_14 .
+
+res:coord_rental_14 a ski:Coordinate ;
+    ski:latitude "46.4737401"^^xsd:float ;
+    ski:longitude "11.7737888"^^xsd:float .
+
+res:rental_15 a ski:RentalShop ;
+    ski:name "Noleggio del Brenta" ;
+    ski:osmId "88060148" ;
+    ski:locatedIn res:municipality_Madonna_di_Campiglio ;
+    ski:nearResort res:resort_Campiglio_Dolomiti_di_Brenta ;
+    ski:hasCoordinates res:coord_rental_15 .
+
+res:coord_rental_15 a ski:Coordinate ;
+    ski:latitude "46.2335288"^^xsd:float ;
+    ski:longitude "10.8238363"^^xsd:float .
+
+res:rental_16 a ski:RentalShop ;
+    ski:osmId "252275752" ;
+    ski:nearResort res:resort_Blosegg ;
+    ski:hasCoordinates res:coord_rental_16 .
+
+res:coord_rental_16 a ski:Coordinate ;
+    ski:latitude "46.9043031"^^xsd:float ;
+    ski:longitude "11.3111626"^^xsd:float .
+

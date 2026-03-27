@@ -1,0 +1,82 @@
+\section{Information Gathering}
+
+This section reports the execution of the activities involved in the Information Gathering phase, organized along the producer and consumer processes operating over knowledge and data layers.
+
+\subsection{Producer Activities}
+
+\subsubsection{Knowledge Layer}
+
+The following knowledge sources were identified and collected:
+
+\begin{table}[h!]
+\centering
+\small
+\begin{tabular}{|l|l|p{5.5cm}|l|}
+\hline
+\textbf{Source} & \textbf{Type} & \textbf{Description} & \textbf{Classification} \\
+\hline
+Schema.org SkiResort & Schema & Formal schema for ski resort entities & Common \\
+Schema.org LodgingBusiness & Schema & Schema for hotel/accommodation & Common \\
+Schema.org FoodEstablishment & Schema & Schema for restaurant entities & Common \\
+OSM Piste Schema & Schema & Tags for piste:type, piste:difficulty & Contextual \\
+OSM Aerialway Schema & Schema & Tags for aerialway types & Contextual \\
+Geospatial Ontology & Ontology & Geographic coordinate modeling & Common \\
+\hline
+\end{tabular}
+\caption{Knowledge layer sources.}
+\end{table}
+
+\subsubsection{Data Layer}
+
+All data was collected from \textbf{OpenStreetMap (OSM)} via the \textbf{Overpass Turbo API} (overpass-turbo.eu). Overpass Turbo is a web-based tool for interactively querying and visualizing data from OSM, allowing custom location-based queries to extract specific types of geospatial data. The OSM ID (\texttt{osmId}) was preserved in all entity types for reusability and cross-referencing.\\
+
+\noindent Six datasets were collected:
+
+\begin{enumerate}
+    \item \textbf{Ski Slopes} (2,792 records): Downhill pistes queried via \texttt{piste:type=downhill}. Key attributes: name, difficulty, resort reference, coordinates. Classification: Contextual.
+
+    \item \textbf{Ski Lifts} (5,677 records): Aerial lift systems queried via \texttt{aerialway}. Includes chair lifts, gondolas, cable cars, drag lifts. Key attributes: name, type, capacity, coordinates. Classification: Contextual.
+
+    \item \textbf{Ski Resorts} (295 records): Winter sports facilities queried via \texttt{sport=skiing} and \texttt{landuse=winter\_sports}. Key attributes: name, website, phone, operator, coordinates. Classification: Common.
+
+    \item \textbf{Restaurants} (3,896 records, filtered from 4,009): Queried via \texttt{amenity=restaurant}. Records without names were excluded. Key attributes: name, cuisine, address, phone, coordinates. Classification: Core.
+
+    \item \textbf{Hotels} (3,393 records, filtered from 3,459): Queried via \texttt{tourism=hotel}. Records without names excluded. Key attributes: name, stars, rooms, beds, phone, email, address, coordinates. Classification: Core.
+
+    \item \textbf{Ski Rental Shops} (16 records): Queried via \texttt{shop=ski\_rental} and \texttt{shop=ski}. Limited data availability on OSM. Key attributes: name, shop type, phone, address, coordinates. Classification: Core.
+\end{enumerate}
+
+\subsection{Consumer Activities}
+
+\subsubsection{Knowledge Layer}
+
+Formal resources from the KGE Catalog (datascientiafoundation.github.io) and Schema.org were considered as existing quality resources. The Schema.org ontology fragments for SkiResort, LodgingBusiness, FoodEstablishment, and Store were selected as the primary knowledge-layer consumer resources, as they provide standardized, reusable class definitions.
+
+\subsubsection{Data Layer}
+
+The Open Data Trentino portal (dati.trentino.it) was considered as a potential formal data source. However, the available datasets did not cover ski-specific attributes (slopes, lifts, passes) in sufficient detail. Therefore, OSM remained the primary data source, with the understanding that its data would need to be cleaned and formalized during the producer process (Phases 2--4).
+
+\subsection{Data Collection Summary}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|r|l|l|}
+\hline
+\textbf{Dataset} & \textbf{Source} & \textbf{Records} & \textbf{Classification} & \textbf{Schema Ref.} \\
+\hline
+Ski Slopes & OSM & 2,792 & Contextual & OSM Piste \\
+Ski Lifts & OSM & 5,677 & Contextual & OSM Aerialway \\
+Ski Resorts & OSM & 295 & Common & schema:SkiResort \\
+Restaurants & OSM & 3,896 & Core & schema:FoodEst. \\
+Hotels & OSM & 3,393 & Core & schema:LodgingBus. \\
+Rental Shops & OSM & 16 & Core & OSM Shop \\
+\hline
+\textbf{Total} & & \textbf{16,069} & & \\
+\hline
+\end{tabular}
+\caption{Data collection summary.}
+\end{table}
+
+\subsection{Report}
+
+We collected over 16,000 records across 6 entity types from OpenStreetMap. \textbf{Strengths}: large, comprehensive datasets for slopes, lifts, restaurants, and hotels, all with geographic coordinates enabling spatial queries. OSM IDs were preserved for reusability. \textbf{Challenges}: ski rental shop data is very limited (16 records); SkiPass and SkiSchool data is not available on OSM; some datasets have sparse attribute coverage (e.g., many hotels lack star ratings). These gaps are addressed in subsequent phases through data cleaning and are documented as open issues.
